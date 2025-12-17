@@ -1,0 +1,1501 @@
+Age,Gender,How would you describe your skin type?,Do you have acne currently?,"If yes, how severe is it?",How many hours of sun exposure do you get daily?,How often do you apply sunscreen?,How often do you wash your face in a day?,How much water do you drink per day?,How often do you eat oily/junk food?,How much sugar do you consume daily?,Do you experience stress frequently?,Do you have a family history of acne?,Do you touch your face frequently?,How many hours of sleep do you get daily?
+20,Female,Oily,Yes,Mild,2-4 hours,Sometimes,Once,1-2 litres,1-2 times a week,Moderate,Rarely,Yes,Often,6-8 hours
+23,Female,Oily,Yes,Moderate,2-4 hours,Sometimes,Twice,2-3 litres,Daily,Moderate,Very often,Yes,Often,4-6 hours
+18,Female,Oily,Yes,Severe,2-4 hours,Daily,More than twice,3+ litres,Daily,Very low,Often,No,Often,6-8 hours
+19,Male,Oily,Yes,Moderate,2-4 hours,Sometimes,Twice,3+ litres,Daily,Moderate,Often,No,Often,6-8 hours
+21,Male,Dry,No,None,Less than 1 hour,Daily,Twice,Less than 1 litre,Daily,Very low,Sometimes,Yes,Sometimes,6-8 hours
+21,Male,Dry,Yes,Severe,2-4 hours,Often,Once,2-3 litres,Rarely,Very low,Very often,No,Often,6-8 hours
+22,Female,Combination,Yes,Moderate,2-4 hours,Often,Once,2-3 litres,1-2 times a week,Very low,Rarely,No,Often,4-6 hours
+25,Female,Dry,Yes,Mild,Less than 1 hour,Often,More than twice,3+ litres,Daily,High,Sometimes,No,Often,4-6 hours
+24,Female,Oily,Yes,Severe,1-2 hours,Sometimes,Once,1-2 litres,Daily,Very low,Sometimes,Yes,Sometimes,6-8 hours
+22,Female,Oily,Yes,Mild,Less than 1 hour,Never,Once,2-3 litres,3-4 times a week,Moderate,Very often,Yes,Often,8+ hours
+18,Female,Oily,Yes,Mild,Less than 1 hour,Daily,Once,1-2 litres,Daily,Very low,Often,Yes,Often,4-6 hours
+18,Female,Oily,Yes,Severe,1-2 hours,Often,Once,3+ litres,1-2 times a week,Very low,Sometimes,No,Rarely,4-6 hours
+22,Male,Combination,Yes,Mild,1-2 hours,Sometimes,Twice,2-3 litres,3-4 times a week,High,Often,Yes,Sometimes,6-8 hours
+18,Male,Dry,Yes,Mild,2-4 hours,Often,More than twice,3+ litres,Daily,Very low,Often,No,Sometimes,4-6 hours
+22,Female,Oily,Yes,Severe,Less than 1 hour,Daily,Once,1-2 litres,Daily,Very low,Rarely,Yes,Often,4-6 hours
+16,Male,Dry,No,None,1-2 hours,Daily,Once,3+ litres,3-4 times a week,High,Rarely,No,Often,4-6 hours
+17,Female,Combination,No,None,1-2 hours,Often,Once,Less than 1 litre,3-4 times a week,Very low,Sometimes,Yes,Rarely,4-6 hours
+16,Male,Oily,Yes,Moderate,2-4 hours,Sometimes,More than twice,1-2 litres,Daily,Moderate,Very often,No,Sometimes,6-8 hours
+18,Female,Normal,Yes,Moderate,2-4 hours,Daily,More than twice,3+ litres,Rarely,Very low,Often,Yes,Often,4-6 hours
+21,Male,Normal,No,None,Less than 1 hour,Sometimes,Once,2-3 litres,Daily,High,Often,No,Sometimes,8+ hours
+16,Male,Oily,Yes,Mild,2-4 hours,Sometimes,Twice,1-2 litres,Daily,Very low,Often,No,Often,4-6 hours
+24,Female,Oily,Yes,Moderate,1-2 hours,Often,Once,3+ litres,3-4 times a week,Very low,Sometimes,Yes,Often,4-6 hours
+16,Female,Oily,Yes,Moderate,2-4 hours,Sometimes,Once,1-2 litres,Daily,Moderate,Often,No,Often,8+ hours
+23,Female,Oily,Yes,Mild,Less than 1 hour,Often,Twice,Less than 1 litre,Daily,Moderate,Very often,No,Often,4-6 hours
+18,Male,Combination,No,None,1-2 hours,Never,Twice,Less than 1 litre,Rarely,Moderate,Sometimes,No,Often,4-6 hours
+16,Female,Combination,Yes,Moderate,Less than 1 hour,Never,Once,3+ litres,Daily,Very low,Often,No,Often,4-6 hours
+19,Female,Oily,Yes,Mild,1-2 hours,Daily,Once,2-3 litres,3-4 times a week,Very low,Sometimes,No,Often,4-6 hours
+25,Female,Combination,Yes,Severe,Less than 1 hour,Daily,Once,Less than 1 litre,Rarely,High,Very often,No,Often,8+ hours
+21,Female,Dry,No,None,2-4 hours,Never,Once,3+ litres,1-2 times a week,Moderate,Sometimes,Yes,Sometimes,6-8 hours
+21,Male,Oily,Yes,Moderate,1-2 hours,Sometimes,Twice,1-2 litres,Daily,Moderate,Very often,Yes,Sometimes,4-6 hours
+16,Female,Oily,Yes,Severe,2-4 hours,Never,More than twice,3+ litres,Daily,Moderate,Sometimes,Yes,Often,8+ hours
+24,Male,Oily,No,None,Less than 1 hour,Sometimes,Once,Less than 1 litre,3-4 times a week,Moderate,Rarely,No,Sometimes,4-6 hours
+20,Female,Oily,Yes,Mild,2-4 hours,Sometimes,More than twice,3+ litres,Daily,Very low,Often,Yes,Rarely,4-6 hours
+20,Female,Combination,Yes,Severe,2-4 hours,Sometimes,More than twice,1-2 litres,Daily,Very low,Often,No,Sometimes,8+ hours
+19,Female,Oily,No,None,1-2 hours,Never,Twice,2-3 litres,Rarely,Moderate,Sometimes,Yes,Rarely,6-8 hours
+23,Male,Oily,Yes,Severe,1-2 hours,Daily,More than twice,2-3 litres,3-4 times a week,Very low,Very often,No,Rarely,8+ hours
+22,Male,Combination,Yes,Moderate,Less than 1 hour,Often,Once,2-3 litres,Daily,Very low,Very often,Yes,Often,4-6 hours
+22,Male,Oily,Yes,Severe,Less than 1 hour,Often,Once,3+ litres,Daily,Moderate,Often,No,Often,4-6 hours
+24,Male,Dry,Yes,Mild,1-2 hours,Daily,Twice,3+ litres,3-4 times a week,Very low,Often,Yes,Often,4-6 hours
+17,Female,Oily,No,None,2-4 hours,Sometimes,More than twice,Less than 1 litre,Daily,Very low,Often,Yes,Often,6-8 hours
+22,Female,Dry,No,None,1-2 hours,Daily,Twice,1-2 litres,Daily,High,Sometimes,Yes,Rarely,8+ hours
+24,Female,Oily,Yes,Mild,2-4 hours,Often,Once,Less than 1 litre,1-2 times a week,Very low,Often,No,Often,8+ hours
+20,Male,Oily,No,None,Less than 1 hour,Never,Twice,1-2 litres,Daily,High,Often,Yes,Rarely,8+ hours
+20,Female,Oily,Yes,Moderate,2-4 hours,Daily,More than twice,1-2 litres,Rarely,Moderate,Very often,No,Often,6-8 hours
+16,Male,Combination,No,None,2-4 hours,Often,Once,Less than 1 litre,1-2 times a week,Moderate,Often,No,Sometimes,6-8 hours
+19,Male,Oily,Yes,Moderate,1-2 hours,Daily,Once,1-2 litres,Daily,Very low,Very often,No,Sometimes,4-6 hours
+16,Female,Oily,No,None,Less than 1 hour,Sometimes,Twice,Less than 1 litre,1-2 times a week,Moderate,Sometimes,Yes,Often,8+ hours
+19,Female,Combination,Yes,Mild,Less than 1 hour,Often,More than twice,2-3 litres,Daily,Very low,Very often,No,Often,4-6 hours
+16,Female,Combination,Yes,Moderate,1-2 hours,Never,Twice,1-2 litres,1-2 times a week,Very low,Very often,Yes,Often,4-6 hours
+21,Female,Oily,Yes,Mild,Less than 1 hour,Daily,Once,2-3 litres,3-4 times a week,Very low,Often,No,Often,4-6 hours
+22,Male,Oily,Yes,Mild,2-4 hours,Daily,Once,1-2 litres,Daily,Moderate,Rarely,No,Sometimes,6-8 hours
+21,Female,Oily,Yes,Mild,Less than 1 hour,Never,Once,3+ litres,1-2 times a week,Very low,Very often,No,Sometimes,4-6 hours
+18,Female,Combination,Yes,Moderate,1-2 hours,Daily,Twice,2-3 litres,Daily,High,Often,No,Sometimes,4-6 hours
+17,Female,Combination,Yes,Mild,1-2 hours,Often,More than twice,Less than 1 litre,Daily,High,Very often,Yes,Often,4-6 hours
+25,Female,Oily,No,None,Less than 1 hour,Sometimes,More than twice,2-3 litres,Rarely,Moderate,Sometimes,Yes,Sometimes,8+ hours
+19,Female,Combination,Yes,Mild,1-2 hours,Daily,Twice,Less than 1 litre,Daily,Moderate,Very often,Yes,Sometimes,4-6 hours
+23,Male,Oily,Yes,Severe,2-4 hours,Never,Once,Less than 1 litre,Daily,Very low,Often,No,Often,4-6 hours
+18,Female,Oily,No,None,Less than 1 hour,Daily,More than twice,Less than 1 litre,Daily,Moderate,Often,Yes,Rarely,8+ hours
+18,Male,Oily,No,None,Less than 1 hour,Never,More than twice,2-3 litres,3-4 times a week,Moderate,Sometimes,No,Often,6-8 hours
+18,Female,Oily,Yes,Moderate,Less than 1 hour,Often,More than twice,2-3 litres,Daily,Very low,Rarely,Yes,Often,6-8 hours
+16,Female,Dry,Yes,Severe,2-4 hours,Often,Once,Less than 1 litre,3-4 times a week,Moderate,Often,No,Sometimes,8+ hours
+23,Female,Combination,Yes,Moderate,Less than 1 hour,Often,Twice,Less than 1 litre,Daily,Moderate,Very often,No,Sometimes,4-6 hours
+22,Male,Oily,Yes,Mild,2-4 hours,Often,Twice,2-3 litres,Daily,High,Sometimes,Yes,Sometimes,4-6 hours
+22,Male,Oily,Yes,Mild,1-2 hours,Sometimes,Once,Less than 1 litre,3-4 times a week,High,Rarely,No,Often,4-6 hours
+18,Male,Oily,Yes,Moderate,Less than 1 hour,Sometimes,Once,1-2 litres,Rarely,High,Very often,No,Often,6-8 hours
+19,Male,Oily,No,None,2-4 hours,Daily,More than twice,Less than 1 litre,1-2 times a week,High,Rarely,Yes,Rarely,4-6 hours
+16,Female,Oily,Yes,Severe,2-4 hours,Never,More than twice,2-3 litres,Daily,High,Sometimes,Yes,Often,4-6 hours
+16,Female,Oily,Yes,Moderate,1-2 hours,Never,Once,2-3 litres,3-4 times a week,Very low,Often,No,Often,8+ hours
+17,Male,Oily,Yes,Mild,1-2 hours,Daily,Twice,Less than 1 litre,Daily,Very low,Often,Yes,Sometimes,8+ hours
+22,Female,Oily,Yes,Moderate,1-2 hours,Sometimes,More than twice,2-3 litres,Daily,Very low,Often,Yes,Often,6-8 hours
+19,Male,Oily,No,None,2-4 hours,Often,More than twice,2-3 litres,Daily,High,Sometimes,Yes,Sometimes,8+ hours
+23,Female,Oily,Yes,Mild,1-2 hours,Often,Once,1-2 litres,Daily,Very low,Sometimes,No,Often,6-8 hours
+24,Male,Oily,Yes,Severe,2-4 hours,Never,More than twice,1-2 litres,3-4 times a week,High,Very often,No,Rarely,6-8 hours
+22,Female,Oily,Yes,Mild,1-2 hours,Sometimes,Once,1-2 litres,3-4 times a week,Moderate,Often,No,Sometimes,4-6 hours
+18,Male,Dry,Yes,Moderate,1-2 hours,Daily,Twice,1-2 litres,3-4 times a week,Very low,Sometimes,Yes,Often,4-6 hours
+18,Male,Oily,Yes,Moderate,1-2 hours,Sometimes,More than twice,Less than 1 litre,Rarely,Moderate,Very often,Yes,Sometimes,4-6 hours
+19,Female,Oily,Yes,Moderate,1-2 hours,Sometimes,Twice,3+ litres,1-2 times a week,Moderate,Often,No,Sometimes,4-6 hours
+23,Male,Oily,Yes,Moderate,2-4 hours,Sometimes,Twice,2-3 litres,Daily,High,Sometimes,No,Often,4-6 hours
+18,Male,Oily,Yes,Severe,Less than 1 hour,Daily,Once,Less than 1 litre,Daily,Very low,Often,No,Often,4-6 hours
+26,Female,Oily,No,None,1-2 hours,Daily,More than twice,Less than 1 litre,Daily,High,Often,No,Often,4-6 hours
+22,Male,Oily,No,None,Less than 1 hour,Sometimes,Twice,3+ litres,3-4 times a week,Very low,Rarely,No,Sometimes,4-6 hours
+21,Female,Combination,Yes,Severe,Less than 1 hour,Sometimes,Twice,2-3 litres,Daily,Moderate,Sometimes,Yes,Often,6-8 hours
+24,Male,Combination,Yes,Mild,Less than 1 hour,Sometimes,More than twice,3+ litres,Daily,High,Very often,No,Sometimes,4-6 hours
+16,Female,Oily,Yes,Severe,Less than 1 hour,Sometimes,Once,Less than 1 litre,3-4 times a week,Moderate,Rarely,No,Often,4-6 hours
+21,Male,Oily,Yes,Mild,2-4 hours,Sometimes,Once,1-2 litres,3-4 times a week,Very low,Rarely,No,Rarely,4-6 hours
+19,Male,Oily,Yes,Moderate,Less than 1 hour,Sometimes,Once,2-3 litres,1-2 times a week,Very low,Sometimes,No,Sometimes,8+ hours
+16,Female,Oily,No,None,2-4 hours,Sometimes,Once,Less than 1 litre,Daily,Very low,Often,Yes,Often,4-6 hours
+16,Male,Oily,Yes,Severe,Less than 1 hour,Often,Twice,Less than 1 litre,Rarely,High,Rarely,No,Sometimes,4-6 hours
+18,Female,Oily,Yes,Mild,1-2 hours,Sometimes,Once,3+ litres,Daily,High,Very often,No,Sometimes,4-6 hours
+16,Male,Oily,Yes,Severe,2-4 hours,Daily,Once,Less than 1 litre,3-4 times a week,High,Very often,No,Sometimes,6-8 hours
+16,Male,Dry,No,None,1-2 hours,Sometimes,Twice,Less than 1 litre,3-4 times a week,Very low,Sometimes,No,Often,6-8 hours
+17,Female,Normal,Yes,Moderate,2-4 hours,Never,Once,Less than 1 litre,1-2 times a week,Moderate,Very often,No,Rarely,4-6 hours
+20,Female,Dry,Yes,Severe,2-4 hours,Never,More than twice,Less than 1 litre,Daily,Moderate,Very often,No,Often,4-6 hours
+18,Male,Dry,Yes,Moderate,Less than 1 hour,Daily,More than twice,1-2 litres,1-2 times a week,Very low,Very often,No,Rarely,4-6 hours
+20,Female,Normal,No,None,Less than 1 hour,Daily,Twice,2-3 litres,Daily,High,Sometimes,No,Sometimes,6-8 hours
+18,Female,Oily,Yes,Mild,1-2 hours,Never,Twice,1-2 litres,3-4 times a week,High,Rarely,No,Often,4-6 hours
+23,Male,Normal,No,None,1-2 hours,Often,Twice,1-2 litres,3-4 times a week,Moderate,Sometimes,No,Sometimes,6-8 hours
+18,Male,Dry,Yes,Severe,1-2 hours,Daily,Twice,2-3 litres,1-2 times a week,High,Very often,No,Rarely,4-6 hours
+18,Male,Normal,No,None,Less than 1 hour,Sometimes,Twice,2-3 litres,1-2 times a week,Moderate,Very often,Yes,Rarely,8+ hours
+24,Female,Oily,No,None,Less than 1 hour,Never,Once,Less than 1 litre,Daily,High,Sometimes,No,Often,8+ hours
+19,Female,Oily,No,None,1-2 hours,Often,Once,1-2 litres,1-2 times a week,Very low,Very often,Yes,Rarely,4-6 hours
+16,Female,Oily,Yes,Moderate,Less than 1 hour,Sometimes,Twice,3+ litres,3-4 times a week,Moderate,Very often,No,Sometimes,4-6 hours
+19,Male,Combination,Yes,Moderate,1-2 hours,Daily,More than twice,3+ litres,3-4 times a week,Moderate,Often,No,Sometimes,8+ hours
+18,Male,Combination,Yes,Mild,Less than 1 hour,Daily,Twice,1-2 litres,Daily,High,Often,Yes,Sometimes,4-6 hours
+25,Female,Oily,Yes,Moderate,1-2 hours,Daily,Twice,3+ litres,1-2 times a week,Moderate,Sometimes,No,Often,4-6 hours
+21,Male,Oily,No,None,Less than 1 hour,Daily,Twice,1-2 litres,3-4 times a week,High,Sometimes,No,Sometimes,6-8 hours
+19,Female,Oily,Yes,Moderate,2-4 hours,Daily,Twice,1-2 litres,3-4 times a week,Moderate,Sometimes,No,Often,6-8 hours
+23,Male,Oily,Yes,Moderate,Less than 1 hour,Often,Once,1-2 litres,3-4 times a week,Very low,Often,No,Often,4-6 hours
+16,Male,Combination,Yes,Severe,1-2 hours,Daily,Twice,2-3 litres,Daily,Moderate,Often,No,Rarely,4-6 hours
+26,Male,Combination,Yes,Severe,2-4 hours,Sometimes,Twice,2-3 litres,Daily,Moderate,Rarely,Yes,Often,4-6 hours
+16,Female,Normal,Yes,Moderate,2-4 hours,Sometimes,Once,2-3 litres,1-2 times a week,Very low,Very often,No,Often,4-6 hours
+20,Male,Oily,No,None,2-4 hours,Often,Twice,2-3 litres,Daily,Moderate,Sometimes,Yes,Often,6-8 hours
+18,Male,Oily,Yes,Moderate,2-4 hours,Never,More than twice,Less than 1 litre,1-2 times a week,Very low,Often,No,Often,4-6 hours
+18,Male,Combination,Yes,Severe,2-4 hours,Never,Twice,Less than 1 litre,1-2 times a week,Very low,Often,Yes,Sometimes,6-8 hours
+20,Male,Oily,Yes,Severe,2-4 hours,Often,More than twice,2-3 litres,Daily,Moderate,Rarely,Yes,Often,4-6 hours
+21,Male,Oily,Yes,Mild,Less than 1 hour,Often,Once,3+ litres,Daily,Moderate,Very often,No,Rarely,4-6 hours
+22,Female,Oily,No,None,Less than 1 hour,Daily,More than twice,3+ litres,1-2 times a week,Very low,Sometimes,No,Sometimes,8+ hours
+20,Female,Combination,Yes,Moderate,1-2 hours,Often,Once,Less than 1 litre,3-4 times a week,Very low,Very often,No,Sometimes,4-6 hours
+22,Male,Combination,Yes,Severe,Less than 1 hour,Often,More than twice,Less than 1 litre,Daily,High,Very often,No,Sometimes,4-6 hours
+19,Male,Oily,Yes,Mild,Less than 1 hour,Never,Once,3+ litres,Daily,Very low,Sometimes,No,Sometimes,6-8 hours
+16,Female,Oily,Yes,Moderate,2-4 hours,Often,More than twice,1-2 litres,Daily,Moderate,Often,No,Sometimes,6-8 hours
+20,Male,Normal,Yes,Mild,2-4 hours,Often,Once,Less than 1 litre,Daily,Moderate,Very often,Yes,Sometimes,4-6 hours
+17,Female,Oily,No,None,1-2 hours,Sometimes,Once,Less than 1 litre,3-4 times a week,Moderate,Sometimes,Yes,Rarely,6-8 hours
+20,Female,Oily,Yes,Moderate,1-2 hours,Often,Twice,Less than 1 litre,Daily,Very low,Sometimes,No,Sometimes,4-6 hours
+23,Female,Normal,Yes,Moderate,Less than 1 hour,Sometimes,More than twice,Less than 1 litre,1-2 times a week,Moderate,Sometimes,No,Often,8+ hours
+19,Male,Dry,No,None,2-4 hours,Never,More than twice,3+ litres,1-2 times a week,Moderate,Sometimes,No,Often,6-8 hours
+18,Male,Oily,Yes,Mild,1-2 hours,Daily,More than twice,2-3 litres,Daily,Very low,Very often,No,Often,4-6 hours
+20,Female,Oily,Yes,Moderate,1-2 hours,Daily,More than twice,Less than 1 litre,1-2 times a week,Moderate,Often,Yes,Often,4-6 hours
+21,Female,Combination,Yes,Moderate,2-4 hours,Daily,Once,3+ litres,3-4 times a week,Moderate,Often,No,Often,4-6 hours
+22,Male,Combination,Yes,Mild,1-2 hours,Often,Twice,3+ litres,3-4 times a week,Moderate,Very often,No,Often,4-6 hours
+17,Female,Normal,Yes,Moderate,2-4 hours,Daily,Twice,Less than 1 litre,3-4 times a week,High,Very often,No,Sometimes,4-6 hours
+23,Female,Oily,Yes,Moderate,2-4 hours,Daily,Once,Less than 1 litre,Rarely,Moderate,Rarely,Yes,Rarely,4-6 hours
+23,Female,Oily,Yes,Mild,2-4 hours,Sometimes,Twice,2-3 litres,Daily,Moderate,Very often,No,Often,4-6 hours
+20,Male,Oily,Yes,Severe,1-2 hours,Daily,Twice,1-2 litres,1-2 times a week,Moderate,Rarely,No,Rarely,4-6 hours
+20,Male,Combination,Yes,Mild,1-2 hours,Never,Once,1-2 litres,Daily,Very low,Often,No,Often,4-6 hours
+20,Male,Oily,Yes,Mild,1-2 hours,Daily,Once,1-2 litres,1-2 times a week,Very low,Sometimes,Yes,Sometimes,4-6 hours
+22,Female,Oily,No,None,Less than 1 hour,Often,Twice,1-2 litres,Daily,High,Sometimes,Yes,Rarely,6-8 hours
+18,Male,Oily,Yes,Moderate,2-4 hours,Often,Once,2-3 litres,3-4 times a week,Very low,Sometimes,Yes,Rarely,4-6 hours
+21,Female,Oily,No,None,Less than 1 hour,Daily,Twice,2-3 litres,3-4 times a week,Moderate,Very often,Yes,Sometimes,4-6 hours
+23,Female,Dry,Yes,Moderate,Less than 1 hour,Sometimes,More than twice,1-2 litres,Daily,Moderate,Often,No,Often,4-6 hours
+17,Female,Oily,Yes,Mild,2-4 hours,Often,Once,3+ litres,1-2 times a week,High,Often,Yes,Sometimes,4-6 hours
+19,Female,Oily,Yes,Severe,Less than 1 hour,Sometimes,Once,Less than 1 litre,Daily,Very low,Rarely,Yes,Rarely,6-8 hours
+22,Female,Combination,No,None,2-4 hours,Often,Twice,3+ litres,1-2 times a week,High,Rarely,No,Often,4-6 hours
+17,Male,Oily,No,None,Less than 1 hour,Daily,Once,3+ litres,3-4 times a week,Very low,Rarely,No,Often,8+ hours
+16,Male,Combination,Yes,Moderate,1-2 hours,Sometimes,Twice,1-2 litres,Daily,High,Sometimes,Yes,Sometimes,4-6 hours
+16,Female,Normal,Yes,Mild,1-2 hours,Never,Once,Less than 1 litre,1-2 times a week,Moderate,Often,No,Often,6-8 hours
+27,Female,Dry,Yes,Severe,2-4 hours,Sometimes,More than twice,Less than 1 litre,Daily,Moderate,Often,Yes,Often,4-6 hours
+21,Female,Oily,Yes,Mild,2-4 hours,Sometimes,Once,3+ litres,3-4 times a week,Very low,Often,Yes,Rarely,6-8 hours
+23,Female,Dry,No,None,1-2 hours,Often,More than twice,3+ litres,1-2 times a week,High,Rarely,Yes,Often,8+ hours
+19,Female,Combination,No,None,2-4 hours,Sometimes,More than twice,2-3 litres,3-4 times a week,High,Often,Yes,Often,6-8 hours
+20,Male,Oily,Yes,Mild,Less than 1 hour,Often,Twice,1-2 litres,1-2 times a week,Very low,Often,No,Sometimes,6-8 hours
+17,Female,Dry,Yes,Moderate,2-4 hours,Often,More than twice,1-2 litres,Daily,Very low,Often,No,Sometimes,8+ hours
+22,Female,Oily,Yes,Moderate,2-4 hours,Often,More than twice,1-2 litres,1-2 times a week,High,Often,No,Rarely,6-8 hours
+23,Female,Oily,Yes,Moderate,2-4 hours,Never,Twice,1-2 litres,1-2 times a week,Moderate,Often,No,Sometimes,8+ hours
+25,Female,Combination,Yes,Moderate,1-2 hours,Sometimes,Twice,2-3 litres,3-4 times a week,High,Very often,Yes,Sometimes,4-6 hours
+25,Male,Oily,No,None,2-4 hours,Daily,More than twice,3+ litres,Daily,Very low,Sometimes,Yes,Sometimes,6-8 hours
+20,Male,Oily,Yes,Severe,1-2 hours,Daily,More than twice,2-3 litres,Daily,High,Often,No,Sometimes,4-6 hours
+21,Male,Dry,Yes,Mild,2-4 hours,Never,Twice,1-2 litres,3-4 times a week,Moderate,Often,Yes,Often,6-8 hours
+21,Female,Oily,Yes,Severe,Less than 1 hour,Daily,Twice,1-2 litres,Rarely,Moderate,Often,No,Often,4-6 hours
+18,Male,Oily,Yes,Mild,Less than 1 hour,Daily,Once,1-2 litres,1-2 times a week,Moderate,Often,Yes,Often,6-8 hours
+18,Female,Oily,Yes,Moderate,1-2 hours,Sometimes,More than twice,Less than 1 litre,Rarely,Very low,Very often,No,Often,4-6 hours
+19,Male,Oily,No,None,2-4 hours,Never,Twice,1-2 litres,1-2 times a week,Moderate,Often,No,Sometimes,4-6 hours
+16,Male,Normal,Yes,Severe,Less than 1 hour,Sometimes,Once,3+ litres,3-4 times a week,High,Often,Yes,Sometimes,4-6 hours
+23,Male,Dry,No,None,2-4 hours,Sometimes,Once,Less than 1 litre,3-4 times a week,Moderate,Often,Yes,Rarely,4-6 hours
+25,Female,Oily,Yes,Moderate,2-4 hours,Daily,Twice,3+ litres,Daily,High,Often,No,Rarely,8+ hours
+16,Female,Oily,Yes,Moderate,2-4 hours,Daily,Once,2-3 litres,Daily,Moderate,Sometimes,Yes,Often,4-6 hours
+19,Female,Oily,No,None,Less than 1 hour,Sometimes,More than twice,1-2 litres,3-4 times a week,High,Rarely,No,Sometimes,6-8 hours
+17,Female,Dry,Yes,Mild,Less than 1 hour,Daily,Once,Less than 1 litre,1-2 times a week,High,Often,No,Often,8+ hours
+22,Male,Oily,Yes,Moderate,1-2 hours,Never,Once,2-3 litres,3-4 times a week,Very low,Rarely,No,Sometimes,4-6 hours
+19,Male,Dry,Yes,Moderate,Less than 1 hour,Often,Once,2-3 litres,1-2 times a week,Very low,Often,No,Rarely,8+ hours
+25,Female,Combination,Yes,Moderate,1-2 hours,Sometimes,Twice,Less than 1 litre,1-2 times a week,High,Very often,Yes,Often,4-6 hours
+20,Male,Dry,No,None,Less than 1 hour,Never,Twice,1-2 litres,3-4 times a week,High,Sometimes,No,Often,6-8 hours
+17,Male,Oily,Yes,Severe,Less than 1 hour,Often,Twice,Less than 1 litre,Daily,Very low,Very often,No,Sometimes,4-6 hours
+21,Male,Dry,Yes,Mild,2-4 hours,Sometimes,Once,3+ litres,Daily,Very low,Often,No,Often,6-8 hours
+23,Female,Oily,Yes,Mild,Less than 1 hour,Often,Once,2-3 litres,3-4 times a week,Very low,Sometimes,No,Often,4-6 hours
+16,Male,Combination,Yes,Mild,1-2 hours,Often,More than twice,1-2 litres,Daily,High,Rarely,Yes,Often,4-6 hours
+20,Male,Oily,Yes,Mild,Less than 1 hour,Often,Twice,2-3 litres,1-2 times a week,Very low,Very often,Yes,Often,8+ hours
+20,Female,Dry,Yes,Mild,Less than 1 hour,Daily,Once,3+ litres,1-2 times a week,Very low,Often,No,Sometimes,4-6 hours
+16,Female,Oily,Yes,Severe,2-4 hours,Often,More than twice,3+ litres,1-2 times a week,Very low,Very often,No,Often,6-8 hours
+16,Male,Oily,Yes,Mild,2-4 hours,Daily,Once,Less than 1 litre,Daily,Very low,Often,No,Sometimes,6-8 hours
+19,Male,Oily,Yes,Mild,Less than 1 hour,Often,Twice,3+ litres,Daily,Very low,Rarely,Yes,Often,8+ hours
+22,Female,Dry,Yes,Mild,Less than 1 hour,Often,Twice,3+ litres,1-2 times a week,Moderate,Often,Yes,Sometimes,6-8 hours
+22,Male,Oily,Yes,Mild,1-2 hours,Never,Once,Less than 1 litre,Daily,Very low,Rarely,No,Rarely,4-6 hours
+20,Female,Oily,Yes,Mild,2-4 hours,Daily,Once,1-2 litres,Daily,High,Sometimes,No,Sometimes,4-6 hours
+19,Male,Oily,Yes,Moderate,2-4 hours,Never,More than twice,Less than 1 litre,Daily,High,Often,Yes,Often,8+ hours
+17,Male,Oily,Yes,Moderate,Less than 1 hour,Daily,Once,Less than 1 litre,Daily,Moderate,Rarely,No,Sometimes,4-6 hours
+17,Female,Dry,Yes,Moderate,Less than 1 hour,Often,Twice,Less than 1 litre,3-4 times a week,High,Very often,No,Often,4-6 hours
+21,Female,Oily,Yes,Moderate,1-2 hours,Often,More than twice,Less than 1 litre,3-4 times a week,Moderate,Rarely,No,Sometimes,4-6 hours
+21,Female,Oily,Yes,Moderate,2-4 hours,Often,Once,2-3 litres,Daily,Very low,Very often,No,Sometimes,4-6 hours
+22,Male,Dry,Yes,Mild,1-2 hours,Daily,More than twice,Less than 1 litre,Daily,High,Sometimes,No,Rarely,4-6 hours
+19,Female,Dry,Yes,Moderate,2-4 hours,Sometimes,Once,2-3 litres,Daily,Very low,Often,No,Often,4-6 hours
+18,Female,Oily,Yes,Mild,2-4 hours,Never,Once,1-2 litres,Daily,Very low,Very often,No,Sometimes,6-8 hours
+16,Female,Dry,No,None,2-4 hours,Sometimes,Twice,2-3 litres,3-4 times a week,High,Often,Yes,Often,4-6 hours
+20,Male,Oily,Yes,Severe,2-4 hours,Often,Twice,3+ litres,3-4 times a week,Moderate,Sometimes,No,Rarely,4-6 hours
+20,Female,Normal,Yes,Moderate,Less than 1 hour,Sometimes,Once,2-3 litres,Rarely,High,Often,No,Often,4-6 hours
+16,Male,Oily,Yes,Severe,2-4 hours,Never,More than twice,3+ litres,Daily,Very low,Often,No,Often,4-6 hours
+25,Male,Combination,No,None,2-4 hours,Never,Once,Less than 1 litre,3-4 times a week,Very low,Often,No,Rarely,8+ hours
+23,Male,Oily,No,None,1-2 hours,Often,More than twice,3+ litres,Rarely,Very low,Rarely,No,Sometimes,6-8 hours
+23,Male,Oily,No,None,2-4 hours,Sometimes,Twice,2-3 litres,Rarely,Very low,Rarely,No,Often,4-6 hours
+19,Male,Oily,No,None,1-2 hours,Daily,More than twice,2-3 litres,Rarely,High,Sometimes,No,Sometimes,4-6 hours
+17,Male,Dry,Yes,Mild,2-4 hours,Never,Once,2-3 litres,Rarely,Moderate,Often,Yes,Often,4-6 hours
+16,Female,Combination,No,None,1-2 hours,Never,Twice,Less than 1 litre,Rarely,High,Sometimes,Yes,Rarely,4-6 hours
+22,Male,Normal,Yes,Mild,2-4 hours,Never,Once,3+ litres,Rarely,Very low,Very often,No,Rarely,6-8 hours
+21,Female,Dry,No,None,1-2 hours,Often,Twice,2-3 litres,1-2 times a week,High,Rarely,No,Often,4-6 hours
+19,Female,Combination,Yes,Moderate,1-2 hours,Sometimes,Once,3+ litres,3-4 times a week,High,Often,Yes,Often,4-6 hours
+16,Male,Dry,Yes,Moderate,Less than 1 hour,Never,Once,1-2 litres,Daily,Very low,Often,Yes,Often,4-6 hours
+20,Female,Oily,Yes,Moderate,1-2 hours,Sometimes,Twice,3+ litres,1-2 times a week,Moderate,Often,No,Sometimes,4-6 hours
+23,Female,Dry,Yes,Moderate,1-2 hours,Sometimes,Twice,2-3 litres,3-4 times a week,High,Often,Yes,Sometimes,4-6 hours
+17,Female,Oily,Yes,Severe,Less than 1 hour,Daily,Once,3+ litres,Daily,Very low,Very often,No,Sometimes,6-8 hours
+27,Male,Dry,No,None,Less than 1 hour,Often,Once,1-2 litres,3-4 times a week,High,Very often,Yes,Sometimes,8+ hours
+22,Male,Combination,Yes,Mild,2-4 hours,Never,More than twice,Less than 1 litre,Daily,Moderate,Often,Yes,Sometimes,6-8 hours
+23,Male,Oily,Yes,Severe,2-4 hours,Daily,Twice,3+ litres,Rarely,Moderate,Sometimes,No,Often,4-6 hours
+21,Female,Oily,Yes,Mild,Less than 1 hour,Daily,Once,2-3 litres,Daily,Very low,Rarely,Yes,Often,6-8 hours
+21,Female,Oily,Yes,Moderate,1-2 hours,Never,Once,3+ litres,Daily,High,Rarely,No,Rarely,6-8 hours
+19,Male,Oily,Yes,Mild,2-4 hours,Often,Twice,Less than 1 litre,3-4 times a week,Moderate,Very often,Yes,Rarely,4-6 hours
+17,Male,Combination,Yes,Mild,1-2 hours,Daily,More than twice,1-2 litres,Daily,Very low,Rarely,Yes,Sometimes,4-6 hours
+21,Female,Oily,Yes,Moderate,2-4 hours,Never,Once,2-3 litres,Daily,High,Often,No,Often,4-6 hours
+16,Male,Oily,Yes,Severe,Less than 1 hour,Never,Twice,1-2 litres,3-4 times a week,Very low,Sometimes,No,Often,4-6 hours
+21,Female,Oily,No,None,1-2 hours,Never,Once,2-3 litres,Rarely,Moderate,Very often,Yes,Sometimes,8+ hours
+20,Female,Oily,No,None,2-4 hours,Often,More than twice,2-3 litres,1-2 times a week,Very low,Sometimes,Yes,Often,6-8 hours
+16,Female,Dry,Yes,Mild,1-2 hours,Often,Twice,2-3 litres,3-4 times a week,Very low,Often,No,Sometimes,8+ hours
+19,Male,Normal,No,None,1-2 hours,Often,Twice,1-2 litres,Rarely,Very low,Sometimes,No,Sometimes,6-8 hours
+17,Female,Dry,No,None,2-4 hours,Daily,More than twice,1-2 litres,Daily,Moderate,Sometimes,No,Sometimes,8+ hours
+20,Female,Oily,No,None,2-4 hours,Never,More than twice,Less than 1 litre,3-4 times a week,Moderate,Often,No,Sometimes,4-6 hours
+16,Male,Oily,No,None,2-4 hours,Never,More than twice,3+ litres,Rarely,Moderate,Rarely,No,Rarely,4-6 hours
+17,Female,Oily,Yes,Moderate,1-2 hours,Daily,Twice,2-3 litres,Daily,High,Very often,Yes,Rarely,4-6 hours
+19,Male,Oily,Yes,Severe,Less than 1 hour,Often,Once,2-3 litres,1-2 times a week,Very low,Often,Yes,Rarely,4-6 hours
+21,Female,Oily,Yes,Moderate,Less than 1 hour,Sometimes,Once,1-2 litres,Daily,Moderate,Often,No,Rarely,6-8 hours
+16,Male,Oily,Yes,Severe,Less than 1 hour,Often,Twice,2-3 litres,Daily,High,Often,Yes,Often,4-6 hours
+25,Female,Oily,No,None,2-4 hours,Sometimes,Once,Less than 1 litre,1-2 times a week,Very low,Rarely,Yes,Sometimes,4-6 hours
+18,Female,Oily,Yes,Moderate,2-4 hours,Sometimes,Once,Less than 1 litre,3-4 times a week,High,Very often,Yes,Often,4-6 hours
+23,Female,Oily,Yes,Mild,Less than 1 hour,Never,Twice,3+ litres,Daily,High,Rarely,Yes,Sometimes,4-6 hours
+16,Male,Oily,Yes,Moderate,2-4 hours,Sometimes,Twice,1-2 litres,1-2 times a week,Moderate,Often,No,Often,4-6 hours
+25,Female,Oily,Yes,Mild,Less than 1 hour,Sometimes,Once,3+ litres,Daily,Very low,Often,No,Rarely,4-6 hours
+16,Female,Oily,Yes,Moderate,2-4 hours,Never,More than twice,Less than 1 litre,Daily,Very low,Sometimes,Yes,Sometimes,4-6 hours
+19,Male,Oily,Yes,Moderate,1-2 hours,Never,More than twice,2-3 litres,Daily,Moderate,Often,No,Rarely,8+ hours
+21,Female,Dry,Yes,Severe,2-4 hours,Never,More than twice,3+ litres,1-2 times a week,Very low,Often,Yes,Often,4-6 hours
+22,Female,Oily,Yes,Mild,1-2 hours,Never,Twice,1-2 litres,Daily,Very low,Often,Yes,Often,8+ hours
+16,Female,Oily,Yes,Mild,1-2 hours,Often,More than twice,3+ litres,1-2 times a week,High,Often,No,Sometimes,4-6 hours
+19,Female,Dry,No,None,2-4 hours,Sometimes,More than twice,2-3 litres,3-4 times a week,Moderate,Sometimes,No,Rarely,4-6 hours
+23,Male,Dry,Yes,Mild,Less than 1 hour,Never,Twice,Less than 1 litre,3-4 times a week,Moderate,Very often,Yes,Sometimes,4-6 hours
+16,Male,Oily,Yes,Mild,Less than 1 hour,Daily,Twice,2-3 litres,Daily,High,Very often,Yes,Often,6-8 hours
+21,Female,Combination,No,None,1-2 hours,Sometimes,Once,3+ litres,3-4 times a week,Moderate,Sometimes,No,Often,8+ hours
+19,Male,Oily,Yes,Moderate,1-2 hours,Daily,Twice,1-2 litres,Daily,Moderate,Often,Yes,Often,4-6 hours
+20,Male,Oily,Yes,Moderate,1-2 hours,Sometimes,More than twice,1-2 litres,Rarely,High,Very often,No,Often,4-6 hours
+17,Male,Oily,Yes,Mild,1-2 hours,Never,Twice,Less than 1 litre,3-4 times a week,High,Sometimes,Yes,Often,4-6 hours
+21,Male,Dry,Yes,Moderate,2-4 hours,Never,Twice,3+ litres,1-2 times a week,Very low,Very often,No,Often,6-8 hours
+19,Male,Oily,Yes,Mild,Less than 1 hour,Often,Once,3+ litres,Rarely,High,Sometimes,Yes,Often,4-6 hours
+18,Male,Oily,Yes,Mild,Less than 1 hour,Often,More than twice,3+ litres,Daily,High,Sometimes,Yes,Sometimes,6-8 hours
+20,Male,Oily,Yes,Mild,2-4 hours,Daily,Twice,1-2 litres,Daily,High,Very often,No,Often,8+ hours
+22,Female,Dry,No,None,2-4 hours,Sometimes,Twice,Less than 1 litre,Rarely,Very low,Sometimes,Yes,Often,4-6 hours
+22,Female,Combination,Yes,Moderate,Less than 1 hour,Sometimes,More than twice,2-3 litres,1-2 times a week,Moderate,Often,No,Rarely,8+ hours
+17,Female,Oily,Yes,Moderate,2-4 hours,Never,More than twice,2-3 litres,Rarely,Moderate,Sometimes,Yes,Rarely,4-6 hours
+20,Male,Oily,Yes,Moderate,Less than 1 hour,Often,More than twice,2-3 litres,Daily,Very low,Rarely,Yes,Sometimes,4-6 hours
+18,Male,Dry,Yes,Severe,Less than 1 hour,Daily,Twice,1-2 litres,3-4 times a week,Very low,Often,No,Sometimes,4-6 hours
+21,Female,Dry,Yes,Mild,Less than 1 hour,Sometimes,More than twice,Less than 1 litre,Daily,High,Rarely,No,Sometimes,4-6 hours
+16,Male,Oily,Yes,Mild,Less than 1 hour,Sometimes,Once,1-2 litres,Daily,Moderate,Very often,Yes,Often,4-6 hours
+18,Male,Oily,Yes,Moderate,1-2 hours,Never,Twice,3+ litres,3-4 times a week,High,Often,Yes,Rarely,6-8 hours
+16,Male,Oily,Yes,Moderate,2-4 hours,Sometimes,More than twice,1-2 litres,Daily,Very low,Often,Yes,Rarely,4-6 hours
+16,Male,Oily,Yes,Moderate,Less than 1 hour,Often,Twice,Less than 1 litre,3-4 times a week,High,Often,Yes,Rarely,4-6 hours
+21,Male,Combination,No,None,2-4 hours,Never,Once,2-3 litres,1-2 times a week,Moderate,Sometimes,Yes,Sometimes,8+ hours
+22,Male,Oily,No,None,2-4 hours,Sometimes,Once,2-3 litres,3-4 times a week,Moderate,Sometimes,No,Rarely,6-8 hours
+17,Female,Dry,Yes,Mild,1-2 hours,Sometimes,More than twice,Less than 1 litre,3-4 times a week,High,Often,Yes,Often,4-6 hours
+17,Male,Combination,No,None,1-2 hours,Never,More than twice,2-3 litres,Daily,High,Very often,No,Often,6-8 hours
+19,Female,Oily,Yes,Moderate,2-4 hours,Daily,Twice,Less than 1 litre,Daily,High,Very often,Yes,Sometimes,4-6 hours
+26,Male,Oily,Yes,Moderate,Less than 1 hour,Often,Once,2-3 litres,3-4 times a week,High,Often,No,Often,4-6 hours
+20,Female,Oily,Yes,Moderate,1-2 hours,Daily,Twice,Less than 1 litre,Daily,Very low,Often,No,Sometimes,4-6 hours
+23,Male,Oily,Yes,Moderate,2-4 hours,Daily,Once,1-2 litres,Daily,Moderate,Often,Yes,Rarely,6-8 hours
+17,Female,Oily,Yes,Moderate,Less than 1 hour,Daily,Once,1-2 litres,Rarely,Moderate,Often,Yes,Sometimes,4-6 hours
+22,Female,Oily,Yes,Mild,1-2 hours,Never,Once,3+ litres,3-4 times a week,Very low,Often,No,Sometimes,6-8 hours
+18,Female,Oily,No,None,2-4 hours,Daily,More than twice,Less than 1 litre,1-2 times a week,High,Often,No,Sometimes,6-8 hours
+24,Male,Dry,Yes,Severe,Less than 1 hour,Often,More than twice,3+ litres,Daily,Very low,Sometimes,No,Often,6-8 hours
+21,Male,Normal,Yes,Mild,Less than 1 hour,Often,Twice,1-2 litres,Daily,High,Very often,No,Often,4-6 hours
+24,Female,Combination,No,None,Less than 1 hour,Never,Once,1-2 litres,Daily,High,Sometimes,No,Sometimes,6-8 hours
+21,Male,Normal,Yes,Moderate,Less than 1 hour,Often,Once,3+ litres,3-4 times a week,Moderate,Sometimes,No,Often,6-8 hours
+16,Male,Dry,No,None,1-2 hours,Sometimes,More than twice,2-3 litres,3-4 times a week,Very low,Sometimes,No,Often,4-6 hours
+18,Female,Oily,No,None,1-2 hours,Sometimes,Twice,2-3 litres,Rarely,Very low,Sometimes,No,Sometimes,4-6 hours
+23,Female,Oily,No,None,1-2 hours,Sometimes,More than twice,3+ litres,1-2 times a week,Moderate,Very often,No,Sometimes,6-8 hours
+17,Female,Oily,Yes,Mild,2-4 hours,Daily,Twice,1-2 litres,Daily,High,Often,Yes,Sometimes,8+ hours
+19,Male,Dry,No,None,2-4 hours,Daily,Once,1-2 litres,Daily,Very low,Rarely,No,Often,6-8 hours
+21,Female,Normal,Yes,Severe,Less than 1 hour,Often,Twice,2-3 litres,1-2 times a week,Moderate,Often,Yes,Often,4-6 hours
+20,Male,Oily,Yes,Mild,Less than 1 hour,Sometimes,Once,3+ litres,3-4 times a week,High,Very often,No,Often,4-6 hours
+18,Female,Oily,Yes,Moderate,1-2 hours,Often,More than twice,3+ litres,Daily,High,Often,Yes,Often,4-6 hours
+20,Female,Dry,No,None,1-2 hours,Daily,More than twice,3+ litres,3-4 times a week,Moderate,Sometimes,No,Often,4-6 hours
+21,Female,Oily,Yes,Mild,Less than 1 hour,Often,Twice,2-3 litres,Daily,High,Rarely,No,Often,6-8 hours
+16,Male,Dry,Yes,Moderate,1-2 hours,Often,More than twice,Less than 1 litre,1-2 times a week,High,Rarely,No,Often,4-6 hours
+20,Male,Oily,No,None,Less than 1 hour,Daily,Twice,1-2 litres,3-4 times a week,High,Sometimes,No,Rarely,4-6 hours
+24,Male,Normal,No,None,1-2 hours,Often,More than twice,Less than 1 litre,1-2 times a week,Moderate,Rarely,No,Often,4-6 hours
+17,Male,Oily,Yes,Moderate,2-4 hours,Often,Once,2-3 litres,Rarely,Very low,Rarely,Yes,Often,6-8 hours
+19,Male,Combination,Yes,Mild,1-2 hours,Sometimes,Once,3+ litres,Daily,Very low,Very often,Yes,Often,8+ hours
+22,Male,Oily,Yes,Severe,2-4 hours,Never,More than twice,Less than 1 litre,Daily,Very low,Often,No,Often,4-6 hours
+20,Female,Combination,No,None,Less than 1 hour,Sometimes,Twice,1-2 litres,1-2 times a week,Very low,Sometimes,No,Sometimes,4-6 hours
+20,Female,Combination,Yes,Moderate,Less than 1 hour,Never,Once,1-2 litres,3-4 times a week,High,Very often,Yes,Sometimes,4-6 hours
+17,Female,Oily,Yes,Moderate,2-4 hours,Sometimes,Once,2-3 litres,Daily,Moderate,Often,No,Sometimes,4-6 hours
+18,Male,Combination,Yes,Severe,Less than 1 hour,Daily,More than twice,1-2 litres,1-2 times a week,Very low,Very often,Yes,Sometimes,4-6 hours
+19,Female,Oily,Yes,Moderate,2-4 hours,Daily,Twice,3+ litres,Daily,Moderate,Often,No,Often,4-6 hours
+16,Female,Oily,Yes,Moderate,1-2 hours,Often,Twice,3+ litres,Daily,High,Often,Yes,Often,8+ hours
+21,Female,Oily,No,None,1-2 hours,Daily,Twice,3+ litres,Daily,High,Sometimes,Yes,Sometimes,8+ hours
+26,Female,Oily,Yes,Mild,1-2 hours,Often,More than twice,3+ litres,Daily,Very low,Often,Yes,Often,8+ hours
+18,Male,Dry,No,None,2-4 hours,Sometimes,More than twice,3+ litres,3-4 times a week,High,Sometimes,Yes,Often,8+ hours
+18,Male,Oily,No,None,Less than 1 hour,Daily,Twice,Less than 1 litre,1-2 times a week,High,Often,No,Sometimes,8+ hours
+21,Female,Oily,Yes,Mild,2-4 hours,Often,More than twice,1-2 litres,3-4 times a week,Very low,Sometimes,No,Often,6-8 hours
+19,Male,Oily,Yes,Severe,Less than 1 hour,Often,Once,3+ litres,1-2 times a week,High,Sometimes,No,Often,4-6 hours
+20,Female,Oily,Yes,Moderate,2-4 hours,Sometimes,Once,2-3 litres,3-4 times a week,High,Very often,No,Often,6-8 hours
+16,Male,Oily,Yes,Mild,2-4 hours,Never,Once,Less than 1 litre,1-2 times a week,High,Often,No,Sometimes,4-6 hours
+20,Female,Dry,Yes,Mild,1-2 hours,Never,Once,1-2 litres,Daily,Very low,Sometimes,No,Sometimes,8+ hours
+17,Female,Dry,Yes,Moderate,1-2 hours,Never,Twice,1-2 litres,Daily,Very low,Often,No,Sometimes,4-6 hours
+18,Female,Combination,No,None,Less than 1 hour,Never,Twice,1-2 litres,Daily,Very low,Rarely,Yes,Sometimes,4-6 hours
+21,Female,Oily,Yes,Mild,Less than 1 hour,Never,Once,2-3 litres,1-2 times a week,High,Often,No,Sometimes,4-6 hours
+20,Female,Oily,Yes,Mild,2-4 hours,Daily,Twice,3+ litres,3-4 times a week,Very low,Sometimes,Yes,Often,4-6 hours
+16,Male,Oily,Yes,Mild,Less than 1 hour,Daily,More than twice,1-2 litres,Daily,Moderate,Sometimes,Yes,Rarely,4-6 hours
+18,Female,Oily,Yes,Mild,1-2 hours,Never,Twice,3+ litres,Daily,Very low,Sometimes,No,Rarely,4-6 hours
+19,Male,Oily,Yes,Mild,2-4 hours,Never,Twice,3+ litres,3-4 times a week,Moderate,Sometimes,No,Often,4-6 hours
+21,Female,Oily,No,None,2-4 hours,Sometimes,Once,1-2 litres,3-4 times a week,Very low,Often,Yes,Sometimes,4-6 hours
+20,Male,Oily,Yes,Moderate,Less than 1 hour,Sometimes,Twice,1-2 litres,1-2 times a week,Very low,Very often,No,Often,4-6 hours
+16,Male,Oily,Yes,Mild,Less than 1 hour,Sometimes,Once,2-3 litres,Daily,High,Sometimes,Yes,Often,4-6 hours
+21,Female,Oily,Yes,Mild,1-2 hours,Never,More than twice,2-3 litres,Daily,High,Often,Yes,Often,8+ hours
+22,Male,Oily,Yes,Mild,2-4 hours,Often,More than twice,1-2 litres,Rarely,High,Often,Yes,Often,4-6 hours
+19,Male,Oily,Yes,Severe,2-4 hours,Daily,Once,1-2 litres,1-2 times a week,High,Sometimes,Yes,Often,4-6 hours
+17,Male,Combination,Yes,Moderate,Less than 1 hour,Sometimes,Once,3+ litres,3-4 times a week,Very low,Very often,No,Often,4-6 hours
+19,Male,Oily,Yes,Mild,1-2 hours,Never,More than twice,1-2 litres,Daily,Moderate,Very often,Yes,Often,4-6 hours
+18,Male,Dry,Yes,Moderate,Less than 1 hour,Daily,Twice,1-2 litres,Daily,Very low,Rarely,Yes,Often,4-6 hours
+22,Male,Combination,No,None,2-4 hours,Often,More than twice,Less than 1 litre,3-4 times a week,Moderate,Often,No,Often,4-6 hours
+25,Female,Oily,Yes,Moderate,Less than 1 hour,Often,More than twice,Less than 1 litre,3-4 times a week,High,Sometimes,Yes,Sometimes,4-6 hours
+21,Female,Dry,Yes,Moderate,2-4 hours,Sometimes,More than twice,3+ litres,1-2 times a week,Moderate,Very often,No,Often,8+ hours
+18,Female,Dry,No,None,1-2 hours,Sometimes,Twice,3+ litres,3-4 times a week,Very low,Often,Yes,Sometimes,6-8 hours
+18,Female,Oily,Yes,Moderate,2-4 hours,Often,Once,3+ litres,Daily,Moderate,Rarely,Yes,Sometimes,6-8 hours
+19,Male,Oily,Yes,Severe,1-2 hours,Never,More than twice,3+ litres,Daily,Moderate,Often,Yes,Sometimes,4-6 hours
+17,Female,Combination,No,None,Less than 1 hour,Sometimes,Twice,1-2 litres,Daily,Moderate,Rarely,No,Sometimes,8+ hours
+20,Male,Oily,Yes,Moderate,Less than 1 hour,Daily,Twice,1-2 litres,Daily,High,Sometimes,Yes,Sometimes,4-6 hours
+21,Male,Combination,Yes,Mild,1-2 hours,Never,More than twice,1-2 litres,Rarely,High,Very often,Yes,Often,4-6 hours
+20,Male,Dry,No,None,1-2 hours,Often,More than twice,Less than 1 litre,3-4 times a week,Very low,Rarely,No,Often,4-6 hours
+21,Female,Oily,No,None,2-4 hours,Never,More than twice,1-2 litres,Daily,Moderate,Often,No,Rarely,4-6 hours
+28,Female,Oily,Yes,Severe,2-4 hours,Never,Twice,1-2 litres,Daily,High,Very often,No,Often,4-6 hours
+17,Female,Oily,Yes,Moderate,2-4 hours,Never,More than twice,3+ litres,3-4 times a week,Very low,Often,Yes,Often,4-6 hours
+24,Male,Dry,No,None,1-2 hours,Daily,More than twice,Less than 1 litre,Rarely,Very low,Often,No,Sometimes,4-6 hours
+20,Male,Oily,Yes,Moderate,2-4 hours,Sometimes,More than twice,1-2 litres,Rarely,Moderate,Very often,No,Often,4-6 hours
+17,Female,Oily,Yes,Severe,2-4 hours,Daily,Twice,2-3 litres,3-4 times a week,High,Often,No,Often,4-6 hours
+18,Male,Oily,Yes,Mild,Less than 1 hour,Sometimes,Twice,Less than 1 litre,1-2 times a week,Moderate,Very often,No,Often,6-8 hours
+19,Female,Dry,No,None,2-4 hours,Often,Once,1-2 litres,Daily,Very low,Sometimes,Yes,Sometimes,4-6 hours
+17,Female,Oily,Yes,Mild,Less than 1 hour,Often,Twice,1-2 litres,Daily,High,Often,No,Rarely,6-8 hours
+19,Male,Oily,Yes,Severe,1-2 hours,Sometimes,Once,2-3 litres,Daily,Very low,Sometimes,Yes,Rarely,6-8 hours
+17,Female,Dry,Yes,Moderate,Less than 1 hour,Daily,More than twice,3+ litres,Daily,Moderate,Often,No,Often,6-8 hours
+19,Male,Combination,Yes,Severe,Less than 1 hour,Never,More than twice,3+ litres,Daily,Moderate,Often,No,Rarely,4-6 hours
+20,Male,Oily,Yes,Moderate,2-4 hours,Sometimes,Twice,2-3 litres,Daily,Moderate,Sometimes,Yes,Sometimes,4-6 hours
+19,Male,Combination,No,None,1-2 hours,Never,Twice,Less than 1 litre,3-4 times a week,Moderate,Very often,No,Sometimes,4-6 hours
+19,Female,Oily,Yes,Moderate,1-2 hours,Never,Twice,Less than 1 litre,Daily,High,Rarely,Yes,Sometimes,4-6 hours
+19,Female,Oily,Yes,Severe,Less than 1 hour,Often,Once,Less than 1 litre,Daily,High,Very often,Yes,Often,4-6 hours
+21,Male,Dry,Yes,Severe,2-4 hours,Sometimes,More than twice,2-3 litres,3-4 times a week,Moderate,Very often,Yes,Often,4-6 hours
+21,Male,Oily,Yes,Mild,Less than 1 hour,Often,More than twice,3+ litres,Daily,High,Very often,Yes,Often,4-6 hours
+18,Male,Oily,No,None,Less than 1 hour,Often,More than twice,2-3 litres,Daily,Moderate,Very often,No,Sometimes,6-8 hours
+17,Female,Dry,Yes,Moderate,Less than 1 hour,Never,Twice,1-2 litres,3-4 times a week,Moderate,Often,Yes,Sometimes,4-6 hours
+23,Male,Oily,Yes,Moderate,2-4 hours,Never,Once,3+ litres,3-4 times a week,Moderate,Rarely,No,Often,8+ hours
+24,Female,Oily,Yes,Mild,1-2 hours,Sometimes,More than twice,1-2 litres,3-4 times a week,Moderate,Rarely,No,Often,8+ hours
+23,Female,Oily,Yes,Severe,1-2 hours,Never,Once,Less than 1 litre,1-2 times a week,High,Often,No,Sometimes,4-6 hours
+16,Female,Combination,Yes,Mild,2-4 hours,Daily,Once,1-2 litres,Daily,Very low,Very often,No,Often,6-8 hours
+20,Male,Dry,No,None,Less than 1 hour,Sometimes,More than twice,2-3 litres,3-4 times a week,Moderate,Sometimes,No,Sometimes,6-8 hours
+18,Female,Dry,Yes,Moderate,Less than 1 hour,Often,Twice,2-3 litres,Daily,High,Rarely,Yes,Sometimes,4-6 hours
+20,Female,Oily,Yes,Mild,2-4 hours,Never,Once,Less than 1 litre,3-4 times a week,Very low,Often,No,Sometimes,4-6 hours
+24,Male,Combination,Yes,Moderate,1-2 hours,Never,Twice,1-2 litres,3-4 times a week,Very low,Sometimes,No,Often,4-6 hours
+20,Male,Oily,Yes,Moderate,Less than 1 hour,Daily,Once,2-3 litres,Daily,Moderate,Sometimes,No,Rarely,6-8 hours
+17,Male,Oily,Yes,Severe,1-2 hours,Often,Once,Less than 1 litre,Daily,Moderate,Often,Yes,Often,6-8 hours
+17,Male,Oily,Yes,Moderate,2-4 hours,Sometimes,Twice,1-2 litres,Daily,Very low,Very often,Yes,Sometimes,4-6 hours
+20,Female,Oily,Yes,Moderate,Less than 1 hour,Daily,More than twice,2-3 litres,1-2 times a week,Very low,Often,No,Sometimes,4-6 hours
+17,Female,Oily,No,None,2-4 hours,Daily,More than twice,1-2 litres,3-4 times a week,Very low,Often,Yes,Rarely,6-8 hours
+23,Male,Oily,Yes,Severe,2-4 hours,Sometimes,Twice,3+ litres,Daily,High,Rarely,No,Often,4-6 hours
+18,Male,Dry,Yes,Mild,1-2 hours,Never,Once,1-2 litres,Daily,High,Very often,No,Rarely,4-6 hours
+19,Female,Combination,Yes,Mild,2-4 hours,Sometimes,More than twice,1-2 litres,Daily,Very low,Often,No,Often,4-6 hours
+18,Male,Combination,No,None,1-2 hours,Daily,More than twice,3+ litres,1-2 times a week,Moderate,Rarely,Yes,Rarely,4-6 hours
+19,Male,Dry,No,None,1-2 hours,Daily,Twice,2-3 litres,Daily,Moderate,Rarely,No,Rarely,8+ hours
+19,Female,Oily,Yes,Severe,2-4 hours,Sometimes,More than twice,3+ litres,3-4 times a week,High,Often,No,Often,4-6 hours
+21,Male,Oily,Yes,Mild,2-4 hours,Sometimes,Once,3+ litres,Daily,High,Rarely,No,Sometimes,6-8 hours
+20,Male,Oily,Yes,Mild,Less than 1 hour,Often,Once,3+ litres,Daily,High,Sometimes,No,Rarely,4-6 hours
+25,Female,Oily,No,None,2-4 hours,Sometimes,Twice,1-2 litres,3-4 times a week,Moderate,Sometimes,Yes,Often,6-8 hours
+19,Female,Oily,Yes,Severe,1-2 hours,Often,Twice,Less than 1 litre,1-2 times a week,Very low,Often,No,Sometimes,4-6 hours
+20,Female,Oily,No,None,1-2 hours,Never,Once,1-2 litres,3-4 times a week,Very low,Rarely,No,Often,4-6 hours
+16,Female,Oily,Yes,Moderate,Less than 1 hour,Often,Twice,1-2 litres,1-2 times a week,Moderate,Often,Yes,Rarely,4-6 hours
+19,Female,Dry,Yes,Severe,Less than 1 hour,Often,Twice,3+ litres,Daily,Moderate,Often,No,Sometimes,4-6 hours
+16,Male,Oily,Yes,Mild,2-4 hours,Daily,Once,3+ litres,Daily,Moderate,Very often,Yes,Rarely,6-8 hours
+20,Female,Oily,Yes,Mild,1-2 hours,Never,Once,Less than 1 litre,Daily,High,Rarely,No,Often,4-6 hours
+20,Female,Oily,Yes,Severe,1-2 hours,Sometimes,Twice,Less than 1 litre,1-2 times a week,Moderate,Rarely,No,Sometimes,4-6 hours
+19,Female,Dry,No,None,2-4 hours,Sometimes,More than twice,1-2 litres,3-4 times a week,Very low,Often,No,Often,8+ hours
+21,Female,Oily,Yes,Mild,Less than 1 hour,Often,Once,1-2 litres,Daily,Moderate,Often,No,Often,4-6 hours
+19,Female,Oily,No,None,1-2 hours,Often,More than twice,2-3 litres,Rarely,Very low,Sometimes,Yes,Sometimes,4-6 hours
+21,Female,Dry,No,None,2-4 hours,Never,Twice,3+ litres,1-2 times a week,Moderate,Very often,No,Often,4-6 hours
+18,Male,Combination,No,None,2-4 hours,Sometimes,Twice,Less than 1 litre,Rarely,Moderate,Rarely,No,Rarely,6-8 hours
+17,Male,Oily,Yes,Moderate,1-2 hours,Sometimes,More than twice,1-2 litres,Daily,Moderate,Sometimes,No,Sometimes,4-6 hours
+21,Female,Oily,Yes,Mild,2-4 hours,Never,Once,Less than 1 litre,Rarely,Moderate,Often,No,Often,8+ hours
+23,Male,Oily,Yes,Mild,Less than 1 hour,Never,Once,1-2 litres,Daily,Moderate,Rarely,No,Often,6-8 hours
+21,Female,Oily,Yes,Mild,2-4 hours,Daily,Once,3+ litres,1-2 times a week,High,Often,No,Often,4-6 hours
+18,Female,Combination,Yes,Moderate,2-4 hours,Sometimes,Once,2-3 litres,3-4 times a week,Moderate,Very often,No,Often,4-6 hours
+16,Male,Oily,Yes,Mild,1-2 hours,Daily,Once,3+ litres,Daily,Moderate,Very often,No,Often,4-6 hours
+18,Male,Oily,Yes,Moderate,1-2 hours,Sometimes,Once,Less than 1 litre,3-4 times a week,Moderate,Very often,Yes,Sometimes,6-8 hours
+19,Male,Dry,Yes,Mild,2-4 hours,Often,More than twice,3+ litres,Daily,Very low,Very often,No,Sometimes,4-6 hours
+20,Female,Oily,Yes,Mild,Less than 1 hour,Daily,Once,3+ litres,3-4 times a week,High,Often,No,Sometimes,4-6 hours
+22,Female,Combination,No,None,Less than 1 hour,Sometimes,Twice,Less than 1 litre,Rarely,Very low,Sometimes,Yes,Sometimes,6-8 hours
+18,Female,Oily,Yes,Moderate,2-4 hours,Never,Twice,Less than 1 litre,3-4 times a week,Very low,Often,No,Sometimes,4-6 hours
+19,Male,Oily,Yes,Severe,Less than 1 hour,Sometimes,Twice,1-2 litres,Daily,Moderate,Often,No,Rarely,6-8 hours
+21,Female,Oily,Yes,Mild,2-4 hours,Often,Twice,3+ litres,Daily,Moderate,Very often,No,Often,4-6 hours
+21,Female,Oily,Yes,Severe,Less than 1 hour,Often,More than twice,3+ litres,Daily,High,Sometimes,Yes,Often,8+ hours
+20,Male,Dry,Yes,Mild,2-4 hours,Never,Twice,Less than 1 litre,1-2 times a week,Moderate,Very often,Yes,Often,6-8 hours
+25,Female,Oily,No,None,1-2 hours,Daily,Twice,3+ litres,1-2 times a week,High,Often,Yes,Often,6-8 hours
+18,Female,Oily,Yes,Moderate,Less than 1 hour,Daily,Twice,Less than 1 litre,Daily,High,Sometimes,No,Sometimes,4-6 hours
+16,Female,Combination,Yes,Moderate,1-2 hours,Often,Once,3+ litres,Daily,Moderate,Often,No,Sometimes,6-8 hours
+19,Male,Oily,Yes,Severe,Less than 1 hour,Sometimes,Twice,1-2 litres,Daily,Moderate,Sometimes,No,Rarely,4-6 hours
+22,Female,Oily,Yes,Mild,Less than 1 hour,Daily,Twice,Less than 1 litre,Daily,Very low,Rarely,Yes,Sometimes,4-6 hours
+24,Female,Oily,Yes,Mild,1-2 hours,Sometimes,Once,2-3 litres,Daily,High,Often,Yes,Rarely,4-6 hours
+20,Male,Oily,Yes,Mild,Less than 1 hour,Sometimes,More than twice,2-3 litres,Daily,Moderate,Sometimes,Yes,Often,4-6 hours
+20,Male,Combination,Yes,Severe,2-4 hours,Never,Once,3+ litres,3-4 times a week,Moderate,Often,No,Often,8+ hours
+23,Female,Oily,Yes,Mild,1-2 hours,Never,Once,1-2 litres,1-2 times a week,Moderate,Often,Yes,Often,4-6 hours
+23,Female,Oily,Yes,Moderate,1-2 hours,Often,Once,2-3 litres,3-4 times a week,Moderate,Very often,No,Sometimes,4-6 hours
+20,Female,Oily,Yes,Mild,Less than 1 hour,Never,Once,1-2 litres,1-2 times a week,Moderate,Very often,No,Often,6-8 hours
+21,Male,Oily,Yes,Mild,Less than 1 hour,Often,Once,Less than 1 litre,3-4 times a week,Very low,Sometimes,Yes,Sometimes,4-6 hours
+17,Male,Normal,Yes,Moderate,1-2 hours,Never,Twice,Less than 1 litre,Daily,Very low,Very often,Yes,Sometimes,4-6 hours
+20,Female,Oily,Yes,Moderate,2-4 hours,Sometimes,Twice,3+ litres,Daily,Very low,Rarely,Yes,Often,6-8 hours
+21,Male,Combination,No,None,Less than 1 hour,Often,Twice,2-3 litres,Rarely,Moderate,Sometimes,Yes,Sometimes,4-6 hours
+23,Female,Normal,No,None,2-4 hours,Often,Twice,2-3 litres,1-2 times a week,Very low,Sometimes,Yes,Often,8+ hours
+19,Male,Combination,Yes,Mild,1-2 hours,Sometimes,Once,2-3 litres,3-4 times a week,Moderate,Often,Yes,Sometimes,4-6 hours
+21,Male,Normal,No,None,1-2 hours,Never,More than twice,1-2 litres,3-4 times a week,High,Rarely,No,Often,6-8 hours
+16,Male,Combination,Yes,Moderate,2-4 hours,Often,Twice,3+ litres,3-4 times a week,Moderate,Often,No,Often,8+ hours
+19,Male,Combination,Yes,Moderate,1-2 hours,Never,More than twice,2-3 litres,1-2 times a week,Very low,Very often,No,Often,4-6 hours
+20,Male,Oily,Yes,Moderate,Less than 1 hour,Daily,More than twice,Less than 1 litre,3-4 times a week,Very low,Sometimes,Yes,Often,6-8 hours
+17,Male,Dry,Yes,Moderate,1-2 hours,Never,Once,Less than 1 litre,Rarely,Very low,Often,No,Often,4-6 hours
+22,Female,Oily,Yes,Mild,Less than 1 hour,Sometimes,Once,2-3 litres,3-4 times a week,Very low,Often,No,Often,4-6 hours
+22,Male,Oily,Yes,Mild,Less than 1 hour,Sometimes,More than twice,1-2 litres,Rarely,Very low,Often,Yes,Often,6-8 hours
+20,Female,Oily,Yes,Moderate,Less than 1 hour,Often,Once,1-2 litres,Daily,Very low,Rarely,No,Often,6-8 hours
+22,Female,Combination,Yes,Severe,1-2 hours,Often,Once,Less than 1 litre,Daily,High,Often,Yes,Sometimes,4-6 hours
+25,Female,Oily,Yes,Moderate,Less than 1 hour,Daily,Twice,Less than 1 litre,1-2 times a week,Very low,Sometimes,Yes,Often,8+ hours
+20,Male,Dry,Yes,Moderate,2-4 hours,Never,Once,Less than 1 litre,Daily,Very low,Very often,No,Often,4-6 hours
+16,Female,Oily,Yes,Mild,1-2 hours,Often,More than twice,Less than 1 litre,Daily,Very low,Very often,Yes,Sometimes,4-6 hours
+18,Male,Oily,Yes,Moderate,2-4 hours,Sometimes,Once,1-2 litres,3-4 times a week,Moderate,Rarely,No,Often,4-6 hours
+21,Female,Normal,Yes,Moderate,2-4 hours,Daily,More than twice,3+ litres,Daily,Very low,Often,No,Sometimes,4-6 hours
+16,Female,Oily,No,None,1-2 hours,Never,More than twice,1-2 litres,Daily,Very low,Often,No,Often,4-6 hours
+16,Female,Combination,No,None,1-2 hours,Daily,More than twice,1-2 litres,3-4 times a week,Moderate,Very often,No,Sometimes,4-6 hours
+22,Female,Oily,Yes,Mild,1-2 hours,Often,Once,3+ litres,Daily,Moderate,Very often,No,Often,8+ hours
+26,Male,Combination,No,None,2-4 hours,Daily,Once,Less than 1 litre,3-4 times a week,Moderate,Very often,No,Rarely,4-6 hours
+21,Female,Oily,Yes,Mild,Less than 1 hour,Never,Twice,3+ litres,Daily,High,Often,No,Often,6-8 hours
+16,Male,Oily,No,None,2-4 hours,Never,Once,Less than 1 litre,1-2 times a week,Very low,Very often,No,Rarely,6-8 hours
+25,Male,Oily,Yes,Mild,1-2 hours,Sometimes,Twice,2-3 litres,Daily,High,Often,Yes,Sometimes,4-6 hours
+20,Male,Oily,Yes,Moderate,2-4 hours,Never,Once,2-3 litres,Daily,Moderate,Often,No,Often,4-6 hours
+25,Female,Oily,Yes,Severe,1-2 hours,Often,Once,2-3 litres,1-2 times a week,Moderate,Sometimes,No,Often,6-8 hours
+22,Male,Oily,Yes,Moderate,1-2 hours,Sometimes,More than twice,1-2 litres,Daily,Moderate,Often,No,Often,4-6 hours
+18,Male,Oily,Yes,Mild,2-4 hours,Sometimes,Once,2-3 litres,3-4 times a week,Moderate,Very often,No,Rarely,8+ hours
+18,Female,Oily,Yes,Moderate,2-4 hours,Daily,Once,3+ litres,3-4 times a week,High,Often,Yes,Rarely,8+ hours
+21,Male,Combination,No,None,2-4 hours,Often,More than twice,2-3 litres,1-2 times a week,High,Sometimes,No,Rarely,8+ hours
+23,Male,Combination,Yes,Severe,1-2 hours,Sometimes,Twice,Less than 1 litre,Daily,High,Often,No,Often,4-6 hours
+23,Female,Oily,Yes,Mild,2-4 hours,Daily,Twice,3+ litres,Daily,Very low,Often,Yes,Often,8+ hours
+23,Male,Combination,No,None,2-4 hours,Never,Twice,1-2 litres,3-4 times a week,High,Very often,No,Rarely,8+ hours
+21,Female,Oily,Yes,Mild,1-2 hours,Sometimes,More than twice,1-2 litres,1-2 times a week,Very low,Often,No,Often,8+ hours
+22,Male,Oily,Yes,Moderate,2-4 hours,Never,Once,3+ litres,1-2 times a week,Moderate,Sometimes,Yes,Rarely,6-8 hours
+22,Female,Oily,Yes,Mild,2-4 hours,Never,Once,1-2 litres,Daily,High,Sometimes,No,Sometimes,4-6 hours
+24,Male,Oily,Yes,Moderate,1-2 hours,Never,More than twice,1-2 litres,Daily,Very low,Sometimes,Yes,Sometimes,6-8 hours
+19,Male,Combination,No,None,Less than 1 hour,Often,Once,Less than 1 litre,3-4 times a week,Very low,Very often,No,Sometimes,6-8 hours
+20,Male,Oily,Yes,Mild,1-2 hours,Often,More than twice,Less than 1 litre,Daily,High,Sometimes,Yes,Often,4-6 hours
+17,Male,Oily,Yes,Moderate,2-4 hours,Often,More than twice,2-3 litres,3-4 times a week,High,Sometimes,No,Often,6-8 hours
+16,Female,Oily,Yes,Moderate,Less than 1 hour,Never,More than twice,3+ litres,Daily,Moderate,Rarely,Yes,Often,6-8 hours
+18,Male,Oily,Yes,Moderate,1-2 hours,Sometimes,Twice,Less than 1 litre,3-4 times a week,High,Very often,Yes,Often,6-8 hours
+23,Female,Oily,Yes,Mild,1-2 hours,Sometimes,More than twice,Less than 1 litre,3-4 times a week,High,Very often,Yes,Often,4-6 hours
+16,Female,Oily,Yes,Moderate,2-4 hours,Never,Once,1-2 litres,Daily,Moderate,Rarely,No,Rarely,4-6 hours
+19,Female,Dry,No,None,Less than 1 hour,Never,Once,1-2 litres,Daily,Moderate,Rarely,Yes,Often,6-8 hours
+19,Female,Oily,Yes,Severe,Less than 1 hour,Sometimes,Twice,1-2 litres,3-4 times a week,High,Sometimes,Yes,Often,4-6 hours
+20,Female,Oily,Yes,Mild,Less than 1 hour,Sometimes,Once,2-3 litres,Daily,Very low,Sometimes,No,Sometimes,4-6 hours
+16,Male,Oily,Yes,Mild,2-4 hours,Daily,More than twice,2-3 litres,Daily,High,Often,Yes,Rarely,4-6 hours
+25,Female,Oily,Yes,Severe,1-2 hours,Daily,Twice,3+ litres,Daily,High,Very often,No,Rarely,6-8 hours
+18,Female,Combination,Yes,Moderate,1-2 hours,Never,Twice,3+ litres,Daily,Very low,Often,No,Often,6-8 hours
+22,Female,Oily,Yes,Mild,1-2 hours,Often,More than twice,Less than 1 litre,Daily,Moderate,Rarely,No,Often,6-8 hours
+20,Female,Oily,No,None,2-4 hours,Daily,Twice,1-2 litres,1-2 times a week,Very low,Rarely,No,Often,8+ hours
+19,Male,Combination,Yes,Mild,1-2 hours,Daily,Once,Less than 1 litre,1-2 times a week,Very low,Often,No,Rarely,4-6 hours
+16,Female,Oily,Yes,Moderate,1-2 hours,Never,Twice,1-2 litres,3-4 times a week,Moderate,Rarely,No,Often,4-6 hours
+16,Female,Combination,Yes,Severe,1-2 hours,Sometimes,Twice,2-3 litres,3-4 times a week,High,Often,No,Often,4-6 hours
+19,Male,Dry,Yes,Mild,Less than 1 hour,Sometimes,More than twice,1-2 litres,Daily,Moderate,Often,Yes,Often,8+ hours
+18,Male,Oily,Yes,Moderate,Less than 1 hour,Often,More than twice,Less than 1 litre,1-2 times a week,Moderate,Very often,No,Sometimes,4-6 hours
+20,Male,Normal,Yes,Moderate,2-4 hours,Sometimes,Twice,Less than 1 litre,3-4 times a week,High,Very often,No,Sometimes,4-6 hours
+16,Female,Oily,Yes,Mild,2-4 hours,Sometimes,Twice,2-3 litres,Rarely,High,Very often,No,Often,4-6 hours
+20,Male,Normal,No,None,Less than 1 hour,Never,Once,2-3 litres,1-2 times a week,Moderate,Sometimes,Yes,Often,4-6 hours
+22,Male,Oily,Yes,Mild,1-2 hours,Daily,Twice,1-2 litres,Daily,High,Very often,No,Sometimes,6-8 hours
+20,Male,Oily,Yes,Moderate,1-2 hours,Often,Once,Less than 1 litre,Daily,Moderate,Rarely,Yes,Sometimes,4-6 hours
+19,Female,Oily,Yes,Moderate,Less than 1 hour,Never,More than twice,Less than 1 litre,3-4 times a week,Very low,Often,Yes,Sometimes,4-6 hours
+22,Male,Dry,Yes,Moderate,Less than 1 hour,Daily,More than twice,Less than 1 litre,Daily,Moderate,Sometimes,No,Sometimes,8+ hours
+18,Female,Oily,Yes,Severe,1-2 hours,Daily,More than twice,3+ litres,1-2 times a week,Very low,Sometimes,Yes,Often,4-6 hours
+23,Female,Oily,Yes,Mild,Less than 1 hour,Sometimes,More than twice,3+ litres,Rarely,Moderate,Sometimes,Yes,Sometimes,8+ hours
+17,Male,Oily,Yes,Mild,Less than 1 hour,Often,Once,2-3 litres,Daily,Very low,Often,No,Rarely,4-6 hours
+26,Female,Oily,Yes,Mild,Less than 1 hour,Sometimes,Once,2-3 litres,1-2 times a week,High,Often,No,Rarely,4-6 hours
+23,Male,Combination,Yes,Moderate,Less than 1 hour,Sometimes,More than twice,Less than 1 litre,3-4 times a week,High,Often,Yes,Sometimes,8+ hours
+19,Female,Oily,Yes,Mild,Less than 1 hour,Sometimes,Once,3+ litres,Daily,Very low,Often,Yes,Rarely,4-6 hours
+16,Female,Oily,Yes,Mild,Less than 1 hour,Sometimes,Twice,1-2 litres,Daily,High,Sometimes,No,Often,6-8 hours
+19,Female,Combination,Yes,Mild,1-2 hours,Sometimes,Twice,Less than 1 litre,Rarely,Moderate,Often,No,Often,4-6 hours
+20,Male,Oily,Yes,Mild,2-4 hours,Never,More than twice,3+ litres,1-2 times a week,Moderate,Very often,Yes,Often,4-6 hours
+19,Female,Oily,Yes,Mild,1-2 hours,Often,More than twice,1-2 litres,Daily,High,Often,No,Sometimes,6-8 hours
+17,Male,Oily,Yes,Moderate,Less than 1 hour,Often,More than twice,2-3 litres,1-2 times a week,High,Very often,Yes,Often,6-8 hours
+18,Female,Oily,Yes,Severe,2-4 hours,Never,Once,3+ litres,Daily,Moderate,Very often,No,Sometimes,6-8 hours
+17,Male,Oily,Yes,Mild,1-2 hours,Sometimes,Twice,1-2 litres,3-4 times a week,High,Often,No,Often,4-6 hours
+17,Male,Oily,Yes,Mild,1-2 hours,Daily,Once,3+ litres,1-2 times a week,Moderate,Often,No,Often,4-6 hours
+19,Female,Dry,Yes,Mild,2-4 hours,Often,Once,1-2 litres,Daily,High,Sometimes,No,Rarely,4-6 hours
+19,Male,Oily,Yes,Moderate,Less than 1 hour,Never,Once,1-2 litres,Daily,Moderate,Rarely,No,Often,4-6 hours
+17,Male,Oily,Yes,Mild,1-2 hours,Never,Twice,1-2 litres,1-2 times a week,Moderate,Very often,No,Often,4-6 hours
+24,Male,Oily,Yes,Severe,2-4 hours,Often,More than twice,Less than 1 litre,Rarely,High,Often,Yes,Often,6-8 hours
+23,Female,Oily,No,None,1-2 hours,Daily,Once,2-3 litres,1-2 times a week,High,Sometimes,Yes,Often,6-8 hours
+18,Female,Oily,Yes,Severe,1-2 hours,Often,Once,Less than 1 litre,3-4 times a week,Moderate,Very often,No,Sometimes,4-6 hours
+19,Female,Oily,Yes,Severe,Less than 1 hour,Never,Twice,1-2 litres,Daily,High,Rarely,No,Sometimes,4-6 hours
+19,Female,Combination,No,None,Less than 1 hour,Never,Twice,3+ litres,1-2 times a week,Very low,Sometimes,Yes,Rarely,4-6 hours
+18,Male,Oily,No,None,1-2 hours,Often,Twice,3+ litres,Rarely,Moderate,Sometimes,Yes,Rarely,6-8 hours
+21,Female,Combination,Yes,Mild,2-4 hours,Never,Once,2-3 litres,3-4 times a week,Moderate,Often,No,Often,6-8 hours
+16,Female,Oily,Yes,Mild,2-4 hours,Never,Once,Less than 1 litre,Rarely,Very low,Often,No,Sometimes,6-8 hours
+16,Male,Oily,Yes,Severe,1-2 hours,Sometimes,More than twice,3+ litres,Daily,Very low,Sometimes,Yes,Rarely,6-8 hours
+17,Female,Oily,Yes,Moderate,2-4 hours,Sometimes,Once,2-3 litres,Daily,Very low,Often,Yes,Sometimes,6-8 hours
+16,Male,Normal,Yes,Moderate,Less than 1 hour,Sometimes,Once,2-3 litres,Daily,Very low,Very often,Yes,Sometimes,4-6 hours
+18,Male,Dry,No,None,1-2 hours,Often,Once,Less than 1 litre,3-4 times a week,High,Sometimes,No,Rarely,4-6 hours
+26,Male,Dry,Yes,Mild,1-2 hours,Never,More than twice,Less than 1 litre,1-2 times a week,High,Rarely,No,Sometimes,6-8 hours
+17,Female,Oily,Yes,Moderate,2-4 hours,Daily,Twice,Less than 1 litre,1-2 times a week,Very low,Often,No,Rarely,6-8 hours
+23,Male,Combination,Yes,Moderate,2-4 hours,Never,More than twice,Less than 1 litre,Rarely,High,Often,No,Sometimes,6-8 hours
+17,Female,Oily,Yes,Mild,1-2 hours,Never,Twice,Less than 1 litre,1-2 times a week,Moderate,Rarely,No,Rarely,4-6 hours
+24,Male,Combination,Yes,Mild,Less than 1 hour,Sometimes,More than twice,Less than 1 litre,Daily,Moderate,Often,Yes,Often,6-8 hours
+23,Female,Oily,No,None,Less than 1 hour,Often,More than twice,1-2 litres,Daily,Moderate,Sometimes,Yes,Sometimes,6-8 hours
+22,Male,Oily,Yes,Mild,1-2 hours,Often,Twice,Less than 1 litre,3-4 times a week,High,Very often,Yes,Often,6-8 hours
+21,Female,Dry,No,None,2-4 hours,Sometimes,Once,Less than 1 litre,3-4 times a week,Moderate,Sometimes,No,Sometimes,6-8 hours
+23,Female,Combination,Yes,Mild,Less than 1 hour,Never,Once,1-2 litres,Daily,High,Sometimes,No,Rarely,4-6 hours
+19,Female,Oily,Yes,Moderate,2-4 hours,Never,More than twice,1-2 litres,Daily,High,Rarely,Yes,Often,4-6 hours
+21,Female,Combination,No,None,2-4 hours,Often,More than twice,Less than 1 litre,3-4 times a week,Moderate,Often,No,Often,4-6 hours
+19,Male,Combination,Yes,Mild,Less than 1 hour,Never,Once,3+ litres,Daily,High,Rarely,Yes,Often,4-6 hours
+19,Male,Oily,Yes,Severe,2-4 hours,Sometimes,More than twice,3+ litres,Daily,Moderate,Rarely,No,Often,4-6 hours
+23,Female,Oily,Yes,Mild,2-4 hours,Never,Once,Less than 1 litre,3-4 times a week,Very low,Often,No,Sometimes,8+ hours
+17,Male,Oily,Yes,Severe,1-2 hours,Often,Twice,Less than 1 litre,1-2 times a week,Moderate,Sometimes,No,Often,4-6 hours
+16,Male,Oily,Yes,Severe,1-2 hours,Daily,Twice,3+ litres,3-4 times a week,Very low,Often,No,Often,6-8 hours
+18,Female,Oily,Yes,Moderate,Less than 1 hour,Often,Once,3+ litres,Rarely,Moderate,Rarely,Yes,Often,6-8 hours
+19,Male,Oily,Yes,Severe,Less than 1 hour,Never,Once,2-3 litres,1-2 times a week,High,Rarely,No,Often,4-6 hours
+18,Male,Oily,Yes,Mild,1-2 hours,Sometimes,Twice,Less than 1 litre,1-2 times a week,Very low,Often,No,Sometimes,8+ hours
+20,Female,Oily,Yes,Severe,1-2 hours,Daily,Twice,2-3 litres,Daily,Moderate,Sometimes,No,Often,4-6 hours
+16,Female,Oily,Yes,Moderate,1-2 hours,Sometimes,More than twice,2-3 litres,3-4 times a week,High,Sometimes,No,Rarely,8+ hours
+21,Female,Dry,No,None,1-2 hours,Often,More than twice,1-2 litres,3-4 times a week,Moderate,Often,Yes,Rarely,8+ hours
+16,Female,Oily,Yes,Mild,Less than 1 hour,Daily,Once,2-3 litres,3-4 times a week,Very low,Very often,No,Often,4-6 hours
+26,Female,Oily,Yes,Mild,2-4 hours,Often,Once,3+ litres,Daily,Very low,Sometimes,Yes,Often,4-6 hours
+21,Female,Oily,Yes,Moderate,1-2 hours,Often,Twice,1-2 litres,3-4 times a week,High,Often,Yes,Rarely,4-6 hours
+16,Female,Oily,Yes,Mild,2-4 hours,Often,More than twice,Less than 1 litre,1-2 times a week,Moderate,Often,No,Sometimes,4-6 hours
+22,Female,Dry,No,None,1-2 hours,Often,More than twice,Less than 1 litre,3-4 times a week,Moderate,Rarely,Yes,Rarely,6-8 hours
+17,Male,Oily,Yes,Moderate,1-2 hours,Sometimes,Twice,3+ litres,Daily,Very low,Very often,No,Often,6-8 hours
+17,Male,Dry,Yes,Moderate,2-4 hours,Daily,Twice,3+ litres,Daily,Very low,Often,No,Often,4-6 hours
+21,Male,Combination,No,None,2-4 hours,Often,Once,Less than 1 litre,1-2 times a week,Very low,Sometimes,Yes,Rarely,6-8 hours
+17,Male,Oily,Yes,Severe,2-4 hours,Daily,Twice,Less than 1 litre,Daily,High,Often,No,Often,8+ hours
+19,Female,Oily,Yes,Moderate,1-2 hours,Daily,Twice,3+ litres,3-4 times a week,High,Often,Yes,Often,6-8 hours
+23,Female,Combination,Yes,Moderate,2-4 hours,Never,Twice,3+ litres,Rarely,Moderate,Often,No,Often,4-6 hours
+17,Male,Oily,Yes,Mild,2-4 hours,Daily,Once,2-3 litres,Daily,Very low,Sometimes,No,Often,4-6 hours
+16,Male,Oily,Yes,Moderate,1-2 hours,Never,Twice,1-2 litres,Daily,High,Very often,Yes,Often,4-6 hours
+17,Male,Combination,Yes,Moderate,1-2 hours,Sometimes,More than twice,1-2 litres,Daily,Moderate,Often,No,Rarely,4-6 hours
+16,Female,Oily,Yes,Severe,1-2 hours,Never,Twice,2-3 litres,3-4 times a week,High,Very often,Yes,Rarely,4-6 hours
+16,Female,Combination,No,None,Less than 1 hour,Sometimes,More than twice,2-3 litres,3-4 times a week,Moderate,Often,Yes,Sometimes,6-8 hours
+20,Female,Oily,Yes,Moderate,1-2 hours,Never,More than twice,3+ litres,1-2 times a week,High,Often,Yes,Often,4-6 hours
+17,Female,Dry,Yes,Mild,Less than 1 hour,Daily,Once,2-3 litres,Daily,Very low,Rarely,Yes,Often,4-6 hours
+22,Male,Combination,Yes,Moderate,1-2 hours,Often,More than twice,1-2 litres,1-2 times a week,Moderate,Often,Yes,Often,4-6 hours
+17,Female,Dry,Yes,Moderate,2-4 hours,Sometimes,Twice,Less than 1 litre,1-2 times a week,Moderate,Very often,Yes,Sometimes,4-6 hours
+23,Female,Oily,No,None,2-4 hours,Sometimes,Once,3+ litres,3-4 times a week,Very low,Sometimes,No,Sometimes,4-6 hours
+21,Female,Oily,Yes,Mild,2-4 hours,Daily,Twice,2-3 litres,Daily,Moderate,Rarely,No,Rarely,4-6 hours
+22,Female,Oily,Yes,Moderate,1-2 hours,Never,More than twice,3+ litres,3-4 times a week,Moderate,Very often,Yes,Often,6-8 hours
+24,Male,Dry,Yes,Severe,1-2 hours,Never,More than twice,3+ litres,Daily,Very low,Often,No,Often,6-8 hours
+21,Male,Oily,Yes,Moderate,Less than 1 hour,Often,Twice,2-3 litres,1-2 times a week,Very low,Very often,No,Sometimes,4-6 hours
+16,Female,Oily,Yes,Mild,2-4 hours,Often,More than twice,3+ litres,3-4 times a week,Moderate,Rarely,No,Often,4-6 hours
+22,Female,Oily,Yes,Moderate,Less than 1 hour,Sometimes,Once,2-3 litres,3-4 times a week,Very low,Often,No,Sometimes,4-6 hours
+20,Female,Oily,Yes,Mild,1-2 hours,Often,Once,1-2 litres,Daily,High,Very often,No,Often,8+ hours
+23,Male,Dry,Yes,Mild,1-2 hours,Daily,Once,2-3 litres,3-4 times a week,Very low,Very often,No,Often,4-6 hours
+18,Female,Oily,Yes,Mild,Less than 1 hour,Sometimes,Once,1-2 litres,3-4 times a week,High,Very often,No,Often,8+ hours
+18,Female,Combination,Yes,Mild,Less than 1 hour,Never,More than twice,3+ litres,Daily,Moderate,Often,Yes,Sometimes,6-8 hours
+22,Female,Oily,Yes,Mild,2-4 hours,Never,More than twice,3+ litres,3-4 times a week,Very low,Often,No,Often,6-8 hours
+19,Female,Oily,Yes,Moderate,Less than 1 hour,Sometimes,Twice,Less than 1 litre,1-2 times a week,High,Often,No,Often,4-6 hours
+22,Male,Combination,Yes,Mild,2-4 hours,Never,More than twice,3+ litres,Daily,Moderate,Sometimes,Yes,Often,6-8 hours
+18,Female,Oily,Yes,Mild,1-2 hours,Daily,More than twice,3+ litres,3-4 times a week,Very low,Very often,No,Sometimes,6-8 hours
+24,Female,Combination,Yes,Mild,1-2 hours,Often,Once,1-2 litres,Daily,Very low,Often,Yes,Rarely,4-6 hours
+21,Male,Oily,Yes,Mild,1-2 hours,Never,More than twice,2-3 litres,Daily,Moderate,Rarely,No,Rarely,4-6 hours
+19,Male,Oily,Yes,Mild,Less than 1 hour,Daily,Twice,3+ litres,Daily,High,Sometimes,No,Often,4-6 hours
+17,Female,Oily,Yes,Moderate,1-2 hours,Sometimes,More than twice,Less than 1 litre,Daily,Very low,Very often,No,Rarely,4-6 hours
+21,Male,Combination,Yes,Severe,2-4 hours,Daily,Twice,1-2 litres,Rarely,Very low,Very often,Yes,Sometimes,4-6 hours
+23,Male,Oily,Yes,Moderate,Less than 1 hour,Daily,Twice,1-2 litres,Daily,Moderate,Sometimes,No,Rarely,4-6 hours
+17,Male,Oily,Yes,Mild,Less than 1 hour,Often,More than twice,2-3 litres,3-4 times a week,Very low,Often,No,Often,6-8 hours
+24,Male,Oily,Yes,Mild,1-2 hours,Never,More than twice,2-3 litres,Rarely,High,Often,Yes,Often,6-8 hours
+18,Male,Oily,Yes,Severe,2-4 hours,Daily,Once,Less than 1 litre,Rarely,High,Often,No,Sometimes,4-6 hours
+19,Male,Oily,No,None,2-4 hours,Often,More than twice,3+ litres,3-4 times a week,Moderate,Sometimes,No,Often,8+ hours
+16,Male,Dry,Yes,Mild,2-4 hours,Often,More than twice,Less than 1 litre,Daily,High,Rarely,Yes,Sometimes,8+ hours
+19,Male,Oily,Yes,Severe,2-4 hours,Daily,Twice,Less than 1 litre,1-2 times a week,High,Often,Yes,Rarely,8+ hours
+19,Female,Oily,No,None,2-4 hours,Daily,Twice,3+ litres,1-2 times a week,High,Sometimes,No,Often,6-8 hours
+20,Male,Oily,Yes,Severe,1-2 hours,Never,More than twice,1-2 litres,3-4 times a week,Very low,Often,No,Often,4-6 hours
+21,Female,Oily,Yes,Mild,1-2 hours,Daily,More than twice,1-2 litres,3-4 times a week,Very low,Very often,Yes,Rarely,4-6 hours
+20,Male,Oily,Yes,Moderate,1-2 hours,Never,Once,3+ litres,Daily,Very low,Very often,No,Sometimes,4-6 hours
+23,Male,Dry,Yes,Severe,2-4 hours,Daily,More than twice,Less than 1 litre,Daily,Moderate,Sometimes,No,Often,4-6 hours
+22,Female,Oily,Yes,Severe,Less than 1 hour,Sometimes,Twice,2-3 litres,Daily,Very low,Often,Yes,Often,8+ hours
+17,Female,Oily,Yes,Severe,Less than 1 hour,Sometimes,Once,3+ litres,Rarely,Very low,Very often,Yes,Sometimes,4-6 hours
+16,Male,Dry,No,None,Less than 1 hour,Never,Twice,Less than 1 litre,3-4 times a week,Moderate,Sometimes,No,Often,4-6 hours
+20,Male,Dry,No,None,2-4 hours,Never,Once,2-3 litres,Rarely,Moderate,Very often,Yes,Sometimes,4-6 hours
+17,Female,Combination,Yes,Mild,1-2 hours,Often,Twice,2-3 litres,1-2 times a week,Very low,Sometimes,No,Sometimes,6-8 hours
+21,Male,Oily,Yes,Mild,1-2 hours,Sometimes,More than twice,1-2 litres,1-2 times a week,Moderate,Very often,Yes,Rarely,4-6 hours
+21,Female,Oily,Yes,Moderate,1-2 hours,Sometimes,More than twice,2-3 litres,Daily,Very low,Very often,No,Sometimes,4-6 hours
+21,Male,Oily,Yes,Moderate,2-4 hours,Daily,More than twice,Less than 1 litre,1-2 times a week,High,Often,Yes,Often,4-6 hours
+16,Female,Combination,Yes,Moderate,2-4 hours,Never,Once,2-3 litres,3-4 times a week,Moderate,Often,No,Often,4-6 hours
+30,Female,Oily,Yes,Mild,1-2 hours,Daily,More than twice,Less than 1 litre,Daily,Moderate,Often,No,Rarely,6-8 hours
+18,Female,Oily,Yes,Moderate,2-4 hours,Often,Once,2-3 litres,3-4 times a week,High,Often,Yes,Often,6-8 hours
+18,Female,Oily,Yes,Moderate,2-4 hours,Often,Once,Less than 1 litre,Daily,High,Often,Yes,Often,6-8 hours
+19,Female,Dry,Yes,Mild,Less than 1 hour,Sometimes,Twice,Less than 1 litre,1-2 times a week,Very low,Very often,Yes,Sometimes,4-6 hours
+20,Male,Dry,No,None,Less than 1 hour,Never,Twice,2-3 litres,1-2 times a week,High,Often,No,Rarely,6-8 hours
+19,Male,Oily,Yes,Mild,Less than 1 hour,Daily,Once,Less than 1 litre,3-4 times a week,Moderate,Often,No,Rarely,4-6 hours
+16,Female,Normal,Yes,Moderate,Less than 1 hour,Often,Once,Less than 1 litre,1-2 times a week,Very low,Often,Yes,Often,4-6 hours
+16,Female,Combination,Yes,Severe,Less than 1 hour,Never,Once,Less than 1 litre,1-2 times a week,High,Often,No,Often,4-6 hours
+17,Female,Combination,Yes,Mild,Less than 1 hour,Sometimes,More than twice,3+ litres,Daily,Moderate,Often,No,Sometimes,4-6 hours
+20,Female,Combination,Yes,Mild,Less than 1 hour,Often,Twice,Less than 1 litre,3-4 times a week,Very low,Often,Yes,Often,6-8 hours
+16,Male,Dry,No,None,1-2 hours,Daily,Twice,3+ litres,3-4 times a week,High,Sometimes,Yes,Rarely,6-8 hours
+21,Female,Oily,Yes,Moderate,1-2 hours,Often,Once,3+ litres,1-2 times a week,High,Often,No,Often,4-6 hours
+16,Female,Oily,Yes,Mild,1-2 hours,Never,Twice,3+ litres,Rarely,Moderate,Rarely,Yes,Rarely,4-6 hours
+23,Female,Dry,No,None,Less than 1 hour,Never,Twice,Less than 1 litre,3-4 times a week,High,Often,No,Often,6-8 hours
+23,Female,Oily,No,None,Less than 1 hour,Daily,More than twice,1-2 litres,Daily,Very low,Rarely,No,Rarely,8+ hours
+21,Male,Oily,Yes,Severe,2-4 hours,Sometimes,More than twice,Less than 1 litre,1-2 times a week,High,Very often,No,Rarely,4-6 hours
+20,Male,Dry,Yes,Severe,Less than 1 hour,Daily,Once,2-3 litres,Daily,High,Often,Yes,Often,6-8 hours
+23,Male,Combination,Yes,Mild,1-2 hours,Often,More than twice,2-3 litres,Daily,Moderate,Often,Yes,Often,4-6 hours
+20,Female,Oily,Yes,Mild,Less than 1 hour,Often,Twice,3+ litres,1-2 times a week,Very low,Often,Yes,Often,8+ hours
+22,Male,Oily,Yes,Moderate,Less than 1 hour,Often,Twice,2-3 litres,Daily,High,Very often,No,Rarely,4-6 hours
+23,Male,Combination,Yes,Severe,Less than 1 hour,Never,Once,2-3 litres,Daily,Moderate,Often,No,Sometimes,4-6 hours
+20,Male,Normal,Yes,Severe,2-4 hours,Never,Twice,2-3 litres,Rarely,Moderate,Often,No,Often,4-6 hours
+16,Male,Oily,Yes,Moderate,Less than 1 hour,Never,More than twice,2-3 litres,1-2 times a week,Very low,Often,No,Rarely,4-6 hours
+20,Female,Oily,Yes,Mild,1-2 hours,Often,More than twice,2-3 litres,Rarely,Very low,Often,Yes,Sometimes,6-8 hours
+18,Male,Oily,Yes,Severe,Less than 1 hour,Never,More than twice,1-2 litres,3-4 times a week,High,Very often,Yes,Rarely,4-6 hours
+18,Male,Oily,Yes,Moderate,Less than 1 hour,Sometimes,Twice,3+ litres,Rarely,High,Often,No,Often,4-6 hours
+21,Female,Dry,Yes,Moderate,2-4 hours,Daily,Twice,Less than 1 litre,3-4 times a week,Moderate,Very often,Yes,Sometimes,4-6 hours
+22,Female,Combination,Yes,Moderate,Less than 1 hour,Never,Twice,1-2 litres,3-4 times a week,Moderate,Often,Yes,Sometimes,4-6 hours
+17,Male,Combination,Yes,Mild,2-4 hours,Never,Once,2-3 litres,Daily,High,Very often,No,Sometimes,6-8 hours
+20,Female,Combination,Yes,Severe,1-2 hours,Daily,Once,3+ litres,Daily,High,Very often,No,Often,4-6 hours
+22,Female,Oily,Yes,Mild,1-2 hours,Often,More than twice,3+ litres,Rarely,Very low,Often,Yes,Sometimes,4-6 hours
+17,Male,Dry,Yes,Severe,2-4 hours,Daily,Twice,1-2 litres,Daily,High,Very often,Yes,Often,4-6 hours
+18,Male,Oily,Yes,Mild,2-4 hours,Never,More than twice,2-3 litres,Daily,High,Very often,No,Often,4-6 hours
+17,Female,Oily,Yes,Mild,1-2 hours,Often,Twice,1-2 litres,1-2 times a week,Very low,Often,Yes,Rarely,4-6 hours
+20,Male,Oily,Yes,Moderate,2-4 hours,Sometimes,More than twice,Less than 1 litre,3-4 times a week,High,Sometimes,No,Rarely,4-6 hours
+20,Male,Oily,Yes,Moderate,Less than 1 hour,Daily,Once,2-3 litres,Daily,High,Rarely,No,Often,6-8 hours
+16,Female,Oily,Yes,Moderate,2-4 hours,Never,More than twice,1-2 litres,3-4 times a week,High,Very often,No,Often,4-6 hours
+24,Female,Oily,Yes,Mild,Less than 1 hour,Daily,More than twice,2-3 litres,1-2 times a week,Very low,Sometimes,No,Often,4-6 hours
+18,Female,Oily,Yes,Severe,Less than 1 hour,Sometimes,More than twice,3+ litres,Daily,High,Often,No,Often,4-6 hours
+20,Male,Oily,Yes,Severe,2-4 hours,Daily,More than twice,3+ litres,1-2 times a week,Moderate,Often,No,Often,6-8 hours
+18,Female,Oily,Yes,Moderate,Less than 1 hour,Often,More than twice,3+ litres,3-4 times a week,Moderate,Sometimes,Yes,Often,6-8 hours
+21,Female,Dry,Yes,Severe,2-4 hours,Sometimes,Once,2-3 litres,1-2 times a week,High,Often,No,Sometimes,8+ hours
+24,Male,Oily,Yes,Mild,Less than 1 hour,Sometimes,Twice,1-2 litres,3-4 times a week,High,Often,No,Sometimes,4-6 hours
+22,Female,Oily,Yes,Severe,Less than 1 hour,Daily,More than twice,3+ litres,Daily,Very low,Very often,Yes,Sometimes,6-8 hours
+17,Male,Oily,Yes,Mild,2-4 hours,Sometimes,More than twice,2-3 litres,3-4 times a week,Very low,Sometimes,No,Often,8+ hours
+19,Male,Oily,Yes,Moderate,2-4 hours,Never,More than twice,Less than 1 litre,Daily,Moderate,Very often,No,Sometimes,6-8 hours
+16,Male,Oily,No,None,2-4 hours,Daily,More than twice,Less than 1 litre,Rarely,Moderate,Sometimes,Yes,Sometimes,6-8 hours
+17,Female,Combination,No,None,2-4 hours,Often,Twice,Less than 1 litre,Daily,Moderate,Sometimes,No,Sometimes,8+ hours
+22,Male,Combination,Yes,Moderate,1-2 hours,Sometimes,More than twice,2-3 litres,3-4 times a week,Moderate,Very often,No,Often,6-8 hours
+16,Male,Oily,Yes,Mild,Less than 1 hour,Often,Once,1-2 litres,1-2 times a week,High,Often,Yes,Sometimes,4-6 hours
+22,Female,Dry,Yes,Moderate,Less than 1 hour,Sometimes,Once,2-3 litres,Rarely,High,Often,Yes,Often,8+ hours
+16,Female,Dry,Yes,Severe,Less than 1 hour,Never,Twice,3+ litres,Daily,High,Very often,No,Rarely,4-6 hours
+16,Male,Oily,Yes,Mild,1-2 hours,Often,Twice,2-3 litres,Daily,Moderate,Rarely,No,Often,8+ hours
+19,Female,Oily,Yes,Severe,Less than 1 hour,Sometimes,Once,3+ litres,Daily,High,Often,No,Sometimes,6-8 hours
+21,Male,Combination,Yes,Severe,Less than 1 hour,Often,Twice,Less than 1 litre,1-2 times a week,Moderate,Very often,Yes,Often,8+ hours
+19,Female,Oily,No,None,1-2 hours,Sometimes,Once,1-2 litres,1-2 times a week,Moderate,Sometimes,Yes,Rarely,4-6 hours
+21,Female,Combination,Yes,Severe,Less than 1 hour,Daily,Twice,2-3 litres,3-4 times a week,Very low,Very often,No,Sometimes,4-6 hours
+28,Female,Normal,Yes,Mild,Less than 1 hour,Sometimes,Once,3+ litres,Daily,Moderate,Very often,Yes,Often,4-6 hours
+22,Female,Oily,Yes,Moderate,1-2 hours,Never,Once,1-2 litres,3-4 times a week,Moderate,Rarely,Yes,Often,4-6 hours
+18,Female,Dry,Yes,Severe,1-2 hours,Daily,Twice,2-3 litres,Daily,Moderate,Often,No,Rarely,4-6 hours
+21,Male,Normal,Yes,Mild,1-2 hours,Often,Once,2-3 litres,3-4 times a week,Very low,Very often,No,Often,4-6 hours
+17,Male,Dry,Yes,Moderate,Less than 1 hour,Never,Once,1-2 litres,Daily,Moderate,Often,Yes,Often,6-8 hours
+18,Female,Oily,Yes,Moderate,2-4 hours,Daily,Twice,2-3 litres,Daily,High,Sometimes,No,Often,4-6 hours
+17,Female,Oily,Yes,Severe,2-4 hours,Sometimes,More than twice,3+ litres,1-2 times a week,Very low,Often,No,Rarely,4-6 hours
+24,Male,Dry,Yes,Mild,2-4 hours,Sometimes,More than twice,1-2 litres,Daily,High,Very often,Yes,Often,8+ hours
+23,Female,Oily,Yes,Mild,Less than 1 hour,Sometimes,Twice,2-3 litres,Daily,Very low,Often,No,Often,4-6 hours
+16,Female,Combination,No,None,Less than 1 hour,Daily,Twice,3+ litres,Daily,Very low,Very often,No,Rarely,6-8 hours
+23,Male,Combination,Yes,Severe,1-2 hours,Sometimes,Twice,2-3 litres,Daily,High,Sometimes,Yes,Sometimes,4-6 hours
+16,Female,Dry,Yes,Mild,Less than 1 hour,Often,More than twice,2-3 litres,Daily,Moderate,Sometimes,No,Often,4-6 hours
+18,Male,Dry,No,None,Less than 1 hour,Never,Twice,2-3 litres,Daily,Very low,Often,No,Sometimes,4-6 hours
+20,Female,Oily,Yes,Mild,1-2 hours,Sometimes,More than twice,2-3 litres,1-2 times a week,High,Sometimes,No,Sometimes,4-6 hours
+17,Female,Combination,No,None,2-4 hours,Often,More than twice,Less than 1 litre,3-4 times a week,Moderate,Rarely,Yes,Rarely,8+ hours
+19,Male,Oily,Yes,Severe,1-2 hours,Sometimes,Twice,Less than 1 litre,Daily,Moderate,Sometimes,Yes,Sometimes,6-8 hours
+21,Female,Oily,Yes,Moderate,Less than 1 hour,Sometimes,More than twice,3+ litres,Daily,Very low,Often,No,Often,4-6 hours
+21,Female,Combination,Yes,Severe,Less than 1 hour,Daily,Twice,Less than 1 litre,Daily,Very low,Sometimes,No,Often,8+ hours
+22,Female,Combination,Yes,Moderate,1-2 hours,Sometimes,Twice,2-3 litres,1-2 times a week,High,Rarely,No,Often,4-6 hours
+26,Female,Oily,Yes,Moderate,Less than 1 hour,Never,More than twice,1-2 litres,Daily,High,Often,No,Often,6-8 hours
+18,Female,Normal,Yes,Mild,1-2 hours,Often,Once,Less than 1 litre,Daily,Moderate,Sometimes,No,Sometimes,4-6 hours
+23,Female,Dry,Yes,Mild,2-4 hours,Often,More than twice,2-3 litres,3-4 times a week,Moderate,Rarely,Yes,Often,4-6 hours
+17,Male,Combination,Yes,Mild,Less than 1 hour,Daily,Once,Less than 1 litre,1-2 times a week,High,Often,No,Sometimes,4-6 hours
+18,Female,Oily,Yes,Moderate,2-4 hours,Often,Twice,2-3 litres,3-4 times a week,Very low,Often,Yes,Often,4-6 hours
+21,Male,Oily,Yes,Mild,2-4 hours,Often,More than twice,Less than 1 litre,3-4 times a week,Very low,Often,No,Rarely,4-6 hours
+19,Female,Combination,No,None,Less than 1 hour,Sometimes,More than twice,1-2 litres,1-2 times a week,High,Very often,No,Sometimes,4-6 hours
+22,Female,Oily,Yes,Mild,Less than 1 hour,Sometimes,Once,2-3 litres,3-4 times a week,High,Often,No,Often,8+ hours
+23,Male,Oily,Yes,Moderate,1-2 hours,Sometimes,Once,3+ litres,3-4 times a week,Very low,Very often,No,Often,4-6 hours
+16,Female,Dry,Yes,Mild,1-2 hours,Sometimes,Once,2-3 litres,Rarely,High,Very often,No,Sometimes,8+ hours
+17,Male,Oily,Yes,Severe,Less than 1 hour,Daily,Once,Less than 1 litre,Rarely,Very low,Often,No,Rarely,8+ hours
+19,Female,Oily,Yes,Moderate,Less than 1 hour,Often,Once,3+ litres,3-4 times a week,Very low,Sometimes,No,Often,4-6 hours
+18,Female,Oily,Yes,Severe,1-2 hours,Daily,Once,3+ litres,1-2 times a week,Very low,Often,Yes,Often,4-6 hours
+19,Male,Dry,No,None,Less than 1 hour,Often,Twice,1-2 litres,Daily,High,Often,No,Rarely,6-8 hours
+21,Male,Oily,Yes,Moderate,2-4 hours,Never,Twice,3+ litres,3-4 times a week,Very low,Often,Yes,Rarely,4-6 hours
+17,Female,Oily,Yes,Severe,Less than 1 hour,Never,Twice,1-2 litres,3-4 times a week,High,Rarely,Yes,Often,4-6 hours
+16,Male,Oily,Yes,Moderate,2-4 hours,Daily,More than twice,1-2 litres,1-2 times a week,High,Very often,No,Sometimes,4-6 hours
+22,Female,Oily,Yes,Moderate,Less than 1 hour,Daily,Twice,2-3 litres,Daily,High,Rarely,Yes,Often,4-6 hours
+21,Female,Combination,No,None,1-2 hours,Daily,Twice,3+ litres,3-4 times a week,Moderate,Rarely,Yes,Rarely,8+ hours
+16,Female,Oily,Yes,Mild,1-2 hours,Often,More than twice,1-2 litres,Rarely,High,Very often,Yes,Sometimes,4-6 hours
+22,Male,Dry,No,None,2-4 hours,Often,More than twice,1-2 litres,Rarely,High,Often,No,Sometimes,6-8 hours
+25,Female,Oily,Yes,Moderate,2-4 hours,Sometimes,Twice,1-2 litres,3-4 times a week,Moderate,Often,No,Often,4-6 hours
+16,Male,Oily,No,None,2-4 hours,Never,More than twice,3+ litres,Daily,Moderate,Rarely,No,Often,8+ hours
+17,Female,Combination,Yes,Moderate,Less than 1 hour,Daily,More than twice,Less than 1 litre,Daily,High,Very often,Yes,Rarely,6-8 hours
+18,Male,Dry,Yes,Mild,2-4 hours,Sometimes,Once,3+ litres,3-4 times a week,Moderate,Very often,No,Sometimes,4-6 hours
+22,Female,Oily,Yes,Moderate,1-2 hours,Daily,Twice,Less than 1 litre,3-4 times a week,Very low,Very often,Yes,Rarely,6-8 hours
+20,Female,Oily,No,None,1-2 hours,Sometimes,Once,2-3 litres,3-4 times a week,Moderate,Sometimes,No,Sometimes,4-6 hours
+20,Female,Oily,Yes,Moderate,2-4 hours,Never,Once,3+ litres,Daily,Moderate,Very often,Yes,Rarely,8+ hours
+20,Female,Oily,No,None,1-2 hours,Never,More than twice,3+ litres,Daily,Very low,Sometimes,No,Often,4-6 hours
+20,Male,Oily,Yes,Mild,1-2 hours,Never,Twice,3+ litres,3-4 times a week,High,Often,No,Sometimes,4-6 hours
+17,Male,Oily,Yes,Severe,Less than 1 hour,Daily,Twice,2-3 litres,1-2 times a week,Moderate,Often,Yes,Sometimes,4-6 hours
+25,Female,Oily,Yes,Mild,1-2 hours,Never,Once,1-2 litres,3-4 times a week,Moderate,Often,Yes,Rarely,8+ hours
+20,Male,Oily,Yes,Moderate,2-4 hours,Never,More than twice,3+ litres,Daily,Moderate,Rarely,No,Sometimes,6-8 hours
+19,Male,Oily,Yes,Moderate,1-2 hours,Daily,More than twice,1-2 litres,1-2 times a week,Moderate,Very often,No,Often,4-6 hours
+16,Male,Dry,Yes,Moderate,1-2 hours,Sometimes,Once,Less than 1 litre,1-2 times a week,Very low,Often,No,Often,4-6 hours
+17,Female,Oily,No,None,2-4 hours,Daily,Once,Less than 1 litre,Daily,Moderate,Often,No,Often,6-8 hours
+21,Male,Oily,Yes,Mild,Less than 1 hour,Daily,Twice,Less than 1 litre,3-4 times a week,Very low,Very often,No,Sometimes,4-6 hours
+20,Male,Oily,Yes,Moderate,2-4 hours,Never,Once,3+ litres,Daily,Moderate,Often,Yes,Often,4-6 hours
+17,Female,Oily,No,None,1-2 hours,Sometimes,Twice,2-3 litres,3-4 times a week,Moderate,Very often,No,Sometimes,6-8 hours
+20,Male,Oily,Yes,Mild,2-4 hours,Often,Twice,2-3 litres,3-4 times a week,High,Often,Yes,Sometimes,6-8 hours
+22,Female,Dry,No,None,1-2 hours,Sometimes,Once,2-3 litres,Rarely,Moderate,Rarely,No,Sometimes,8+ hours
+19,Male,Normal,Yes,Mild,1-2 hours,Often,Twice,2-3 litres,Daily,High,Often,No,Often,4-6 hours
+21,Female,Combination,Yes,Severe,1-2 hours,Often,Once,Less than 1 litre,Daily,Very low,Very often,No,Often,4-6 hours
+24,Female,Oily,Yes,Mild,Less than 1 hour,Often,Twice,3+ litres,3-4 times a week,High,Often,No,Sometimes,4-6 hours
+24,Female,Oily,Yes,Severe,Less than 1 hour,Sometimes,More than twice,3+ litres,3-4 times a week,Very low,Very often,No,Sometimes,6-8 hours
+22,Female,Dry,Yes,Moderate,1-2 hours,Often,Twice,Less than 1 litre,1-2 times a week,Very low,Often,Yes,Rarely,6-8 hours
+18,Male,Combination,No,None,2-4 hours,Sometimes,Once,Less than 1 litre,3-4 times a week,Very low,Rarely,No,Often,8+ hours
+19,Male,Oily,Yes,Mild,1-2 hours,Never,More than twice,3+ litres,3-4 times a week,Very low,Sometimes,No,Often,4-6 hours
+17,Female,Combination,No,None,1-2 hours,Never,Once,2-3 litres,3-4 times a week,Very low,Sometimes,No,Sometimes,4-6 hours
+23,Female,Combination,No,None,Less than 1 hour,Sometimes,More than twice,3+ litres,3-4 times a week,Very low,Often,No,Rarely,4-6 hours
+16,Female,Dry,Yes,Moderate,1-2 hours,Never,Once,2-3 litres,3-4 times a week,Very low,Often,No,Often,4-6 hours
+20,Male,Oily,Yes,Moderate,1-2 hours,Often,Once,1-2 litres,3-4 times a week,Moderate,Sometimes,No,Often,6-8 hours
+16,Female,Oily,Yes,Moderate,1-2 hours,Never,Twice,Less than 1 litre,Daily,Moderate,Very often,No,Sometimes,4-6 hours
+20,Female,Oily,Yes,Moderate,1-2 hours,Daily,More than twice,2-3 litres,3-4 times a week,Moderate,Often,No,Sometimes,4-6 hours
+19,Male,Normal,Yes,Moderate,Less than 1 hour,Daily,More than twice,3+ litres,Daily,High,Often,No,Sometimes,8+ hours
+22,Female,Oily,Yes,Mild,2-4 hours,Often,More than twice,Less than 1 litre,Daily,Very low,Rarely,No,Often,8+ hours
+21,Female,Combination,No,None,Less than 1 hour,Daily,More than twice,Less than 1 litre,1-2 times a week,Moderate,Sometimes,Yes,Sometimes,4-6 hours
+24,Female,Combination,No,None,2-4 hours,Often,More than twice,1-2 litres,Daily,High,Rarely,Yes,Rarely,4-6 hours
+20,Male,Oily,Yes,Moderate,2-4 hours,Often,Once,2-3 litres,1-2 times a week,Moderate,Very often,No,Sometimes,4-6 hours
+20,Female,Combination,Yes,Severe,2-4 hours,Sometimes,More than twice,3+ litres,Daily,Very low,Often,Yes,Often,4-6 hours
+21,Female,Combination,No,None,Less than 1 hour,Often,Twice,3+ litres,Daily,Moderate,Often,Yes,Sometimes,6-8 hours
+26,Female,Normal,Yes,Moderate,1-2 hours,Sometimes,Once,3+ litres,1-2 times a week,Very low,Often,Yes,Often,4-6 hours
+26,Female,Combination,Yes,Severe,Less than 1 hour,Daily,More than twice,Less than 1 litre,Daily,Moderate,Very often,No,Sometimes,4-6 hours
+17,Female,Oily,Yes,Mild,2-4 hours,Often,Once,3+ litres,Daily,High,Often,No,Rarely,4-6 hours
+18,Male,Oily,Yes,Mild,Less than 1 hour,Never,More than twice,3+ litres,3-4 times a week,High,Very often,No,Sometimes,6-8 hours
+21,Male,Dry,No,None,1-2 hours,Daily,Twice,2-3 litres,Daily,Very low,Sometimes,Yes,Rarely,6-8 hours
+20,Male,Oily,No,None,2-4 hours,Often,More than twice,3+ litres,1-2 times a week,Moderate,Sometimes,No,Rarely,6-8 hours
+22,Female,Dry,Yes,Mild,2-4 hours,Never,Once,1-2 litres,Daily,High,Sometimes,Yes,Sometimes,4-6 hours
+19,Male,Dry,Yes,Moderate,1-2 hours,Never,Twice,2-3 litres,1-2 times a week,High,Often,No,Often,4-6 hours
+16,Female,Oily,Yes,Mild,Less than 1 hour,Often,Twice,2-3 litres,3-4 times a week,Moderate,Rarely,Yes,Often,4-6 hours
+22,Female,Oily,Yes,Moderate,Less than 1 hour,Daily,More than twice,2-3 litres,Daily,Very low,Sometimes,No,Sometimes,4-6 hours
+20,Male,Oily,Yes,Severe,2-4 hours,Daily,Twice,3+ litres,3-4 times a week,Very low,Very often,No,Often,6-8 hours
+20,Female,Dry,No,None,1-2 hours,Often,Twice,Less than 1 litre,Rarely,Very low,Sometimes,No,Sometimes,6-8 hours
+19,Male,Oily,No,None,2-4 hours,Daily,Once,1-2 litres,Rarely,Moderate,Often,No,Rarely,8+ hours
+16,Female,Dry,Yes,Severe,Less than 1 hour,Often,More than twice,Less than 1 litre,Daily,High,Often,No,Sometimes,4-6 hours
+18,Female,Oily,Yes,Severe,2-4 hours,Often,More than twice,3+ litres,3-4 times a week,Very low,Sometimes,No,Often,8+ hours
+21,Female,Combination,Yes,Moderate,Less than 1 hour,Often,Once,Less than 1 litre,Daily,High,Often,Yes,Rarely,6-8 hours
+22,Male,Normal,No,None,1-2 hours,Daily,Once,1-2 litres,1-2 times a week,Very low,Sometimes,No,Rarely,6-8 hours
+18,Female,Oily,Yes,Mild,2-4 hours,Sometimes,More than twice,1-2 litres,3-4 times a week,Moderate,Rarely,Yes,Rarely,4-6 hours
+28,Male,Combination,No,None,1-2 hours,Often,Twice,Less than 1 litre,3-4 times a week,High,Often,Yes,Often,8+ hours
+19,Female,Oily,Yes,Mild,1-2 hours,Often,Once,Less than 1 litre,Daily,Moderate,Often,No,Rarely,4-6 hours
+21,Male,Oily,Yes,Moderate,2-4 hours,Sometimes,Once,1-2 litres,Daily,Moderate,Sometimes,Yes,Often,4-6 hours
+16,Male,Oily,Yes,Mild,Less than 1 hour,Never,More than twice,1-2 litres,3-4 times a week,Moderate,Very often,No,Sometimes,4-6 hours
+17,Female,Oily,No,None,1-2 hours,Daily,Twice,Less than 1 litre,3-4 times a week,Moderate,Rarely,No,Often,6-8 hours
+22,Female,Oily,Yes,Mild,1-2 hours,Sometimes,Twice,2-3 litres,Rarely,Moderate,Sometimes,Yes,Sometimes,4-6 hours
+18,Female,Normal,Yes,Moderate,2-4 hours,Daily,Once,3+ litres,3-4 times a week,Moderate,Very often,No,Often,6-8 hours
+21,Female,Dry,No,None,1-2 hours,Daily,Once,Less than 1 litre,Daily,Moderate,Sometimes,No,Often,6-8 hours
+18,Male,Dry,Yes,Mild,2-4 hours,Daily,Twice,Less than 1 litre,Daily,Very low,Often,No,Sometimes,4-6 hours
+19,Male,Oily,Yes,Mild,Less than 1 hour,Never,Twice,3+ litres,Daily,High,Very often,No,Sometimes,4-6 hours
+20,Female,Oily,Yes,Severe,1-2 hours,Often,More than twice,1-2 litres,Daily,Moderate,Very often,Yes,Sometimes,4-6 hours
+21,Female,Oily,Yes,Mild,1-2 hours,Never,Twice,Less than 1 litre,Rarely,Moderate,Very often,No,Often,4-6 hours
+19,Male,Oily,Yes,Severe,2-4 hours,Daily,Once,2-3 litres,Rarely,High,Sometimes,No,Often,6-8 hours
+21,Female,Combination,Yes,Moderate,2-4 hours,Never,More than twice,2-3 litres,3-4 times a week,Moderate,Very often,No,Often,4-6 hours
+22,Female,Dry,No,None,1-2 hours,Sometimes,Once,1-2 litres,1-2 times a week,Very low,Very often,No,Often,4-6 hours
+16,Female,Dry,Yes,Moderate,Less than 1 hour,Often,More than twice,1-2 litres,Daily,Very low,Often,Yes,Sometimes,6-8 hours
+17,Female,Oily,Yes,Mild,2-4 hours,Never,More than twice,Less than 1 litre,Daily,Very low,Very often,No,Sometimes,4-6 hours
+17,Female,Dry,Yes,Mild,1-2 hours,Never,Twice,Less than 1 litre,3-4 times a week,High,Very often,No,Sometimes,4-6 hours
+20,Male,Oily,Yes,Mild,2-4 hours,Sometimes,More than twice,3+ litres,Daily,Moderate,Often,Yes,Often,4-6 hours
+18,Male,Dry,No,None,1-2 hours,Sometimes,Twice,1-2 litres,3-4 times a week,Very low,Often,No,Rarely,4-6 hours
+16,Female,Oily,Yes,Severe,Less than 1 hour,Daily,More than twice,3+ litres,3-4 times a week,Very low,Often,No,Often,8+ hours
+18,Male,Oily,Yes,Severe,Less than 1 hour,Daily,Twice,1-2 litres,Daily,High,Rarely,No,Rarely,6-8 hours
+17,Male,Combination,Yes,Mild,1-2 hours,Often,Twice,Less than 1 litre,3-4 times a week,High,Sometimes,No,Often,6-8 hours
+17,Male,Dry,Yes,Moderate,2-4 hours,Never,Twice,Less than 1 litre,Daily,High,Often,No,Often,4-6 hours
+20,Female,Combination,No,None,2-4 hours,Often,Once,Less than 1 litre,Daily,Very low,Often,No,Sometimes,4-6 hours
+17,Male,Oily,Yes,Mild,1-2 hours,Often,Once,2-3 litres,3-4 times a week,Moderate,Rarely,No,Often,4-6 hours
+26,Male,Oily,Yes,Mild,Less than 1 hour,Sometimes,Twice,3+ litres,3-4 times a week,Moderate,Rarely,No,Often,4-6 hours
+20,Female,Dry,Yes,Mild,Less than 1 hour,Sometimes,Once,2-3 litres,Daily,High,Often,Yes,Sometimes,4-6 hours
+18,Female,Combination,No,None,2-4 hours,Often,More than twice,3+ litres,3-4 times a week,Moderate,Sometimes,No,Sometimes,6-8 hours
+18,Female,Oily,No,None,2-4 hours,Never,Once,3+ litres,3-4 times a week,High,Sometimes,No,Often,6-8 hours
+17,Female,Combination,Yes,Moderate,2-4 hours,Sometimes,Twice,Less than 1 litre,Daily,Very low,Often,Yes,Often,8+ hours
+22,Male,Oily,No,None,2-4 hours,Daily,Twice,Less than 1 litre,Daily,High,Rarely,Yes,Rarely,8+ hours
+16,Female,Combination,Yes,Moderate,Less than 1 hour,Sometimes,Once,Less than 1 litre,Daily,Moderate,Often,No,Sometimes,4-6 hours
+23,Male,Oily,Yes,Mild,Less than 1 hour,Sometimes,Twice,3+ litres,3-4 times a week,Very low,Very often,No,Often,4-6 hours
+16,Male,Oily,Yes,Mild,1-2 hours,Never,Twice,2-3 litres,Daily,Very low,Very often,Yes,Rarely,6-8 hours
+18,Male,Dry,No,None,1-2 hours,Daily,Twice,3+ litres,1-2 times a week,High,Often,No,Sometimes,8+ hours
+22,Female,Combination,Yes,Moderate,2-4 hours,Often,Once,Less than 1 litre,Daily,Moderate,Sometimes,No,Sometimes,4-6 hours
+23,Male,Oily,No,None,1-2 hours,Sometimes,Twice,Less than 1 litre,1-2 times a week,High,Very often,Yes,Often,4-6 hours
+20,Male,Oily,Yes,Severe,2-4 hours,Sometimes,Once,1-2 litres,Daily,Moderate,Sometimes,No,Sometimes,6-8 hours
+18,Male,Oily,Yes,Moderate,Less than 1 hour,Sometimes,Once,3+ litres,1-2 times a week,High,Very often,No,Rarely,4-6 hours
+19,Male,Oily,Yes,Mild,1-2 hours,Sometimes,Once,3+ litres,3-4 times a week,Moderate,Often,No,Often,4-6 hours
+18,Female,Normal,Yes,Moderate,Less than 1 hour,Daily,Twice,3+ litres,1-2 times a week,Moderate,Very often,No,Often,4-6 hours
+18,Female,Combination,No,None,2-4 hours,Daily,Once,1-2 litres,Rarely,Very low,Sometimes,Yes,Often,6-8 hours
+24,Female,Normal,Yes,Mild,2-4 hours,Sometimes,Once,1-2 litres,3-4 times a week,Moderate,Rarely,Yes,Often,6-8 hours
+16,Female,Dry,Yes,Moderate,1-2 hours,Often,Once,Less than 1 litre,Rarely,High,Often,Yes,Sometimes,4-6 hours
+21,Male,Oily,No,None,Less than 1 hour,Daily,More than twice,3+ litres,1-2 times a week,Very low,Rarely,No,Often,8+ hours
+19,Male,Oily,Yes,Mild,2-4 hours,Sometimes,Twice,2-3 litres,1-2 times a week,High,Very often,No,Often,4-6 hours
+22,Male,Combination,No,None,Less than 1 hour,Sometimes,Once,2-3 litres,Daily,Moderate,Often,No,Rarely,6-8 hours
+23,Male,Oily,Yes,Mild,2-4 hours,Never,Once,2-3 litres,1-2 times a week,Moderate,Often,No,Often,6-8 hours
+20,Male,Dry,No,None,Less than 1 hour,Often,Twice,3+ litres,3-4 times a week,High,Rarely,Yes,Sometimes,4-6 hours
+16,Male,Oily,Yes,Severe,1-2 hours,Never,Twice,2-3 litres,1-2 times a week,High,Very often,No,Often,4-6 hours
+18,Female,Oily,Yes,Moderate,2-4 hours,Sometimes,More than twice,2-3 litres,Daily,High,Rarely,No,Sometimes,4-6 hours
+19,Male,Oily,No,None,2-4 hours,Daily,Once,Less than 1 litre,Rarely,High,Often,No,Sometimes,6-8 hours
+20,Female,Oily,No,None,2-4 hours,Often,Once,Less than 1 litre,3-4 times a week,Moderate,Often,No,Sometimes,8+ hours
+19,Male,Oily,Yes,Mild,Less than 1 hour,Daily,Once,3+ litres,Daily,High,Rarely,No,Sometimes,4-6 hours
+19,Male,Oily,Yes,Mild,1-2 hours,Daily,More than twice,Less than 1 litre,3-4 times a week,Moderate,Often,Yes,Sometimes,4-6 hours
+16,Female,Oily,No,None,2-4 hours,Often,More than twice,3+ litres,3-4 times a week,Moderate,Sometimes,No,Sometimes,6-8 hours
+22,Female,Oily,No,None,1-2 hours,Sometimes,Twice,1-2 litres,3-4 times a week,Very low,Rarely,No,Sometimes,6-8 hours
+24,Male,Combination,Yes,Severe,Less than 1 hour,Never,Once,1-2 litres,Daily,High,Very often,No,Often,4-6 hours
+16,Male,Normal,Yes,Mild,1-2 hours,Never,Once,2-3 litres,1-2 times a week,Moderate,Often,No,Often,4-6 hours
+20,Male,Oily,Yes,Moderate,2-4 hours,Never,Twice,3+ litres,Daily,Moderate,Very often,No,Sometimes,4-6 hours
+21,Female,Combination,No,None,Less than 1 hour,Sometimes,Twice,3+ litres,Rarely,High,Sometimes,No,Sometimes,4-6 hours
+23,Female,Oily,Yes,Moderate,Less than 1 hour,Sometimes,More than twice,2-3 litres,Rarely,Very low,Often,Yes,Sometimes,4-6 hours
+20,Female,Oily,Yes,Severe,Less than 1 hour,Often,Twice,3+ litres,3-4 times a week,High,Sometimes,No,Often,4-6 hours
+20,Female,Dry,Yes,Moderate,1-2 hours,Often,More than twice,Less than 1 litre,3-4 times a week,High,Very often,No,Often,4-6 hours
+16,Female,Oily,Yes,Mild,2-4 hours,Daily,More than twice,2-3 litres,1-2 times a week,High,Sometimes,No,Often,6-8 hours
+20,Male,Oily,Yes,Mild,2-4 hours,Often,More than twice,2-3 litres,3-4 times a week,Moderate,Very often,No,Often,4-6 hours
+21,Female,Oily,Yes,Mild,Less than 1 hour,Never,More than twice,Less than 1 litre,Daily,Moderate,Often,No,Often,4-6 hours
+16,Female,Dry,No,None,2-4 hours,Never,Once,Less than 1 litre,Rarely,Moderate,Rarely,No,Sometimes,6-8 hours
+23,Male,Oily,Yes,Moderate,2-4 hours,Often,Twice,3+ litres,3-4 times a week,Very low,Sometimes,Yes,Often,4-6 hours
+20,Male,Oily,Yes,Mild,1-2 hours,Never,More than twice,Less than 1 litre,Daily,Very low,Often,Yes,Often,4-6 hours
+25,Female,Combination,Yes,Moderate,1-2 hours,Often,More than twice,2-3 litres,Daily,Very low,Often,No,Rarely,4-6 hours
+16,Female,Combination,No,None,1-2 hours,Daily,More than twice,1-2 litres,Rarely,High,Sometimes,No,Often,6-8 hours
+17,Female,Oily,Yes,Moderate,1-2 hours,Often,More than twice,Less than 1 litre,3-4 times a week,Moderate,Rarely,No,Rarely,6-8 hours
+19,Male,Oily,Yes,Moderate,2-4 hours,Daily,Once,3+ litres,3-4 times a week,Moderate,Very often,Yes,Sometimes,4-6 hours
+26,Male,Combination,Yes,Mild,2-4 hours,Often,Once,1-2 litres,Daily,Moderate,Sometimes,Yes,Often,4-6 hours
+20,Male,Normal,Yes,Moderate,1-2 hours,Sometimes,Once,1-2 litres,1-2 times a week,Moderate,Very often,No,Often,4-6 hours
+16,Female,Oily,Yes,Mild,1-2 hours,Often,More than twice,3+ litres,Daily,High,Sometimes,No,Often,6-8 hours
+23,Male,Normal,No,None,1-2 hours,Daily,Twice,1-2 litres,Daily,Moderate,Sometimes,No,Sometimes,4-6 hours
+19,Female,Oily,Yes,Moderate,1-2 hours,Daily,Twice,1-2 litres,Daily,High,Very often,No,Often,6-8 hours
+23,Female,Dry,No,None,Less than 1 hour,Daily,More than twice,Less than 1 litre,1-2 times a week,Moderate,Rarely,No,Often,4-6 hours
+16,Female,Oily,No,None,1-2 hours,Never,More than twice,3+ litres,3-4 times a week,Moderate,Rarely,Yes,Sometimes,4-6 hours
+26,Female,Dry,No,None,1-2 hours,Sometimes,More than twice,Less than 1 litre,Daily,Very low,Rarely,No,Rarely,4-6 hours
+21,Male,Oily,Yes,Severe,1-2 hours,Often,Twice,2-3 litres,Daily,Moderate,Often,Yes,Often,4-6 hours
+16,Female,Dry,Yes,Moderate,2-4 hours,Sometimes,More than twice,2-3 litres,Rarely,Moderate,Often,No,Often,4-6 hours
+18,Female,Combination,Yes,Mild,2-4 hours,Never,Once,1-2 litres,Daily,High,Very often,No,Sometimes,4-6 hours
+16,Female,Combination,Yes,Severe,1-2 hours,Often,More than twice,2-3 litres,Daily,Very low,Sometimes,No,Often,4-6 hours
+23,Female,Oily,No,None,1-2 hours,Sometimes,Twice,Less than 1 litre,1-2 times a week,Moderate,Rarely,No,Rarely,8+ hours
+16,Male,Oily,Yes,Mild,2-4 hours,Often,Twice,1-2 litres,3-4 times a week,Moderate,Often,No,Rarely,4-6 hours
+16,Female,Dry,Yes,Moderate,Less than 1 hour,Often,Once,2-3 litres,Daily,High,Sometimes,No,Rarely,4-6 hours
+18,Female,Oily,Yes,Mild,2-4 hours,Often,Twice,3+ litres,1-2 times a week,Moderate,Very often,No,Rarely,4-6 hours
+18,Female,Oily,Yes,Moderate,Less than 1 hour,Never,Twice,2-3 litres,Daily,Very low,Very often,No,Sometimes,4-6 hours
+22,Female,Oily,Yes,Moderate,Less than 1 hour,Sometimes,More than twice,1-2 litres,3-4 times a week,High,Very often,No,Often,4-6 hours
+26,Male,Oily,Yes,Mild,1-2 hours,Daily,More than twice,1-2 litres,1-2 times a week,Very low,Often,No,Often,6-8 hours
+22,Male,Oily,Yes,Moderate,1-2 hours,Often,More than twice,2-3 litres,Daily,Very low,Often,No,Often,6-8 hours
+22,Female,Oily,Yes,Moderate,2-4 hours,Often,Twice,1-2 litres,3-4 times a week,Very low,Very often,Yes,Sometimes,4-6 hours
+19,Female,Normal,Yes,Moderate,1-2 hours,Daily,Twice,1-2 litres,Rarely,Moderate,Very often,No,Often,4-6 hours
+23,Male,Oily,Yes,Mild,Less than 1 hour,Daily,More than twice,3+ litres,Daily,Very low,Very often,Yes,Sometimes,4-6 hours
+26,Female,Combination,Yes,Moderate,Less than 1 hour,Never,Twice,Less than 1 litre,Daily,High,Often,Yes,Often,4-6 hours
+24,Female,Oily,Yes,Mild,2-4 hours,Daily,Twice,2-3 litres,Daily,Very low,Sometimes,No,Often,6-8 hours
+18,Female,Oily,Yes,Moderate,1-2 hours,Never,More than twice,3+ litres,3-4 times a week,Moderate,Often,Yes,Often,8+ hours
+23,Female,Combination,No,None,1-2 hours,Daily,Twice,2-3 litres,Rarely,High,Rarely,Yes,Rarely,6-8 hours
+22,Female,Oily,Yes,Mild,Less than 1 hour,Daily,Twice,3+ litres,Rarely,Moderate,Often,Yes,Sometimes,4-6 hours
+20,Male,Dry,No,None,Less than 1 hour,Often,Once,2-3 litres,Rarely,High,Sometimes,No,Rarely,6-8 hours
+22,Male,Oily,Yes,Moderate,2-4 hours,Daily,Once,2-3 litres,3-4 times a week,Very low,Often,Yes,Rarely,4-6 hours
+16,Female,Oily,No,None,Less than 1 hour,Never,More than twice,Less than 1 litre,3-4 times a week,High,Sometimes,Yes,Sometimes,6-8 hours
+21,Male,Dry,Yes,Severe,Less than 1 hour,Daily,More than twice,3+ litres,Daily,Moderate,Very often,No,Rarely,4-6 hours
+18,Female,Oily,Yes,Moderate,2-4 hours,Never,Twice,2-3 litres,Daily,High,Often,Yes,Often,8+ hours
+22,Male,Dry,Yes,Mild,1-2 hours,Never,Twice,1-2 litres,Rarely,High,Sometimes,No,Often,4-6 hours
+16,Male,Oily,Yes,Moderate,2-4 hours,Sometimes,Once,Less than 1 litre,3-4 times a week,High,Sometimes,No,Sometimes,8+ hours
+20,Female,Combination,Yes,Moderate,2-4 hours,Daily,Once,Less than 1 litre,3-4 times a week,Very low,Very often,Yes,Sometimes,4-6 hours
+18,Male,Combination,Yes,Mild,Less than 1 hour,Never,Once,1-2 litres,1-2 times a week,Very low,Often,No,Sometimes,4-6 hours
+27,Male,Combination,No,None,1-2 hours,Never,Once,2-3 litres,1-2 times a week,High,Very often,Yes,Sometimes,6-8 hours
+18,Female,Oily,No,None,Less than 1 hour,Often,Once,2-3 litres,1-2 times a week,High,Often,No,Often,6-8 hours
+19,Male,Oily,Yes,Mild,1-2 hours,Never,Twice,1-2 litres,Daily,Moderate,Very often,Yes,Often,6-8 hours
+20,Female,Combination,Yes,Severe,2-4 hours,Daily,More than twice,3+ litres,Daily,Moderate,Very often,No,Often,6-8 hours
+21,Female,Combination,Yes,Moderate,1-2 hours,Sometimes,Twice,2-3 litres,Daily,Moderate,Often,No,Often,4-6 hours
+17,Male,Combination,No,None,Less than 1 hour,Often,More than twice,Less than 1 litre,Daily,Very low,Often,No,Often,4-6 hours
+20,Male,Combination,Yes,Moderate,1-2 hours,Sometimes,More than twice,2-3 litres,3-4 times a week,Moderate,Very often,No,Sometimes,4-6 hours
+24,Male,Normal,No,None,2-4 hours,Never,Once,1-2 litres,3-4 times a week,High,Sometimes,No,Often,8+ hours
+21,Female,Oily,Yes,Mild,1-2 hours,Sometimes,Twice,3+ litres,Daily,High,Often,No,Often,6-8 hours
+16,Male,Oily,Yes,Severe,1-2 hours,Never,More than twice,3+ litres,Daily,Moderate,Rarely,No,Sometimes,4-6 hours
+23,Male,Oily,Yes,Severe,Less than 1 hour,Never,Twice,3+ litres,Daily,Moderate,Sometimes,Yes,Rarely,4-6 hours
+16,Female,Oily,Yes,Moderate,2-4 hours,Daily,Once,Less than 1 litre,3-4 times a week,Very low,Often,Yes,Sometimes,6-8 hours
+27,Female,Oily,Yes,Mild,2-4 hours,Daily,Twice,1-2 litres,Daily,Moderate,Sometimes,Yes,Rarely,8+ hours
+19,Male,Oily,Yes,Severe,2-4 hours,Often,More than twice,3+ litres,Daily,Very low,Sometimes,Yes,Often,6-8 hours
+16,Male,Dry,Yes,Mild,2-4 hours,Sometimes,More than twice,2-3 litres,Daily,Moderate,Very often,Yes,Sometimes,4-6 hours
+16,Male,Normal,Yes,Severe,Less than 1 hour,Sometimes,Twice,1-2 litres,1-2 times a week,Moderate,Very often,No,Often,4-6 hours
+25,Female,Oily,Yes,Mild,1-2 hours,Often,Once,1-2 litres,3-4 times a week,High,Often,Yes,Rarely,4-6 hours
+22,Female,Combination,No,None,1-2 hours,Sometimes,Once,Less than 1 litre,3-4 times a week,Very low,Sometimes,No,Sometimes,8+ hours
+20,Male,Combination,No,None,Less than 1 hour,Never,More than twice,3+ litres,Daily,High,Rarely,No,Often,6-8 hours
+18,Male,Oily,No,None,2-4 hours,Often,More than twice,1-2 litres,3-4 times a week,High,Rarely,No,Sometimes,8+ hours
+20,Male,Combination,Yes,Moderate,1-2 hours,Never,More than twice,2-3 litres,Daily,Moderate,Rarely,Yes,Rarely,4-6 hours
+23,Male,Combination,Yes,Mild,2-4 hours,Daily,More than twice,Less than 1 litre,1-2 times a week,High,Very often,Yes,Rarely,4-6 hours
+18,Male,Oily,Yes,Mild,1-2 hours,Often,Once,Less than 1 litre,Daily,Very low,Very often,No,Sometimes,4-6 hours
+18,Female,Oily,Yes,Severe,1-2 hours,Daily,Once,2-3 litres,Daily,Very low,Very often,No,Sometimes,4-6 hours
+19,Female,Oily,Yes,Mild,2-4 hours,Never,Once,3+ litres,Daily,High,Often,No,Often,6-8 hours
+18,Male,Oily,Yes,Mild,Less than 1 hour,Often,Twice,3+ litres,Daily,Very low,Sometimes,No,Sometimes,4-6 hours
+19,Male,Oily,Yes,Moderate,2-4 hours,Often,More than twice,3+ litres,1-2 times a week,Moderate,Often,No,Sometimes,4-6 hours
+25,Female,Combination,No,None,2-4 hours,Often,Once,2-3 litres,Daily,High,Rarely,No,Sometimes,8+ hours
+24,Male,Oily,Yes,Moderate,Less than 1 hour,Often,More than twice,Less than 1 litre,3-4 times a week,High,Sometimes,Yes,Often,4-6 hours
+20,Female,Combination,No,None,2-4 hours,Often,Twice,1-2 litres,Daily,Moderate,Sometimes,No,Rarely,4-6 hours
+22,Male,Oily,Yes,Severe,2-4 hours,Daily,Once,1-2 litres,1-2 times a week,Very low,Often,Yes,Rarely,6-8 hours
+17,Male,Dry,Yes,Severe,Less than 1 hour,Often,More than twice,Less than 1 litre,Daily,Moderate,Rarely,No,Often,6-8 hours
+17,Male,Combination,Yes,Moderate,Less than 1 hour,Daily,More than twice,2-3 litres,Daily,Moderate,Often,No,Sometimes,6-8 hours
+19,Female,Oily,Yes,Mild,Less than 1 hour,Often,Twice,1-2 litres,Daily,High,Often,Yes,Often,4-6 hours
+18,Female,Combination,Yes,Moderate,Less than 1 hour,Often,Once,1-2 litres,3-4 times a week,High,Often,No,Often,6-8 hours
+18,Female,Combination,No,None,Less than 1 hour,Never,More than twice,3+ litres,1-2 times a week,Moderate,Sometimes,Yes,Often,8+ hours
+16,Male,Combination,Yes,Moderate,Less than 1 hour,Sometimes,Twice,1-2 litres,Daily,High,Sometimes,No,Often,6-8 hours
+16,Male,Oily,Yes,Moderate,Less than 1 hour,Often,Once,2-3 litres,1-2 times a week,Very low,Often,Yes,Often,8+ hours
+19,Male,Oily,Yes,Severe,Less than 1 hour,Never,Twice,2-3 litres,1-2 times a week,Very low,Often,No,Often,4-6 hours
+16,Male,Oily,No,None,2-4 hours,Sometimes,Once,Less than 1 litre,3-4 times a week,Very low,Rarely,No,Rarely,6-8 hours
+20,Female,Dry,Yes,Moderate,Less than 1 hour,Sometimes,Twice,2-3 litres,Daily,High,Often,No,Sometimes,4-6 hours
+22,Male,Combination,Yes,Mild,1-2 hours,Sometimes,Twice,1-2 litres,Daily,High,Sometimes,No,Often,8+ hours
+20,Female,Dry,Yes,Moderate,Less than 1 hour,Often,Twice,2-3 litres,Daily,Very low,Sometimes,Yes,Sometimes,4-6 hours
+19,Female,Oily,Yes,Moderate,2-4 hours,Daily,Twice,3+ litres,3-4 times a week,Very low,Very often,No,Often,4-6 hours
+17,Male,Oily,Yes,Severe,2-4 hours,Never,Twice,Less than 1 litre,Daily,Moderate,Sometimes,Yes,Sometimes,4-6 hours
+26,Female,Combination,No,None,1-2 hours,Sometimes,More than twice,Less than 1 litre,1-2 times a week,Moderate,Very often,No,Often,6-8 hours
+25,Male,Dry,Yes,Moderate,2-4 hours,Never,More than twice,2-3 litres,3-4 times a week,Moderate,Often,No,Often,4-6 hours
+20,Male,Oily,Yes,Mild,2-4 hours,Often,More than twice,2-3 litres,Daily,High,Sometimes,Yes,Often,8+ hours
+16,Male,Oily,Yes,Mild,1-2 hours,Daily,Twice,3+ litres,Daily,Moderate,Often,Yes,Sometimes,4-6 hours
+21,Female,Oily,Yes,Severe,1-2 hours,Often,Once,1-2 litres,Daily,Moderate,Very often,Yes,Rarely,4-6 hours
+23,Female,Combination,No,None,2-4 hours,Never,Once,1-2 litres,Daily,Moderate,Often,No,Often,6-8 hours
+16,Female,Oily,No,None,1-2 hours,Never,Twice,2-3 litres,Daily,High,Sometimes,No,Rarely,4-6 hours
+19,Female,Oily,Yes,Mild,2-4 hours,Often,Once,2-3 litres,3-4 times a week,High,Often,No,Often,4-6 hours
+17,Male,Oily,No,None,Less than 1 hour,Never,More than twice,3+ litres,Daily,Very low,Sometimes,No,Sometimes,8+ hours
+17,Male,Oily,Yes,Moderate,Less than 1 hour,Sometimes,More than twice,2-3 litres,Rarely,Very low,Sometimes,No,Rarely,4-6 hours
+22,Male,Dry,Yes,Moderate,Less than 1 hour,Never,Twice,3+ litres,3-4 times a week,Moderate,Rarely,No,Rarely,4-6 hours
+16,Female,Oily,Yes,Severe,1-2 hours,Daily,More than twice,1-2 litres,3-4 times a week,High,Very often,Yes,Often,4-6 hours
+22,Male,Dry,Yes,Moderate,2-4 hours,Daily,More than twice,1-2 litres,Daily,Very low,Often,No,Rarely,4-6 hours
+17,Female,Oily,Yes,Severe,2-4 hours,Sometimes,Once,3+ litres,Daily,Moderate,Often,Yes,Sometimes,4-6 hours
+16,Female,Oily,Yes,Mild,1-2 hours,Daily,Twice,1-2 litres,Rarely,Moderate,Often,Yes,Rarely,4-6 hours
+16,Female,Oily,Yes,Moderate,Less than 1 hour,Often,Once,Less than 1 litre,Daily,Moderate,Often,No,Rarely,6-8 hours
+24,Male,Oily,Yes,Severe,Less than 1 hour,Never,Twice,3+ litres,Daily,Moderate,Very often,No,Sometimes,6-8 hours
+19,Male,Oily,Yes,Moderate,1-2 hours,Never,Once,2-3 litres,1-2 times a week,Moderate,Often,No,Sometimes,8+ hours
+24,Male,Oily,Yes,Mild,Less than 1 hour,Daily,More than twice,Less than 1 litre,1-2 times a week,Very low,Sometimes,Yes,Sometimes,4-6 hours
+20,Male,Oily,Yes,Mild,2-4 hours,Never,More than twice,2-3 litres,Daily,High,Very often,No,Often,4-6 hours
+20,Male,Oily,Yes,Mild,2-4 hours,Never,More than twice,1-2 litres,3-4 times a week,High,Rarely,Yes,Often,4-6 hours
+21,Male,Oily,Yes,Moderate,1-2 hours,Sometimes,Once,1-2 litres,3-4 times a week,High,Rarely,Yes,Rarely,4-6 hours
+22,Male,Dry,Yes,Moderate,1-2 hours,Often,More than twice,1-2 litres,Daily,Very low,Very often,No,Sometimes,4-6 hours
+17,Female,Dry,No,None,2-4 hours,Often,Once,2-3 litres,1-2 times a week,Very low,Sometimes,Yes,Often,4-6 hours
+16,Female,Oily,Yes,Moderate,1-2 hours,Daily,More than twice,3+ litres,Daily,High,Very often,No,Often,6-8 hours
+23,Female,Oily,Yes,Severe,1-2 hours,Often,More than twice,2-3 litres,3-4 times a week,Moderate,Rarely,No,Rarely,6-8 hours
+20,Female,Oily,Yes,Severe,Less than 1 hour,Often,Once,1-2 litres,Daily,High,Sometimes,No,Often,6-8 hours
+22,Female,Oily,No,None,Less than 1 hour,Often,More than twice,Less than 1 litre,Rarely,Moderate,Rarely,Yes,Sometimes,6-8 hours
+16,Female,Oily,Yes,Moderate,Less than 1 hour,Never,Twice,1-2 litres,Rarely,Moderate,Very often,Yes,Often,4-6 hours
+17,Male,Combination,Yes,Moderate,1-2 hours,Daily,Once,2-3 litres,1-2 times a week,High,Often,Yes,Sometimes,4-6 hours
+21,Female,Oily,No,None,2-4 hours,Often,More than twice,1-2 litres,Rarely,Moderate,Very often,No,Often,6-8 hours
+16,Male,Oily,Yes,Moderate,2-4 hours,Sometimes,Twice,Less than 1 litre,Daily,Very low,Very often,No,Often,4-6 hours
+17,Male,Oily,No,None,Less than 1 hour,Often,More than twice,2-3 litres,1-2 times a week,Moderate,Sometimes,Yes,Often,4-6 hours
+21,Male,Oily,No,None,Less than 1 hour,Sometimes,More than twice,2-3 litres,3-4 times a week,High,Often,No,Rarely,6-8 hours
+18,Male,Oily,Yes,Severe,Less than 1 hour,Daily,Once,Less than 1 litre,Daily,Very low,Rarely,No,Rarely,4-6 hours
+20,Male,Oily,No,None,2-4 hours,Never,More than twice,Less than 1 litre,1-2 times a week,Moderate,Sometimes,Yes,Sometimes,8+ hours
+17,Female,Oily,Yes,Severe,1-2 hours,Never,Once,1-2 litres,Daily,Moderate,Very often,No,Often,4-6 hours
+20,Female,Oily,No,None,1-2 hours,Daily,Once,Less than 1 litre,1-2 times a week,Very low,Often,Yes,Sometimes,6-8 hours
+23,Female,Normal,Yes,Mild,Less than 1 hour,Never,Twice,3+ litres,3-4 times a week,High,Very often,No,Often,8+ hours
+18,Female,Dry,No,None,2-4 hours,Sometimes,Once,3+ litres,3-4 times a week,Very low,Often,Yes,Sometimes,4-6 hours
+24,Male,Combination,No,None,Less than 1 hour,Never,More than twice,1-2 litres,Rarely,High,Often,Yes,Often,6-8 hours
+21,Male,Dry,No,None,Less than 1 hour,Sometimes,Twice,Less than 1 litre,1-2 times a week,Very low,Very often,Yes,Rarely,4-6 hours
+21,Female,Combination,Yes,Mild,1-2 hours,Never,More than twice,3+ litres,3-4 times a week,High,Often,No,Often,4-6 hours
+22,Male,Oily,Yes,Moderate,Less than 1 hour,Sometimes,Twice,3+ litres,Rarely,Very low,Rarely,No,Often,6-8 hours
+16,Female,Normal,No,None,2-4 hours,Never,Once,1-2 litres,1-2 times a week,Very low,Sometimes,Yes,Sometimes,6-8 hours
+16,Male,Oily,Yes,Mild,2-4 hours,Never,Once,3+ litres,Daily,Very low,Rarely,No,Often,4-6 hours
+19,Male,Oily,Yes,Mild,2-4 hours,Daily,More than twice,1-2 litres,Daily,High,Sometimes,Yes,Often,4-6 hours
+16,Female,Normal,No,None,1-2 hours,Daily,Once,Less than 1 litre,3-4 times a week,High,Sometimes,Yes,Sometimes,6-8 hours
+17,Female,Dry,No,None,1-2 hours,Never,Twice,2-3 litres,Rarely,Very low,Rarely,Yes,Rarely,8+ hours
+21,Female,Normal,Yes,Mild,2-4 hours,Never,Twice,2-3 litres,1-2 times a week,Very low,Often,No,Often,4-6 hours
+25,Female,Oily,Yes,Severe,2-4 hours,Never,More than twice,Less than 1 litre,3-4 times a week,Moderate,Very often,No,Often,4-6 hours
+21,Female,Combination,No,None,Less than 1 hour,Daily,More than twice,1-2 litres,Daily,High,Rarely,Yes,Sometimes,4-6 hours
+22,Male,Oily,Yes,Moderate,1-2 hours,Never,Once,1-2 litres,1-2 times a week,Moderate,Often,No,Sometimes,6-8 hours
+17,Male,Oily,Yes,Severe,2-4 hours,Daily,Twice,Less than 1 litre,3-4 times a week,Very low,Sometimes,No,Often,4-6 hours
+21,Male,Oily,Yes,Severe,1-2 hours,Daily,More than twice,3+ litres,1-2 times a week,Moderate,Very often,No,Often,8+ hours
+22,Male,Oily,Yes,Moderate,1-2 hours,Sometimes,Once,2-3 litres,Daily,High,Rarely,Yes,Often,6-8 hours
+20,Male,Dry,Yes,Mild,1-2 hours,Sometimes,Twice,1-2 litres,Daily,High,Sometimes,No,Often,8+ hours
+16,Male,Dry,No,None,Less than 1 hour,Sometimes,Once,3+ litres,3-4 times a week,High,Rarely,Yes,Sometimes,4-6 hours
+18,Male,Oily,Yes,Moderate,2-4 hours,Often,Twice,2-3 litres,1-2 times a week,Moderate,Often,Yes,Often,6-8 hours
+22,Male,Oily,Yes,Moderate,1-2 hours,Often,Once,3+ litres,1-2 times a week,Moderate,Rarely,Yes,Often,4-6 hours
+22,Male,Oily,Yes,Moderate,1-2 hours,Daily,Twice,2-3 litres,Daily,Very low,Very often,No,Often,4-6 hours
+25,Female,Oily,Yes,Moderate,1-2 hours,Never,More than twice,Less than 1 litre,Daily,High,Often,Yes,Rarely,4-6 hours
+18,Female,Oily,Yes,Moderate,1-2 hours,Often,Once,1-2 litres,Daily,High,Sometimes,No,Often,4-6 hours
+25,Female,Dry,Yes,Mild,1-2 hours,Never,More than twice,Less than 1 litre,Daily,Moderate,Often,Yes,Often,8+ hours
+18,Male,Oily,Yes,Moderate,1-2 hours,Sometimes,Twice,2-3 litres,Daily,Moderate,Sometimes,Yes,Rarely,6-8 hours
+21,Female,Dry,Yes,Moderate,Less than 1 hour,Sometimes,Twice,3+ litres,Daily,Very low,Very often,Yes,Often,4-6 hours
+18,Female,Oily,Yes,Severe,1-2 hours,Never,Once,Less than 1 litre,3-4 times a week,High,Sometimes,No,Rarely,4-6 hours
+22,Male,Oily,Yes,Mild,2-4 hours,Sometimes,More than twice,2-3 litres,Daily,Moderate,Very often,No,Often,4-6 hours
+25,Female,Oily,Yes,Mild,Less than 1 hour,Daily,Once,1-2 litres,Rarely,Moderate,Often,Yes,Rarely,4-6 hours
+24,Male,Oily,Yes,Mild,Less than 1 hour,Sometimes,Twice,2-3 litres,3-4 times a week,Very low,Often,No,Often,6-8 hours
+20,Female,Oily,Yes,Moderate,1-2 hours,Never,Twice,Less than 1 litre,1-2 times a week,Very low,Sometimes,Yes,Sometimes,6-8 hours
+21,Female,Oily,Yes,Moderate,Less than 1 hour,Often,More than twice,Less than 1 litre,Daily,Very low,Sometimes,No,Sometimes,4-6 hours
+18,Male,Oily,No,None,1-2 hours,Never,Twice,1-2 litres,3-4 times a week,Moderate,Very often,No,Rarely,4-6 hours
+16,Male,Oily,Yes,Moderate,Less than 1 hour,Never,Twice,Less than 1 litre,Daily,Very low,Often,No,Often,4-6 hours
+19,Male,Oily,No,None,1-2 hours,Daily,Twice,2-3 litres,3-4 times a week,Moderate,Very often,No,Sometimes,8+ hours
+16,Male,Oily,Yes,Moderate,Less than 1 hour,Sometimes,Once,3+ litres,3-4 times a week,Moderate,Rarely,Yes,Sometimes,4-6 hours
+21,Female,Oily,Yes,Mild,Less than 1 hour,Daily,Once,Less than 1 litre,1-2 times a week,Moderate,Often,No,Often,8+ hours
+16,Male,Combination,No,None,2-4 hours,Daily,Once,2-3 litres,Rarely,High,Very often,No,Rarely,4-6 hours
+16,Female,Oily,Yes,Moderate,1-2 hours,Sometimes,More than twice,Less than 1 litre,3-4 times a week,High,Sometimes,No,Often,8+ hours
+21,Male,Combination,No,None,2-4 hours,Daily,Twice,2-3 litres,Daily,High,Rarely,No,Sometimes,8+ hours
+19,Female,Dry,No,None,1-2 hours,Sometimes,More than twice,1-2 litres,3-4 times a week,Moderate,Often,Yes,Often,8+ hours
+21,Female,Combination,No,None,1-2 hours,Daily,More than twice,3+ litres,3-4 times a week,Moderate,Very often,No,Often,4-6 hours
+19,Male,Combination,Yes,Mild,Less than 1 hour,Often,More than twice,1-2 litres,Daily,High,Sometimes,Yes,Often,4-6 hours
+19,Male,Normal,Yes,Moderate,1-2 hours,Sometimes,More than twice,2-3 litres,1-2 times a week,Moderate,Often,No,Rarely,8+ hours
+20,Female,Combination,Yes,Mild,2-4 hours,Sometimes,Once,Less than 1 litre,3-4 times a week,Very low,Very often,Yes,Often,6-8 hours
+20,Male,Dry,Yes,Moderate,Less than 1 hour,Daily,More than twice,2-3 litres,Daily,Moderate,Very often,No,Often,4-6 hours
+19,Female,Oily,Yes,Severe,Less than 1 hour,Sometimes,More than twice,2-3 litres,3-4 times a week,Very low,Often,No,Sometimes,4-6 hours
+20,Male,Dry,Yes,Mild,2-4 hours,Sometimes,Twice,3+ litres,Daily,High,Sometimes,Yes,Often,6-8 hours
+25,Female,Oily,No,None,1-2 hours,Often,Twice,Less than 1 litre,Rarely,High,Very often,Yes,Sometimes,8+ hours
+16,Female,Dry,No,None,Less than 1 hour,Sometimes,Once,3+ litres,3-4 times a week,Very low,Sometimes,No,Sometimes,4-6 hours
+22,Male,Dry,Yes,Mild,2-4 hours,Daily,Twice,1-2 litres,Daily,Moderate,Sometimes,Yes,Often,4-6 hours
+19,Female,Oily,Yes,Severe,1-2 hours,Daily,More than twice,1-2 litres,Daily,Moderate,Often,No,Often,6-8 hours
+18,Male,Combination,Yes,Severe,Less than 1 hour,Often,More than twice,1-2 litres,Daily,High,Often,Yes,Sometimes,4-6 hours
+17,Male,Oily,Yes,Moderate,1-2 hours,Daily,Once,Less than 1 litre,Daily,High,Very often,No,Sometimes,6-8 hours
+16,Female,Oily,Yes,Moderate,1-2 hours,Often,Twice,2-3 litres,1-2 times a week,Moderate,Very often,Yes,Often,8+ hours
+21,Female,Combination,Yes,Severe,2-4 hours,Daily,More than twice,2-3 litres,Daily,Moderate,Sometimes,Yes,Often,4-6 hours
+26,Male,Oily,No,None,1-2 hours,Often,Twice,3+ litres,Daily,High,Sometimes,No,Sometimes,8+ hours
+25,Female,Oily,No,None,Less than 1 hour,Often,Twice,2-3 litres,1-2 times a week,High,Often,No,Often,4-6 hours
+16,Male,Oily,Yes,Mild,Less than 1 hour,Sometimes,More than twice,3+ litres,Daily,Moderate,Often,Yes,Sometimes,4-6 hours
+18,Male,Oily,Yes,Moderate,Less than 1 hour,Never,Once,3+ litres,1-2 times a week,High,Sometimes,No,Often,4-6 hours
+19,Male,Oily,Yes,Moderate,Less than 1 hour,Often,More than twice,1-2 litres,Daily,High,Very often,No,Sometimes,6-8 hours
+20,Female,Oily,No,None,1-2 hours,Never,More than twice,Less than 1 litre,Rarely,High,Sometimes,No,Sometimes,4-6 hours
+18,Male,Oily,Yes,Mild,1-2 hours,Often,More than twice,3+ litres,Daily,Very low,Often,Yes,Often,6-8 hours
+17,Male,Combination,No,None,2-4 hours,Daily,Twice,3+ litres,1-2 times a week,High,Rarely,No,Sometimes,8+ hours
+19,Male,Combination,Yes,Moderate,Less than 1 hour,Daily,Twice,1-2 litres,3-4 times a week,High,Often,Yes,Often,4-6 hours
+21,Female,Oily,Yes,Mild,1-2 hours,Sometimes,Once,3+ litres,Daily,High,Often,No,Sometimes,8+ hours
+16,Female,Oily,Yes,Mild,Less than 1 hour,Daily,More than twice,3+ litres,3-4 times a week,Very low,Very often,Yes,Often,6-8 hours
+16,Female,Combination,No,None,1-2 hours,Sometimes,Once,3+ litres,3-4 times a week,Moderate,Sometimes,No,Often,6-8 hours
+16,Female,Oily,Yes,Mild,2-4 hours,Daily,Twice,2-3 litres,3-4 times a week,High,Often,No,Often,4-6 hours
+17,Male,Combination,No,None,1-2 hours,Daily,More than twice,1-2 litres,3-4 times a week,Very low,Sometimes,Yes,Rarely,4-6 hours
+19,Female,Oily,Yes,Moderate,2-4 hours,Often,More than twice,Less than 1 litre,Daily,Moderate,Sometimes,No,Sometimes,6-8 hours
+24,Female,Dry,Yes,Moderate,Less than 1 hour,Often,Twice,Less than 1 litre,Daily,Moderate,Sometimes,Yes,Often,6-8 hours
+20,Male,Combination,Yes,Moderate,2-4 hours,Often,Twice,3+ litres,1-2 times a week,Moderate,Very often,Yes,Often,4-6 hours
+16,Female,Combination,Yes,Moderate,Less than 1 hour,Never,More than twice,2-3 litres,Daily,Very low,Often,No,Sometimes,8+ hours
+21,Male,Dry,Yes,Mild,1-2 hours,Daily,More than twice,1-2 litres,Daily,High,Often,No,Often,4-6 hours
+18,Female,Dry,Yes,Severe,2-4 hours,Sometimes,Once,2-3 litres,3-4 times a week,High,Sometimes,No,Often,6-8 hours
+19,Male,Dry,No,None,1-2 hours,Daily,Once,Less than 1 litre,1-2 times a week,High,Sometimes,Yes,Sometimes,6-8 hours
+20,Male,Oily,Yes,Mild,Less than 1 hour,Sometimes,Twice,1-2 litres,Daily,High,Often,Yes,Often,8+ hours
+23,Male,Oily,Yes,Moderate,Less than 1 hour,Never,Once,2-3 litres,3-4 times a week,Very low,Sometimes,Yes,Often,4-6 hours
+21,Male,Normal,Yes,Severe,Less than 1 hour,Often,More than twice,2-3 litres,Daily,High,Often,Yes,Often,4-6 hours
+19,Male,Oily,Yes,Severe,1-2 hours,Often,Twice,Less than 1 litre,1-2 times a week,Very low,Often,No,Often,6-8 hours
+21,Female,Oily,No,None,2-4 hours,Daily,Once,1-2 litres,Daily,Very low,Very often,No,Sometimes,4-6 hours
+16,Male,Oily,Yes,Mild,2-4 hours,Daily,More than twice,3+ litres,1-2 times a week,High,Very often,No,Often,6-8 hours
+20,Male,Normal,No,None,Less than 1 hour,Often,Once,2-3 litres,3-4 times a week,Moderate,Often,No,Rarely,4-6 hours
+24,Male,Oily,Yes,Moderate,2-4 hours,Sometimes,More than twice,Less than 1 litre,3-4 times a week,High,Sometimes,No,Often,4-6 hours
+20,Male,Dry,No,None,2-4 hours,Often,Twice,2-3 litres,1-2 times a week,Very low,Rarely,No,Rarely,4-6 hours
+25,Female,Oily,No,None,1-2 hours,Daily,Twice,1-2 litres,3-4 times a week,Very low,Rarely,No,Rarely,6-8 hours
+16,Female,Normal,Yes,Mild,1-2 hours,Daily,More than twice,1-2 litres,Daily,Moderate,Very often,No,Sometimes,4-6 hours
+24,Male,Oily,Yes,Severe,Less than 1 hour,Never,Twice,Less than 1 litre,Daily,Moderate,Often,No,Rarely,4-6 hours
+16,Male,Dry,No,None,2-4 hours,Sometimes,Twice,2-3 litres,Rarely,Very low,Often,No,Often,8+ hours
+19,Male,Oily,Yes,Moderate,Less than 1 hour,Never,Twice,3+ litres,Rarely,High,Often,No,Often,4-6 hours
+22,Male,Oily,Yes,Mild,Less than 1 hour,Sometimes,More than twice,3+ litres,1-2 times a week,Very low,Sometimes,No,Often,6-8 hours
+16,Male,Combination,Yes,Mild,2-4 hours,Often,Twice,2-3 litres,Daily,Very low,Often,No,Often,6-8 hours
+18,Male,Oily,Yes,Mild,1-2 hours,Never,More than twice,2-3 litres,Daily,Very low,Rarely,No,Rarely,4-6 hours
+16,Male,Dry,Yes,Mild,Less than 1 hour,Sometimes,More than twice,1-2 litres,Daily,High,Sometimes,No,Sometimes,8+ hours
+17,Male,Oily,Yes,Moderate,Less than 1 hour,Daily,Once,1-2 litres,Daily,High,Rarely,No,Rarely,8+ hours
+20,Female,Dry,Yes,Mild,1-2 hours,Sometimes,Twice,3+ litres,Daily,High,Often,No,Often,8+ hours
+23,Female,Oily,Yes,Severe,1-2 hours,Often,Once,1-2 litres,3-4 times a week,High,Very often,No,Sometimes,6-8 hours
+21,Male,Normal,Yes,Mild,2-4 hours,Sometimes,Once,Less than 1 litre,3-4 times a week,Moderate,Sometimes,Yes,Often,4-6 hours
+21,Female,Oily,Yes,Moderate,Less than 1 hour,Daily,More than twice,Less than 1 litre,1-2 times a week,High,Often,No,Sometimes,4-6 hours
+20,Male,Oily,Yes,Mild,2-4 hours,Daily,More than twice,2-3 litres,Daily,Very low,Sometimes,Yes,Sometimes,8+ hours
+22,Male,Combination,Yes,Moderate,Less than 1 hour,Never,Once,Less than 1 litre,Daily,Moderate,Often,No,Often,8+ hours
+20,Female,Normal,No,None,1-2 hours,Often,Twice,3+ litres,1-2 times a week,Moderate,Sometimes,No,Rarely,6-8 hours
+16,Female,Oily,Yes,Mild,2-4 hours,Never,Once,3+ litres,Daily,Moderate,Very often,Yes,Sometimes,8+ hours
+18,Female,Oily,Yes,Moderate,Less than 1 hour,Sometimes,Once,2-3 litres,3-4 times a week,Moderate,Often,No,Often,4-6 hours
+16,Female,Normal,Yes,Moderate,1-2 hours,Daily,More than twice,2-3 litres,Daily,High,Very often,No,Often,4-6 hours
+20,Male,Oily,Yes,Moderate,2-4 hours,Never,Twice,3+ litres,3-4 times a week,Moderate,Very often,No,Often,4-6 hours
+16,Female,Oily,Yes,Mild,2-4 hours,Daily,Twice,2-3 litres,1-2 times a week,High,Often,No,Often,6-8 hours
+16,Male,Oily,Yes,Mild,2-4 hours,Sometimes,Twice,1-2 litres,Daily,Moderate,Very often,No,Rarely,6-8 hours
+24,Male,Oily,Yes,Mild,1-2 hours,Sometimes,More than twice,1-2 litres,3-4 times a week,Moderate,Often,No,Often,6-8 hours
+20,Male,Oily,Yes,Moderate,2-4 hours,Never,Once,3+ litres,Daily,Moderate,Often,Yes,Often,6-8 hours
+18,Female,Oily,Yes,Severe,2-4 hours,Daily,Once,1-2 litres,Daily,Very low,Very often,No,Rarely,4-6 hours
+23,Male,Normal,Yes,Moderate,2-4 hours,Sometimes,More than twice,2-3 litres,Daily,High,Often,No,Often,4-6 hours
+19,Female,Dry,Yes,Severe,Less than 1 hour,Often,Twice,1-2 litres,1-2 times a week,High,Very often,No,Often,6-8 hours
+18,Male,Oily,Yes,Moderate,1-2 hours,Daily,Twice,2-3 litres,1-2 times a week,Moderate,Rarely,No,Often,8+ hours
+20,Male,Oily,Yes,Mild,2-4 hours,Sometimes,Twice,1-2 litres,Daily,Very low,Sometimes,No,Sometimes,4-6 hours
+20,Male,Oily,Yes,Mild,2-4 hours,Often,Twice,1-2 litres,3-4 times a week,Moderate,Often,Yes,Often,4-6 hours
+21,Male,Oily,Yes,Moderate,2-4 hours,Often,More than twice,Less than 1 litre,Daily,Moderate,Often,No,Sometimes,4-6 hours
+24,Female,Dry,Yes,Mild,1-2 hours,Daily,Once,1-2 litres,Daily,Very low,Very often,Yes,Sometimes,4-6 hours
+24,Female,Oily,Yes,Mild,1-2 hours,Often,More than twice,3+ litres,3-4 times a week,High,Often,Yes,Rarely,6-8 hours
+21,Female,Oily,Yes,Moderate,1-2 hours,Sometimes,Once,Less than 1 litre,Rarely,High,Very often,Yes,Often,6-8 hours
+19,Female,Combination,Yes,Moderate,2-4 hours,Sometimes,Once,2-3 litres,3-4 times a week,Very low,Very often,No,Often,4-6 hours
+18,Male,Oily,Yes,Mild,2-4 hours,Never,More than twice,1-2 litres,Daily,Moderate,Sometimes,No,Often,6-8 hours
+16,Male,Combination,No,None,1-2 hours,Daily,Once,Less than 1 litre,Daily,Moderate,Sometimes,No,Rarely,4-6 hours
+17,Male,Oily,Yes,Severe,Less than 1 hour,Often,More than twice,Less than 1 litre,Daily,Moderate,Often,Yes,Sometimes,4-6 hours
+23,Male,Normal,Yes,Mild,1-2 hours,Sometimes,Once,2-3 litres,Daily,Very low,Rarely,No,Often,4-6 hours
+16,Male,Combination,Yes,Severe,Less than 1 hour,Never,Twice,1-2 litres,1-2 times a week,Moderate,Often,Yes,Rarely,4-6 hours
+16,Female,Oily,Yes,Moderate,Less than 1 hour,Daily,Once,3+ litres,1-2 times a week,High,Often,No,Sometimes,8+ hours
+16,Male,Combination,Yes,Moderate,1-2 hours,Daily,Once,1-2 litres,1-2 times a week,High,Often,No,Often,4-6 hours
+20,Male,Dry,No,None,1-2 hours,Never,More than twice,Less than 1 litre,Rarely,High,Often,Yes,Sometimes,6-8 hours
+25,Female,Combination,Yes,Mild,Less than 1 hour,Sometimes,Twice,3+ litres,1-2 times a week,Very low,Often,No,Sometimes,4-6 hours
+24,Male,Oily,Yes,Moderate,2-4 hours,Never,Twice,1-2 litres,Daily,High,Often,No,Often,4-6 hours
+17,Female,Oily,No,None,Less than 1 hour,Often,Twice,2-3 litres,Daily,Moderate,Sometimes,Yes,Sometimes,6-8 hours
+22,Female,Oily,Yes,Moderate,Less than 1 hour,Sometimes,Twice,2-3 litres,Daily,Very low,Rarely,No,Often,8+ hours
+25,Female,Oily,Yes,Mild,2-4 hours,Daily,More than twice,1-2 litres,3-4 times a week,Moderate,Often,Yes,Rarely,4-6 hours
+19,Male,Combination,No,None,Less than 1 hour,Never,More than twice,Less than 1 litre,3-4 times a week,Very low,Rarely,No,Often,6-8 hours
+20,Male,Combination,No,None,1-2 hours,Sometimes,Once,1-2 litres,Rarely,Moderate,Sometimes,No,Often,6-8 hours
+16,Female,Combination,Yes,Mild,2-4 hours,Never,Twice,3+ litres,Daily,High,Often,No,Often,8+ hours
+20,Female,Normal,No,None,2-4 hours,Daily,Twice,Less than 1 litre,3-4 times a week,Very low,Rarely,No,Often,6-8 hours
+19,Female,Oily,Yes,Severe,1-2 hours,Often,Once,Less than 1 litre,3-4 times a week,Moderate,Often,No,Often,4-6 hours
+16,Male,Combination,Yes,Moderate,2-4 hours,Sometimes,Once,2-3 litres,Rarely,High,Very often,Yes,Often,8+ hours
+24,Male,Oily,Yes,Mild,1-2 hours,Often,Twice,2-3 litres,Daily,Moderate,Sometimes,No,Sometimes,4-6 hours
+19,Female,Combination,Yes,Severe,Less than 1 hour,Often,Twice,1-2 litres,3-4 times a week,Moderate,Often,No,Sometimes,6-8 hours
+22,Male,Oily,Yes,Severe,2-4 hours,Sometimes,More than twice,Less than 1 litre,Rarely,Moderate,Often,No,Often,4-6 hours
+24,Male,Oily,Yes,Mild,Less than 1 hour,Often,Once,2-3 litres,Daily,High,Rarely,No,Rarely,6-8 hours
+22,Male,Normal,Yes,Mild,1-2 hours,Sometimes,More than twice,3+ litres,1-2 times a week,Moderate,Often,No,Often,8+ hours
+20,Male,Oily,No,None,1-2 hours,Never,Once,2-3 litres,Rarely,Very low,Rarely,Yes,Sometimes,4-6 hours
+20,Female,Oily,Yes,Moderate,Less than 1 hour,Sometimes,Once,Less than 1 litre,Daily,Very low,Often,No,Often,4-6 hours
+20,Female,Oily,Yes,Mild,1-2 hours,Sometimes,Twice,1-2 litres,Daily,High,Sometimes,No,Rarely,4-6 hours
+17,Female,Oily,No,None,Less than 1 hour,Sometimes,Once,2-3 litres,1-2 times a week,Moderate,Very often,No,Rarely,6-8 hours
+20,Female,Combination,Yes,Mild,2-4 hours,Daily,Twice,2-3 litres,3-4 times a week,Very low,Very often,No,Often,4-6 hours
+24,Male,Oily,Yes,Mild,Less than 1 hour,Daily,Once,2-3 litres,3-4 times a week,High,Rarely,No,Often,4-6 hours
+18,Male,Combination,No,None,1-2 hours,Often,Twice,Less than 1 litre,1-2 times a week,Very low,Often,Yes,Often,8+ hours
+17,Female,Oily,Yes,Moderate,Less than 1 hour,Sometimes,More than twice,Less than 1 litre,1-2 times a week,Moderate,Often,Yes,Often,4-6 hours
+17,Female,Oily,Yes,Mild,2-4 hours,Often,More than twice,1-2 litres,Daily,Moderate,Often,No,Sometimes,8+ hours
+23,Female,Combination,No,None,2-4 hours,Sometimes,Twice,3+ litres,3-4 times a week,Moderate,Often,Yes,Sometimes,8+ hours
+19,Male,Oily,Yes,Moderate,Less than 1 hour,Often,Once,Less than 1 litre,3-4 times a week,Moderate,Very often,No,Rarely,4-6 hours
+21,Female,Combination,Yes,Moderate,Less than 1 hour,Often,More than twice,1-2 litres,Daily,Very low,Often,No,Sometimes,6-8 hours
+21,Female,Oily,Yes,Mild,2-4 hours,Never,Once,2-3 litres,3-4 times a week,Very low,Sometimes,Yes,Often,8+ hours
+20,Female,Combination,No,None,1-2 hours,Sometimes,Twice,2-3 litres,Daily,Very low,Sometimes,Yes,Sometimes,4-6 hours
+21,Female,Normal,Yes,Mild,2-4 hours,Sometimes,More than twice,1-2 litres,1-2 times a week,Very low,Often,No,Often,4-6 hours
+19,Female,Oily,Yes,Mild,2-4 hours,Daily,Twice,3+ litres,3-4 times a week,High,Often,Yes,Often,6-8 hours
+21,Male,Oily,No,None,Less than 1 hour,Sometimes,More than twice,3+ litres,Daily,High,Often,No,Sometimes,4-6 hours
+21,Male,Oily,Yes,Moderate,2-4 hours,Never,More than twice,2-3 litres,Daily,Very low,Sometimes,No,Often,4-6 hours
+17,Male,Normal,Yes,Moderate,2-4 hours,Often,Once,2-3 litres,Daily,Very low,Very often,Yes,Often,8+ hours
+24,Male,Dry,No,None,Less than 1 hour,Never,Twice,1-2 litres,3-4 times a week,High,Sometimes,No,Often,6-8 hours
+19,Female,Oily,Yes,Moderate,2-4 hours,Often,Once,1-2 litres,Daily,Moderate,Often,Yes,Rarely,6-8 hours
+20,Male,Oily,Yes,Moderate,2-4 hours,Often,Twice,3+ litres,Daily,Moderate,Very often,Yes,Often,4-6 hours
+21,Female,Oily,Yes,Severe,2-4 hours,Daily,Twice,2-3 litres,3-4 times a week,Very low,Sometimes,No,Sometimes,6-8 hours
+19,Female,Oily,Yes,Moderate,1-2 hours,Often,Twice,Less than 1 litre,1-2 times a week,High,Often,Yes,Sometimes,4-6 hours
+22,Female,Oily,Yes,Mild,Less than 1 hour,Often,Twice,1-2 litres,Daily,Very low,Very often,No,Rarely,4-6 hours
+19,Male,Oily,Yes,Mild,1-2 hours,Sometimes,Once,3+ litres,1-2 times a week,High,Sometimes,No,Rarely,4-6 hours
+19,Male,Oily,No,None,Less than 1 hour,Sometimes,Once,2-3 litres,Rarely,Very low,Rarely,Yes,Rarely,6-8 hours
+21,Female,Oily,Yes,Moderate,2-4 hours,Never,Once,1-2 litres,Daily,High,Often,No,Rarely,6-8 hours
+16,Male,Combination,No,None,1-2 hours,Often,More than twice,1-2 litres,1-2 times a week,High,Rarely,No,Sometimes,4-6 hours
+16,Female,Oily,Yes,Mild,Less than 1 hour,Often,More than twice,3+ litres,Rarely,Very low,Often,No,Often,4-6 hours
+21,Male,Oily,Yes,Mild,1-2 hours,Often,Twice,2-3 litres,Rarely,High,Often,No,Often,4-6 hours
+20,Male,Combination,No,None,2-4 hours,Often,Twice,1-2 litres,Rarely,Moderate,Rarely,No,Sometimes,6-8 hours
+17,Male,Oily,Yes,Mild,Less than 1 hour,Sometimes,More than twice,Less than 1 litre,Daily,Very low,Often,Yes,Often,6-8 hours
+16,Female,Oily,Yes,Mild,Less than 1 hour,Sometimes,More than twice,Less than 1 litre,3-4 times a week,Moderate,Often,Yes,Rarely,6-8 hours
+16,Male,Dry,Yes,Mild,Less than 1 hour,Often,More than twice,1-2 litres,3-4 times a week,Very low,Very often,No,Sometimes,6-8 hours
+22,Female,Oily,Yes,Moderate,2-4 hours,Never,More than twice,3+ litres,Daily,Very low,Sometimes,Yes,Often,6-8 hours
+20,Male,Oily,Yes,Moderate,2-4 hours,Sometimes,Twice,3+ litres,Daily,Very low,Very often,No,Often,8+ hours
+21,Female,Normal,Yes,Mild,Less than 1 hour,Sometimes,More than twice,3+ litres,Daily,Moderate,Very often,No,Sometimes,4-6 hours
+20,Female,Oily,No,None,1-2 hours,Often,Twice,2-3 litres,3-4 times a week,Very low,Rarely,Yes,Sometimes,8+ hours
+19,Female,Combination,Yes,Severe,1-2 hours,Never,More than twice,2-3 litres,Daily,High,Very often,No,Often,4-6 hours
+17,Male,Oily,Yes,Mild,1-2 hours,Never,Twice,1-2 litres,1-2 times a week,Very low,Sometimes,No,Often,6-8 hours
+21,Male,Combination,Yes,Mild,Less than 1 hour,Often,Twice,1-2 litres,Daily,High,Often,Yes,Sometimes,4-6 hours
+25,Female,Normal,Yes,Moderate,2-4 hours,Never,More than twice,2-3 litres,Rarely,High,Often,No,Often,4-6 hours
+21,Male,Combination,No,None,1-2 hours,Never,Once,3+ litres,3-4 times a week,High,Sometimes,No,Sometimes,4-6 hours
+19,Male,Dry,Yes,Severe,Less than 1 hour,Often,More than twice,3+ litres,Rarely,Moderate,Sometimes,No,Often,4-6 hours
+16,Female,Oily,No,None,2-4 hours,Often,More than twice,3+ litres,1-2 times a week,Very low,Sometimes,No,Rarely,4-6 hours
+19,Male,Oily,No,None,1-2 hours,Sometimes,Twice,3+ litres,Daily,High,Often,No,Sometimes,4-6 hours
+18,Male,Dry,Yes,Mild,Less than 1 hour,Never,More than twice,Less than 1 litre,Daily,High,Very often,No,Often,8+ hours
+18,Male,Oily,Yes,Mild,2-4 hours,Often,Once,1-2 litres,3-4 times a week,Moderate,Often,No,Often,4-6 hours
+19,Male,Normal,Yes,Severe,2-4 hours,Daily,Twice,Less than 1 litre,Daily,High,Rarely,Yes,Often,4-6 hours
+23,Male,Oily,No,None,1-2 hours,Daily,Twice,1-2 litres,1-2 times a week,Very low,Often,Yes,Sometimes,4-6 hours
+17,Female,Oily,Yes,Severe,Less than 1 hour,Daily,Twice,Less than 1 litre,3-4 times a week,Very low,Rarely,No,Often,6-8 hours
+16,Female,Combination,Yes,Mild,2-4 hours,Often,Once,Less than 1 litre,3-4 times a week,Very low,Sometimes,No,Sometimes,4-6 hours
+16,Female,Combination,No,None,2-4 hours,Daily,Twice,Less than 1 litre,Daily,Very low,Often,No,Sometimes,8+ hours
+18,Female,Combination,Yes,Moderate,2-4 hours,Daily,Twice,1-2 litres,3-4 times a week,High,Very often,Yes,Often,4-6 hours
+20,Female,Oily,Yes,Mild,2-4 hours,Often,Twice,1-2 litres,3-4 times a week,Very low,Often,No,Sometimes,4-6 hours
+19,Male,Oily,Yes,Mild,2-4 hours,Sometimes,Twice,2-3 litres,Daily,Moderate,Often,No,Often,4-6 hours
+16,Female,Oily,Yes,Severe,2-4 hours,Sometimes,More than twice,2-3 litres,Daily,Moderate,Often,Yes,Often,4-6 hours
+19,Male,Oily,Yes,Mild,2-4 hours,Never,Twice,1-2 litres,Daily,High,Sometimes,No,Often,6-8 hours
+20,Female,Normal,No,None,1-2 hours,Daily,Once,1-2 litres,Rarely,High,Sometimes,No,Rarely,6-8 hours
+24,Male,Oily,Yes,Severe,2-4 hours,Often,Once,Less than 1 litre,Rarely,Moderate,Very often,No,Often,6-8 hours
+19,Male,Oily,Yes,Moderate,1-2 hours,Sometimes,Twice,2-3 litres,1-2 times a week,Very low,Very often,No,Sometimes,4-6 hours
+18,Male,Oily,Yes,Moderate,Less than 1 hour,Often,Once,Less than 1 litre,3-4 times a week,Moderate,Very often,No,Sometimes,4-6 hours
+16,Female,Combination,Yes,Mild,1-2 hours,Sometimes,More than twice,3+ litres,Daily,High,Often,No,Often,4-6 hours
+19,Male,Dry,Yes,Mild,2-4 hours,Daily,Twice,1-2 litres,1-2 times a week,Very low,Often,Yes,Sometimes,4-6 hours
+20,Female,Normal,Yes,Moderate,Less than 1 hour,Daily,Twice,Less than 1 litre,Rarely,Very low,Sometimes,No,Often,4-6 hours
+19,Female,Oily,No,None,Less than 1 hour,Never,More than twice,Less than 1 litre,Daily,High,Rarely,No,Rarely,4-6 hours
+19,Male,Oily,Yes,Moderate,Less than 1 hour,Sometimes,Twice,2-3 litres,3-4 times a week,High,Sometimes,Yes,Sometimes,4-6 hours
+16,Female,Oily,Yes,Moderate,1-2 hours,Often,More than twice,Less than 1 litre,1-2 times a week,Very low,Very often,No,Often,4-6 hours
+20,Male,Combination,No,None,Less than 1 hour,Daily,Once,1-2 litres,Daily,High,Often,No,Sometimes,4-6 hours
+18,Female,Dry,Yes,Mild,Less than 1 hour,Often,More than twice,3+ litres,Rarely,Very low,Sometimes,No,Often,6-8 hours
+16,Male,Oily,Yes,Moderate,2-4 hours,Never,Once,2-3 litres,Daily,Very low,Sometimes,Yes,Often,4-6 hours
+27,Male,Oily,Yes,Mild,2-4 hours,Sometimes,More than twice,1-2 litres,Daily,Moderate,Sometimes,Yes,Often,6-8 hours
+21,Male,Oily,Yes,Mild,1-2 hours,Sometimes,Twice,3+ litres,3-4 times a week,Moderate,Often,No,Sometimes,6-8 hours
+18,Female,Oily,Yes,Mild,1-2 hours,Sometimes,More than twice,2-3 litres,3-4 times a week,Very low,Often,No,Sometimes,6-8 hours
+20,Male,Oily,Yes,Mild,2-4 hours,Sometimes,Twice,Less than 1 litre,Rarely,Moderate,Very often,Yes,Rarely,4-6 hours
+21,Female,Oily,Yes,Moderate,Less than 1 hour,Daily,More than twice,Less than 1 litre,1-2 times a week,Moderate,Often,No,Rarely,4-6 hours
+22,Male,Combination,Yes,Mild,2-4 hours,Never,More than twice,2-3 litres,Daily,High,Sometimes,No,Often,4-6 hours
+18,Male,Oily,Yes,Moderate,2-4 hours,Often,Twice,3+ litres,Daily,Very low,Sometimes,No,Sometimes,6-8 hours
+16,Female,Oily,Yes,Moderate,Less than 1 hour,Never,Once,3+ litres,Daily,Moderate,Rarely,No,Rarely,4-6 hours
+17,Female,Oily,Yes,Moderate,Less than 1 hour,Daily,Once,1-2 litres,3-4 times a week,High,Sometimes,No,Often,4-6 hours
+16,Male,Combination,No,None,Less than 1 hour,Sometimes,More than twice,3+ litres,Daily,Very low,Sometimes,No,Sometimes,8+ hours
+20,Female,Combination,No,None,Less than 1 hour,Often,Twice,1-2 litres,Daily,Moderate,Sometimes,Yes,Rarely,8+ hours
+20,Female,Oily,Yes,Moderate,Less than 1 hour,Often,More than twice,1-2 litres,1-2 times a week,High,Rarely,Yes,Rarely,4-6 hours
+18,Female,Combination,Yes,Severe,2-4 hours,Often,Twice,2-3 litres,1-2 times a week,Moderate,Very often,No,Often,4-6 hours
+26,Male,Combination,Yes,Moderate,Less than 1 hour,Never,Once,1-2 litres,Daily,Very low,Very often,No,Often,4-6 hours
+23,Female,Dry,No,None,1-2 hours,Never,Once,3+ litres,3-4 times a week,High,Rarely,Yes,Sometimes,6-8 hours
+21,Female,Oily,Yes,Severe,2-4 hours,Sometimes,Twice,Less than 1 litre,Daily,Moderate,Sometimes,Yes,Often,4-6 hours
+27,Female,Oily,Yes,Severe,1-2 hours,Never,Once,Less than 1 litre,3-4 times a week,Very low,Sometimes,No,Often,4-6 hours
+16,Female,Oily,No,None,Less than 1 hour,Daily,More than twice,2-3 litres,Rarely,Moderate,Rarely,Yes,Rarely,8+ hours
+25,Female,Dry,Yes,Moderate,Less than 1 hour,Often,More than twice,2-3 litres,3-4 times a week,Very low,Sometimes,No,Sometimes,4-6 hours
+23,Female,Combination,Yes,Moderate,Less than 1 hour,Sometimes,More than twice,2-3 litres,Daily,Very low,Often,No,Rarely,4-6 hours
+22,Male,Oily,Yes,Severe,Less than 1 hour,Never,More than twice,3+ litres,1-2 times a week,High,Often,Yes,Sometimes,6-8 hours
+23,Female,Oily,Yes,Mild,1-2 hours,Daily,Once,Less than 1 litre,Rarely,Moderate,Very often,No,Rarely,4-6 hours
+21,Male,Oily,Yes,Severe,2-4 hours,Daily,Twice,2-3 litres,3-4 times a week,Very low,Often,Yes,Often,4-6 hours
+19,Female,Oily,Yes,Moderate,Less than 1 hour,Often,More than twice,2-3 litres,Daily,Very low,Often,No,Sometimes,4-6 hours
+24,Female,Oily,No,None,2-4 hours,Daily,Once,1-2 litres,1-2 times a week,Very low,Rarely,No,Rarely,6-8 hours
+17,Female,Oily,No,None,2-4 hours,Sometimes,Once,Less than 1 litre,3-4 times a week,Very low,Rarely,No,Rarely,4-6 hours
+21,Female,Oily,Yes,Moderate,1-2 hours,Never,More than twice,1-2 litres,Daily,High,Sometimes,No,Often,6-8 hours
+19,Female,Oily,Yes,Severe,Less than 1 hour,Daily,Once,Less than 1 litre,Daily,Very low,Often,No,Rarely,4-6 hours
+19,Male,Oily,Yes,Severe,1-2 hours,Never,Once,3+ litres,1-2 times a week,High,Often,Yes,Often,4-6 hours
+21,Female,Oily,Yes,Mild,1-2 hours,Sometimes,Once,3+ litres,3-4 times a week,Moderate,Often,Yes,Often,8+ hours
+16,Male,Oily,Yes,Mild,Less than 1 hour,Daily,Once,Less than 1 litre,3-4 times a week,Very low,Often,No,Sometimes,6-8 hours
+17,Male,Oily,Yes,Mild,1-2 hours,Never,Once,1-2 litres,Daily,Moderate,Often,No,Sometimes,4-6 hours
+17,Female,Dry,No,None,2-4 hours,Often,More than twice,3+ litres,Rarely,Very low,Sometimes,No,Sometimes,6-8 hours
+18,Female,Combination,No,None,2-4 hours,Never,More than twice,3+ litres,Rarely,Very low,Rarely,No,Sometimes,4-6 hours
+19,Male,Oily,Yes,Moderate,Less than 1 hour,Never,Once,1-2 litres,1-2 times a week,High,Very often,No,Often,6-8 hours
+22,Female,Combination,No,None,Less than 1 hour,Daily,Once,Less than 1 litre,Daily,Moderate,Sometimes,Yes,Sometimes,8+ hours
+19,Male,Oily,Yes,Mild,Less than 1 hour,Daily,More than twice,3+ litres,3-4 times a week,Very low,Often,No,Sometimes,4-6 hours
+18,Male,Oily,Yes,Mild,1-2 hours,Never,Once,3+ litres,Daily,Moderate,Often,Yes,Rarely,4-6 hours
+23,Male,Oily,Yes,Mild,1-2 hours,Daily,More than twice,3+ litres,3-4 times a week,Very low,Often,No,Often,4-6 hours
+20,Male,Dry,Yes,Severe,2-4 hours,Sometimes,Twice,3+ litres,Rarely,Moderate,Sometimes,No,Often,6-8 hours
+17,Female,Combination,No,None,Less than 1 hour,Daily,More than twice,Less than 1 litre,Daily,Very low,Rarely,No,Sometimes,8+ hours
+16,Male,Oily,Yes,Mild,1-2 hours,Often,More than twice,3+ litres,Daily,Very low,Very often,Yes,Sometimes,6-8 hours
+17,Female,Combination,Yes,Mild,2-4 hours,Often,Once,Less than 1 litre,Daily,Moderate,Very often,No,Rarely,4-6 hours
+16,Female,Combination,Yes,Mild,1-2 hours,Often,Twice,3+ litres,3-4 times a week,Moderate,Sometimes,Yes,Often,4-6 hours
+24,Female,Oily,Yes,Mild,1-2 hours,Often,Twice,2-3 litres,3-4 times a week,Moderate,Sometimes,Yes,Often,4-6 hours
+17,Male,Combination,Yes,Moderate,2-4 hours,Sometimes,More than twice,Less than 1 litre,3-4 times a week,Moderate,Often,No,Often,6-8 hours
+19,Female,Oily,Yes,Severe,1-2 hours,Sometimes,Once,3+ litres,3-4 times a week,Moderate,Often,No,Sometimes,4-6 hours
+18,Female,Dry,Yes,Moderate,1-2 hours,Often,More than twice,2-3 litres,3-4 times a week,Very low,Very often,Yes,Often,6-8 hours
+17,Female,Oily,Yes,Mild,2-4 hours,Sometimes,Twice,2-3 litres,Rarely,Moderate,Rarely,No,Sometimes,4-6 hours
+21,Male,Normal,No,None,1-2 hours,Never,Once,1-2 litres,3-4 times a week,High,Sometimes,No,Rarely,6-8 hours
+18,Male,Combination,Yes,Moderate,1-2 hours,Never,Twice,2-3 litres,3-4 times a week,Very low,Very often,No,Often,4-6 hours
+19,Male,Oily,Yes,Severe,2-4 hours,Often,Once,Less than 1 litre,Daily,High,Rarely,No,Rarely,4-6 hours
+18,Male,Oily,Yes,Mild,1-2 hours,Daily,Twice,2-3 litres,Daily,Moderate,Very often,No,Sometimes,4-6 hours
+19,Male,Combination,Yes,Mild,2-4 hours,Daily,Once,Less than 1 litre,3-4 times a week,Very low,Rarely,No,Sometimes,4-6 hours
+19,Female,Oily,Yes,Mild,1-2 hours,Often,More than twice,3+ litres,Daily,Moderate,Often,No,Often,8+ hours
+23,Male,Dry,Yes,Mild,2-4 hours,Often,More than twice,3+ litres,Rarely,High,Rarely,No,Often,8+ hours
+18,Male,Oily,Yes,Mild,2-4 hours,Sometimes,Twice,2-3 litres,3-4 times a week,Very low,Very often,No,Sometimes,4-6 hours
+16,Male,Oily,Yes,Mild,Less than 1 hour,Never,Twice,1-2 litres,1-2 times a week,Moderate,Very often,No,Sometimes,4-6 hours
+20,Female,Oily,No,None,2-4 hours,Never,Once,1-2 litres,3-4 times a week,Moderate,Sometimes,No,Rarely,6-8 hours
+16,Male,Oily,Yes,Mild,2-4 hours,Never,Twice,Less than 1 litre,Daily,Moderate,Very often,No,Often,6-8 hours
+18,Male,Oily,Yes,Moderate,Less than 1 hour,Daily,Once,Less than 1 litre,3-4 times a week,Moderate,Often,No,Sometimes,4-6 hours
+23,Female,Dry,No,None,Less than 1 hour,Never,Once,Less than 1 litre,Daily,Very low,Sometimes,Yes,Often,6-8 hours
+18,Female,Oily,Yes,Mild,2-4 hours,Sometimes,Once,3+ litres,3-4 times a week,Very low,Often,No,Often,4-6 hours
+20,Female,Oily,Yes,Mild,Less than 1 hour,Sometimes,More than twice,2-3 litres,3-4 times a week,Moderate,Often,No,Sometimes,4-6 hours
+18,Male,Oily,Yes,Moderate,2-4 hours,Daily,Twice,1-2 litres,3-4 times a week,High,Rarely,Yes,Sometimes,4-6 hours
+19,Male,Oily,Yes,Moderate,1-2 hours,Daily,Twice,1-2 litres,1-2 times a week,Moderate,Sometimes,No,Sometimes,4-6 hours
+19,Female,Dry,Yes,Mild,2-4 hours,Sometimes,Once,1-2 litres,Daily,High,Often,No,Often,8+ hours
+22,Male,Oily,Yes,Mild,1-2 hours,Often,More than twice,Less than 1 litre,Daily,Very low,Often,Yes,Sometimes,6-8 hours
+21,Male,Oily,Yes,Moderate,Less than 1 hour,Never,Once,3+ litres,Rarely,Very low,Sometimes,Yes,Often,6-8 hours
+22,Male,Dry,No,None,1-2 hours,Often,Twice,1-2 litres,3-4 times a week,High,Rarely,No,Rarely,4-6 hours
+24,Male,Oily,Yes,Moderate,2-4 hours,Sometimes,Twice,3+ litres,Daily,High,Sometimes,Yes,Often,4-6 hours
+20,Male,Oily,Yes,Moderate,1-2 hours,Daily,Twice,Less than 1 litre,Daily,Very low,Often,No,Sometimes,4-6 hours
+17,Male,Oily,Yes,Moderate,1-2 hours,Daily,Twice,1-2 litres,3-4 times a week,Moderate,Sometimes,No,Sometimes,4-6 hours
+16,Male,Oily,Yes,Mild,1-2 hours,Sometimes,Once,1-2 litres,Daily,High,Often,No,Often,4-6 hours
+21,Male,Dry,Yes,Mild,Less than 1 hour,Often,Once,3+ litres,3-4 times a week,Moderate,Very often,No,Often,4-6 hours
+20,Female,Combination,No,None,2-4 hours,Daily,Twice,3+ litres,1-2 times a week,High,Sometimes,No,Sometimes,4-6 hours
+17,Female,Oily,Yes,Mild,1-2 hours,Often,More than twice,2-3 litres,Daily,Very low,Very often,No,Often,4-6 hours
+22,Male,Oily,Yes,Moderate,Less than 1 hour,Sometimes,More than twice,2-3 litres,3-4 times a week,Moderate,Sometimes,No,Often,4-6 hours
+19,Female,Oily,No,None,Less than 1 hour,Often,Once,2-3 litres,Daily,Very low,Sometimes,Yes,Sometimes,6-8 hours
+21,Male,Combination,No,None,1-2 hours,Sometimes,More than twice,Less than 1 litre,Daily,Very low,Often,No,Often,6-8 hours
+22,Male,Combination,No,None,2-4 hours,Sometimes,Twice,3+ litres,3-4 times a week,Very low,Often,No,Sometimes,4-6 hours
+23,Female,Oily,Yes,Moderate,2-4 hours,Sometimes,Twice,1-2 litres,3-4 times a week,High,Often,Yes,Often,4-6 hours
+24,Female,Oily,Yes,Severe,Less than 1 hour,Never,Twice,1-2 litres,Daily,Very low,Very often,Yes,Rarely,6-8 hours
+25,Female,Dry,Yes,Moderate,Less than 1 hour,Daily,More than twice,Less than 1 litre,Daily,Moderate,Often,No,Rarely,4-6 hours
+17,Male,Oily,No,None,Less than 1 hour,Sometimes,Once,1-2 litres,Daily,High,Rarely,No,Rarely,6-8 hours
+25,Female,Oily,Yes,Mild,1-2 hours,Often,Twice,2-3 litres,Daily,Moderate,Often,Yes,Often,6-8 hours
+22,Male,Oily,Yes,Severe,Less than 1 hour,Sometimes,Twice,Less than 1 litre,1-2 times a week,Very low,Often,No,Sometimes,4-6 hours
+21,Male,Oily,Yes,Severe,Less than 1 hour,Often,Twice,Less than 1 litre,1-2 times a week,High,Often,No,Often,8+ hours
+22,Female,Oily,Yes,Mild,1-2 hours,Often,Twice,Less than 1 litre,3-4 times a week,High,Often,No,Sometimes,8+ hours
+16,Male,Oily,Yes,Moderate,2-4 hours,Never,Once,Less than 1 litre,Daily,High,Sometimes,Yes,Sometimes,4-6 hours
+22,Male,Combination,Yes,Mild,1-2 hours,Daily,Twice,Less than 1 litre,Daily,High,Often,No,Often,8+ hours
+22,Female,Oily,Yes,Severe,1-2 hours,Never,More than twice,2-3 litres,Daily,High,Sometimes,Yes,Sometimes,6-8 hours
+16,Male,Normal,Yes,Moderate,2-4 hours,Sometimes,Twice,1-2 litres,3-4 times a week,High,Often,No,Often,4-6 hours
+22,Female,Combination,No,None,Less than 1 hour,Sometimes,More than twice,1-2 litres,3-4 times a week,High,Very often,No,Sometimes,4-6 hours
+19,Male,Dry,Yes,Mild,1-2 hours,Daily,Twice,1-2 litres,Daily,High,Very often,No,Sometimes,6-8 hours
+16,Female,Oily,Yes,Moderate,1-2 hours,Sometimes,Twice,3+ litres,Daily,High,Sometimes,No,Often,8+ hours
+18,Female,Oily,Yes,Moderate,1-2 hours,Daily,More than twice,3+ litres,Daily,High,Often,No,Often,6-8 hours
+17,Female,Combination,Yes,Severe,Less than 1 hour,Often,Once,3+ litres,Daily,High,Sometimes,Yes,Often,4-6 hours
+16,Male,Oily,Yes,Mild,1-2 hours,Never,Once,3+ litres,Daily,Moderate,Very often,No,Often,6-8 hours
+19,Female,Oily,No,None,Less than 1 hour,Sometimes,Twice,1-2 litres,1-2 times a week,High,Very often,No,Sometimes,8+ hours
+20,Female,Combination,No,None,1-2 hours,Often,Once,3+ litres,Daily,Moderate,Often,No,Often,4-6 hours
+21,Female,Oily,Yes,Moderate,2-4 hours,Sometimes,More than twice,1-2 litres,Daily,High,Very often,Yes,Often,8+ hours
+16,Male,Dry,Yes,Moderate,Less than 1 hour,Sometimes,More than twice,1-2 litres,Daily,Moderate,Rarely,No,Often,4-6 hours
+17,Female,Oily,Yes,Mild,Less than 1 hour,Often,Twice,Less than 1 litre,Daily,Very low,Very often,No,Sometimes,8+ hours
+16,Male,Oily,Yes,Moderate,2-4 hours,Often,Twice,Less than 1 litre,3-4 times a week,Very low,Very often,Yes,Sometimes,8+ hours
+21,Male,Oily,Yes,Moderate,Less than 1 hour,Daily,More than twice,3+ litres,3-4 times a week,Moderate,Very often,Yes,Sometimes,6-8 hours
+16,Female,Dry,No,None,Less than 1 hour,Daily,Twice,3+ litres,Daily,Moderate,Often,No,Often,4-6 hours
+16,Male,Dry,Yes,Moderate,Less than 1 hour,Sometimes,Once,Less than 1 litre,Daily,Very low,Often,No,Sometimes,4-6 hours
+20,Male,Oily,Yes,Moderate,1-2 hours,Sometimes,More than twice,1-2 litres,Daily,Very low,Very often,Yes,Sometimes,6-8 hours
+17,Female,Normal,Yes,Moderate,2-4 hours,Daily,Once,3+ litres,3-4 times a week,Very low,Often,No,Often,4-6 hours
+17,Male,Oily,Yes,Mild,1-2 hours,Never,More than twice,Less than 1 litre,3-4 times a week,Very low,Very often,Yes,Sometimes,4-6 hours
+18,Female,Normal,Yes,Mild,Less than 1 hour,Never,Once,Less than 1 litre,Rarely,Moderate,Very often,No,Often,4-6 hours
+18,Female,Oily,Yes,Mild,1-2 hours,Daily,Once,1-2 litres,3-4 times a week,Very low,Often,No,Often,4-6 hours
+17,Female,Oily,Yes,Moderate,Less than 1 hour,Often,Twice,1-2 litres,Daily,Moderate,Often,Yes,Rarely,4-6 hours
+20,Female,Combination,Yes,Severe,1-2 hours,Daily,Twice,Less than 1 litre,3-4 times a week,High,Often,No,Often,4-6 hours
+16,Male,Oily,Yes,Mild,1-2 hours,Never,Twice,Less than 1 litre,Daily,Moderate,Often,No,Rarely,6-8 hours
+21,Male,Oily,Yes,Moderate,Less than 1 hour,Often,More than twice,3+ litres,1-2 times a week,Very low,Often,No,Often,8+ hours
+22,Male,Oily,Yes,Moderate,1-2 hours,Never,Twice,2-3 litres,3-4 times a week,Very low,Sometimes,No,Often,4-6 hours
+18,Female,Oily,Yes,Mild,1-2 hours,Daily,Twice,Less than 1 litre,1-2 times a week,High,Very often,No,Often,6-8 hours
+24,Male,Combination,Yes,Severe,1-2 hours,Daily,More than twice,1-2 litres,Daily,Moderate,Sometimes,Yes,Often,8+ hours
+18,Male,Oily,Yes,Mild,2-4 hours,Often,More than twice,3+ litres,3-4 times a week,Moderate,Very often,No,Sometimes,4-6 hours
+18,Male,Oily,Yes,Severe,Less than 1 hour,Daily,Twice,1-2 litres,1-2 times a week,Moderate,Sometimes,No,Sometimes,6-8 hours
+19,Female,Oily,Yes,Mild,1-2 hours,Daily,Twice,2-3 litres,Rarely,Very low,Sometimes,Yes,Sometimes,4-6 hours
+20,Male,Oily,Yes,Mild,1-2 hours,Never,Twice,3+ litres,1-2 times a week,Moderate,Very often,No,Sometimes,4-6 hours
+23,Male,Dry,Yes,Mild,2-4 hours,Daily,Once,2-3 litres,Daily,Moderate,Often,No,Often,6-8 hours
+16,Female,Oily,Yes,Mild,Less than 1 hour,Daily,Once,1-2 litres,Daily,Very low,Sometimes,Yes,Sometimes,4-6 hours
+18,Female,Oily,Yes,Moderate,Less than 1 hour,Sometimes,Once,Less than 1 litre,1-2 times a week,Moderate,Very often,No,Often,6-8 hours
+21,Female,Combination,Yes,Moderate,2-4 hours,Never,Twice,Less than 1 litre,Rarely,Very low,Rarely,No,Often,4-6 hours
+20,Male,Normal,Yes,Severe,1-2 hours,Often,Twice,1-2 litres,Daily,Very low,Often,Yes,Sometimes,6-8 hours
+24,Male,Oily,Yes,Moderate,1-2 hours,Sometimes,More than twice,Less than 1 litre,Daily,High,Often,No,Often,4-6 hours
+24,Female,Normal,No,None,Less than 1 hour,Never,Twice,2-3 litres,3-4 times a week,High,Often,No,Sometimes,4-6 hours
+16,Female,Normal,Yes,Severe,1-2 hours,Often,Once,3+ litres,Daily,Moderate,Very often,No,Often,4-6 hours
+22,Female,Oily,No,None,2-4 hours,Never,Twice,2-3 litres,3-4 times a week,High,Rarely,No,Sometimes,8+ hours
+23,Male,Combination,No,None,Less than 1 hour,Never,Once,1-2 litres,Rarely,High,Very often,No,Often,8+ hours
+16,Male,Oily,No,None,1-2 hours,Never,Once,Less than 1 litre,Daily,Moderate,Sometimes,Yes,Rarely,6-8 hours
+16,Female,Normal,No,None,1-2 hours,Never,More than twice,1-2 litres,3-4 times a week,Moderate,Very often,No,Sometimes,8+ hours
+23,Female,Dry,No,None,1-2 hours,Sometimes,More than twice,Less than 1 litre,1-2 times a week,High,Rarely,No,Sometimes,4-6 hours
+18,Male,Oily,Yes,Severe,Less than 1 hour,Often,More than twice,Less than 1 litre,3-4 times a week,High,Often,No,Often,4-6 hours
+20,Female,Dry,Yes,Moderate,1-2 hours,Sometimes,Twice,3+ litres,Daily,Very low,Often,No,Rarely,6-8 hours
+20,Male,Oily,Yes,Moderate,Less than 1 hour,Sometimes,Twice,3+ litres,Daily,Very low,Sometimes,No,Rarely,4-6 hours
+21,Female,Normal,No,None,Less than 1 hour,Daily,Once,3+ litres,1-2 times a week,Moderate,Sometimes,Yes,Rarely,4-6 hours
+19,Female,Combination,Yes,Mild,2-4 hours,Often,Twice,Less than 1 litre,Daily,Very low,Sometimes,No,Often,6-8 hours
+21,Female,Dry,Yes,Moderate,2-4 hours,Often,Twice,Less than 1 litre,Daily,High,Very often,No,Sometimes,4-6 hours
+21,Male,Combination,Yes,Severe,Less than 1 hour,Never,More than twice,1-2 litres,Daily,Moderate,Rarely,Yes,Often,4-6 hours
+16,Male,Oily,Yes,Mild,2-4 hours,Sometimes,Once,3+ litres,Daily,Very low,Often,Yes,Sometimes,6-8 hours
+16,Male,Oily,Yes,Severe,1-2 hours,Sometimes,More than twice,3+ litres,3-4 times a week,Very low,Sometimes,Yes,Often,8+ hours
+18,Male,Oily,Yes,Mild,Less than 1 hour,Daily,More than twice,1-2 litres,Rarely,Very low,Sometimes,No,Rarely,4-6 hours
+21,Male,Oily,Yes,Mild,1-2 hours,Daily,Twice,3+ litres,Daily,High,Very often,No,Sometimes,4-6 hours
+27,Female,Oily,Yes,Moderate,1-2 hours,Never,More than twice,1-2 litres,Daily,Moderate,Very often,No,Sometimes,4-6 hours
+16,Male,Oily,Yes,Mild,Less than 1 hour,Sometimes,Twice,1-2 litres,Daily,High,Often,No,Sometimes,8+ hours
+20,Male,Oily,Yes,Severe,Less than 1 hour,Daily,Twice,1-2 litres,Rarely,High,Sometimes,No,Often,6-8 hours
+26,Male,Oily,Yes,Severe,2-4 hours,Sometimes,Twice,1-2 litres,3-4 times a week,High,Very often,No,Often,6-8 hours
+16,Male,Oily,Yes,Mild,1-2 hours,Daily,More than twice,3+ litres,Daily,High,Often,No,Rarely,4-6 hours
+22,Female,Oily,Yes,Moderate,Less than 1 hour,Often,Once,3+ litres,1-2 times a week,Moderate,Very often,Yes,Rarely,4-6 hours
+16,Male,Dry,No,None,2-4 hours,Sometimes,Twice,3+ litres,3-4 times a week,Moderate,Rarely,No,Rarely,4-6 hours
+19,Female,Oily,Yes,Moderate,1-2 hours,Daily,More than twice,1-2 litres,Daily,Moderate,Very often,No,Sometimes,4-6 hours
+18,Male,Normal,Yes,Mild,2-4 hours,Never,Once,3+ litres,Daily,Moderate,Often,No,Often,4-6 hours
+20,Female,Oily,Yes,Moderate,2-4 hours,Daily,Once,1-2 litres,1-2 times a week,Moderate,Often,No,Often,4-6 hours
+22,Female,Oily,Yes,Mild,Less than 1 hour,Never,More than twice,3+ litres,Daily,High,Sometimes,No,Often,6-8 hours
+20,Male,Normal,No,None,1-2 hours,Sometimes,Once,2-3 litres,3-4 times a week,Moderate,Often,Yes,Rarely,8+ hours
+17,Female,Normal,Yes,Mild,1-2 hours,Daily,Twice,3+ litres,Daily,Very low,Often,No,Often,4-6 hours
+18,Female,Oily,Yes,Severe,Less than 1 hour,Often,Twice,3+ litres,3-4 times a week,Moderate,Often,Yes,Often,4-6 hours
+20,Female,Dry,Yes,Severe,2-4 hours,Sometimes,Twice,Less than 1 litre,Daily,Moderate,Very often,No,Often,4-6 hours
+22,Male,Oily,Yes,Moderate,1-2 hours,Never,Twice,Less than 1 litre,Daily,Very low,Very often,Yes,Sometimes,4-6 hours
+18,Female,Oily,No,None,Less than 1 hour,Often,Once,3+ litres,1-2 times a week,High,Often,Yes,Sometimes,6-8 hours
+26,Male,Oily,Yes,Moderate,2-4 hours,Sometimes,More than twice,3+ litres,3-4 times a week,Moderate,Sometimes,No,Often,6-8 hours
+23,Male,Oily,Yes,Moderate,Less than 1 hour,Often,Once,Less than 1 litre,Daily,High,Often,No,Often,4-6 hours
+20,Male,Dry,Yes,Mild,1-2 hours,Often,Once,2-3 litres,3-4 times a week,Moderate,Often,No,Sometimes,4-6 hours
+16,Male,Oily,Yes,Moderate,2-4 hours,Never,Twice,3+ litres,1-2 times a week,Very low,Often,Yes,Often,6-8 hours
+21,Male,Dry,No,None,Less than 1 hour,Daily,More than twice,2-3 litres,3-4 times a week,High,Rarely,No,Sometimes,4-6 hours
+17,Female,Dry,No,None,2-4 hours,Often,Twice,3+ litres,1-2 times a week,High,Sometimes,Yes,Sometimes,4-6 hours
+19,Male,Normal,No,None,2-4 hours,Daily,More than twice,1-2 litres,3-4 times a week,Very low,Sometimes,No,Sometimes,4-6 hours
+18,Female,Oily,Yes,Mild,2-4 hours,Daily,More than twice,1-2 litres,1-2 times a week,Moderate,Sometimes,No,Sometimes,4-6 hours
+19,Female,Oily,Yes,Moderate,1-2 hours,Daily,Twice,1-2 litres,Daily,Moderate,Sometimes,No,Often,8+ hours
+20,Male,Oily,Yes,Mild,2-4 hours,Sometimes,Twice,2-3 litres,Rarely,High,Often,No,Rarely,8+ hours
+21,Male,Dry,Yes,Mild,2-4 hours,Sometimes,More than twice,Less than 1 litre,1-2 times a week,Very low,Very often,Yes,Sometimes,4-6 hours
+20,Female,Combination,Yes,Mild,2-4 hours,Never,More than twice,1-2 litres,1-2 times a week,Moderate,Very often,Yes,Rarely,4-6 hours
+16,Female,Combination,Yes,Moderate,2-4 hours,Never,More than twice,Less than 1 litre,1-2 times a week,High,Very often,Yes,Often,6-8 hours
+25,Male,Dry,Yes,Mild,Less than 1 hour,Sometimes,More than twice,1-2 litres,3-4 times a week,High,Very often,No,Often,6-8 hours
+16,Male,Combination,No,None,2-4 hours,Often,Once,2-3 litres,3-4 times a week,Moderate,Sometimes,No,Sometimes,4-6 hours
+17,Male,Oily,No,None,Less than 1 hour,Daily,Twice,1-2 litres,Daily,Moderate,Often,Yes,Rarely,6-8 hours
+20,Male,Oily,Yes,Severe,Less than 1 hour,Often,More than twice,3+ litres,Daily,Moderate,Very often,No,Sometimes,8+ hours
+20,Female,Oily,Yes,Moderate,2-4 hours,Sometimes,Once,1-2 litres,1-2 times a week,Very low,Sometimes,No,Sometimes,4-6 hours
+21,Male,Combination,No,None,2-4 hours,Sometimes,Once,Less than 1 litre,3-4 times a week,High,Rarely,No,Often,4-6 hours
+19,Female,Combination,No,None,2-4 hours,Sometimes,Twice,2-3 litres,1-2 times a week,Very low,Very often,No,Rarely,8+ hours
+18,Male,Combination,Yes,Severe,Less than 1 hour,Sometimes,Once,3+ litres,Daily,Moderate,Often,No,Often,8+ hours
+22,Female,Oily,Yes,Moderate,2-4 hours,Often,More than twice,1-2 litres,1-2 times a week,High,Sometimes,No,Often,4-6 hours
+21,Male,Dry,No,None,2-4 hours,Daily,Once,3+ litres,Daily,Moderate,Very often,No,Rarely,6-8 hours
+24,Male,Dry,No,None,2-4 hours,Daily,More than twice,1-2 litres,Daily,Very low,Rarely,No,Rarely,6-8 hours
+19,Male,Dry,No,None,2-4 hours,Never,Once,3+ litres,Daily,High,Very often,No,Often,6-8 hours
+16,Male,Oily,Yes,Severe,2-4 hours,Sometimes,More than twice,3+ litres,Daily,High,Rarely,Yes,Often,4-6 hours
+21,Male,Combination,Yes,Mild,Less than 1 hour,Daily,Twice,2-3 litres,3-4 times a week,High,Sometimes,Yes,Often,8+ hours
+23,Female,Oily,Yes,Mild,2-4 hours,Daily,Twice,Less than 1 litre,Daily,Very low,Very often,Yes,Sometimes,8+ hours
+16,Male,Dry,Yes,Moderate,1-2 hours,Sometimes,More than twice,2-3 litres,Daily,Very low,Rarely,No,Rarely,4-6 hours
+19,Female,Combination,No,None,2-4 hours,Often,More than twice,Less than 1 litre,3-4 times a week,High,Sometimes,No,Sometimes,6-8 hours
+20,Female,Combination,No,None,1-2 hours,Sometimes,Once,3+ litres,Daily,Moderate,Rarely,No,Often,6-8 hours
+17,Male,Oily,Yes,Mild,Less than 1 hour,Never,Twice,2-3 litres,Daily,Moderate,Very often,Yes,Often,6-8 hours
+16,Male,Dry,No,None,1-2 hours,Daily,More than twice,Less than 1 litre,1-2 times a week,Moderate,Sometimes,No,Rarely,4-6 hours
+16,Female,Combination,Yes,Moderate,2-4 hours,Sometimes,Twice,Less than 1 litre,Daily,Very low,Very often,No,Often,8+ hours
+16,Male,Oily,Yes,Mild,2-4 hours,Never,More than twice,Less than 1 litre,Daily,Moderate,Sometimes,Yes,Rarely,8+ hours
+22,Female,Oily,Yes,Moderate,2-4 hours,Never,Once,Less than 1 litre,1-2 times a week,Moderate,Sometimes,Yes,Often,6-8 hours
+18,Female,Oily,Yes,Moderate,2-4 hours,Sometimes,Once,3+ litres,Daily,Very low,Sometimes,No,Sometimes,8+ hours
+20,Male,Oily,Yes,Mild,1-2 hours,Often,More than twice,Less than 1 litre,Daily,Moderate,Rarely,Yes,Rarely,6-8 hours
+17,Male,Oily,Yes,Moderate,1-2 hours,Daily,Once,3+ litres,Daily,Very low,Very often,Yes,Sometimes,4-6 hours
+20,Male,Oily,Yes,Moderate,2-4 hours,Daily,Twice,Less than 1 litre,Daily,Very low,Sometimes,No,Often,8+ hours
+18,Female,Combination,Yes,Moderate,1-2 hours,Sometimes,Twice,3+ litres,Daily,Moderate,Very often,No,Often,4-6 hours
+19,Male,Oily,Yes,Moderate,2-4 hours,Daily,Once,Less than 1 litre,3-4 times a week,Moderate,Rarely,No,Often,4-6 hours
+18,Male,Oily,Yes,Severe,Less than 1 hour,Daily,More than twice,Less than 1 litre,1-2 times a week,Very low,Sometimes,No,Often,4-6 hours
+19,Female,Oily,Yes,Moderate,2-4 hours,Never,More than twice,Less than 1 litre,Daily,Very low,Often,No,Rarely,6-8 hours
+21,Male,Oily,Yes,Mild,1-2 hours,Often,Once,1-2 litres,3-4 times a week,Very low,Often,No,Sometimes,8+ hours
+23,Male,Oily,No,None,Less than 1 hour,Often,More than twice,2-3 litres,1-2 times a week,Moderate,Rarely,Yes,Sometimes,8+ hours
+18,Female,Oily,Yes,Moderate,2-4 hours,Sometimes,More than twice,2-3 litres,Daily,Very low,Very often,No,Often,6-8 hours
+26,Male,Oily,Yes,Mild,1-2 hours,Sometimes,Twice,3+ litres,Daily,Moderate,Very often,No,Often,6-8 hours
+24,Male,Dry,No,None,1-2 hours,Never,Once,1-2 litres,Daily,High,Very often,Yes,Sometimes,4-6 hours
+16,Male,Oily,Yes,Mild,Less than 1 hour,Sometimes,More than twice,1-2 litres,Daily,Moderate,Sometimes,Yes,Rarely,4-6 hours
+21,Male,Oily,Yes,Severe,2-4 hours,Daily,More than twice,Less than 1 litre,Rarely,High,Very often,Yes,Rarely,6-8 hours
+22,Male,Combination,Yes,Moderate,1-2 hours,Sometimes,More than twice,2-3 litres,3-4 times a week,Very low,Often,No,Often,4-6 hours
+18,Female,Dry,Yes,Moderate,2-4 hours,Sometimes,More than twice,Less than 1 litre,3-4 times a week,High,Very often,No,Often,4-6 hours
+18,Female,Combination,Yes,Mild,2-4 hours,Daily,More than twice,Less than 1 litre,1-2 times a week,Moderate,Often,No,Often,4-6 hours
+19,Female,Oily,Yes,Moderate,1-2 hours,Daily,Twice,1-2 litres,Daily,High,Often,No,Sometimes,8+ hours
+18,Female,Oily,Yes,Mild,2-4 hours,Never,More than twice,3+ litres,Daily,Moderate,Rarely,No,Often,6-8 hours
+21,Male,Combination,Yes,Mild,1-2 hours,Never,Twice,3+ litres,3-4 times a week,Very low,Often,No,Often,4-6 hours
+18,Male,Combination,Yes,Severe,Less than 1 hour,Sometimes,Once,2-3 litres,3-4 times a week,High,Often,No,Often,6-8 hours
+22,Female,Oily,Yes,Mild,Less than 1 hour,Daily,More than twice,1-2 litres,1-2 times a week,Moderate,Often,Yes,Often,4-6 hours
+24,Female,Oily,Yes,Mild,Less than 1 hour,Sometimes,Once,3+ litres,Daily,Very low,Very often,No,Sometimes,6-8 hours
+20,Female,Oily,Yes,Moderate,2-4 hours,Never,Once,1-2 litres,Daily,Moderate,Sometimes,Yes,Often,4-6 hours
+20,Female,Dry,No,None,Less than 1 hour,Sometimes,Once,3+ litres,1-2 times a week,Moderate,Very often,Yes,Sometimes,8+ hours
+22,Female,Oily,Yes,Severe,1-2 hours,Never,Twice,1-2 litres,Daily,High,Sometimes,No,Often,6-8 hours
+17,Female,Oily,Yes,Mild,2-4 hours,Never,Twice,Less than 1 litre,Daily,Moderate,Sometimes,No,Often,6-8 hours
+17,Female,Oily,Yes,Moderate,2-4 hours,Never,Twice,3+ litres,3-4 times a week,Very low,Very often,No,Often,8+ hours
+19,Female,Oily,No,None,1-2 hours,Daily,Twice,1-2 litres,Daily,Moderate,Often,No,Often,4-6 hours
+16,Female,Combination,Yes,Moderate,1-2 hours,Often,More than twice,3+ litres,3-4 times a week,Moderate,Often,No,Sometimes,4-6 hours
+21,Male,Combination,No,None,2-4 hours,Daily,Twice,3+ litres,Rarely,High,Often,Yes,Sometimes,4-6 hours
+19,Male,Oily,Yes,Moderate,1-2 hours,Sometimes,Twice,3+ litres,Daily,High,Rarely,Yes,Often,4-6 hours
+21,Male,Combination,Yes,Severe,1-2 hours,Never,Twice,3+ litres,3-4 times a week,Moderate,Very often,No,Often,6-8 hours
+22,Female,Oily,Yes,Moderate,1-2 hours,Sometimes,Once,Less than 1 litre,Daily,High,Very often,No,Sometimes,4-6 hours
+20,Female,Oily,Yes,Mild,2-4 hours,Often,Twice,2-3 litres,Daily,High,Sometimes,No,Often,4-6 hours
+21,Female,Combination,No,None,2-4 hours,Daily,Once,1-2 litres,1-2 times a week,Moderate,Often,No,Rarely,8+ hours
+16,Male,Combination,Yes,Mild,1-2 hours,Sometimes,Twice,1-2 litres,Daily,Moderate,Often,No,Often,6-8 hours
+26,Male,Dry,No,None,Less than 1 hour,Never,Once,1-2 litres,3-4 times a week,Very low,Very often,No,Rarely,6-8 hours
+20,Female,Combination,Yes,Moderate,Less than 1 hour,Sometimes,Twice,3+ litres,Daily,Very low,Rarely,Yes,Sometimes,4-6 hours
+25,Female,Oily,Yes,Moderate,Less than 1 hour,Sometimes,Once,1-2 litres,Daily,High,Often,No,Sometimes,6-8 hours
+27,Female,Combination,No,None,Less than 1 hour,Never,Once,3+ litres,1-2 times a week,High,Sometimes,No,Sometimes,6-8 hours
+20,Female,Combination,Yes,Mild,Less than 1 hour,Never,Twice,3+ litres,Daily,High,Very often,No,Sometimes,4-6 hours
+18,Female,Oily,Yes,Moderate,1-2 hours,Daily,Once,1-2 litres,Daily,Moderate,Sometimes,No,Often,6-8 hours
+20,Male,Oily,Yes,Moderate,2-4 hours,Never,More than twice,Less than 1 litre,Daily,Very low,Sometimes,No,Often,6-8 hours
+20,Female,Combination,Yes,Mild,1-2 hours,Sometimes,Once,Less than 1 litre,3-4 times a week,Moderate,Often,No,Rarely,6-8 hours
+16,Male,Oily,No,None,Less than 1 hour,Often,Twice,2-3 litres,3-4 times a week,Moderate,Sometimes,Yes,Rarely,6-8 hours
+19,Female,Oily,Yes,Severe,Less than 1 hour,Often,More than twice,3+ litres,Daily,Moderate,Sometimes,No,Often,4-6 hours
+19,Female,Oily,Yes,Mild,1-2 hours,Often,Once,Less than 1 litre,3-4 times a week,Moderate,Very often,No,Often,6-8 hours
+22,Male,Oily,Yes,Moderate,Less than 1 hour,Never,Once,1-2 litres,3-4 times a week,High,Often,Yes,Sometimes,4-6 hours
+21,Female,Combination,Yes,Moderate,Less than 1 hour,Sometimes,Once,1-2 litres,3-4 times a week,Very low,Often,No,Sometimes,6-8 hours
+22,Female,Dry,No,None,1-2 hours,Never,Twice,1-2 litres,Rarely,High,Often,No,Sometimes,8+ hours
+21,Female,Oily,Yes,Severe,1-2 hours,Daily,More than twice,Less than 1 litre,3-4 times a week,Very low,Very often,No,Often,6-8 hours
+18,Male,Oily,Yes,Mild,1-2 hours,Daily,Once,Less than 1 litre,Daily,High,Very often,No,Often,6-8 hours
+16,Female,Oily,Yes,Moderate,1-2 hours,Never,Twice,1-2 litres,Daily,Moderate,Often,No,Sometimes,4-6 hours
+18,Female,Oily,Yes,Moderate,Less than 1 hour,Never,Twice,1-2 litres,Rarely,High,Very often,Yes,Often,4-6 hours
+23,Female,Oily,Yes,Severe,2-4 hours,Daily,Twice,3+ litres,3-4 times a week,Moderate,Sometimes,Yes,Often,4-6 hours
+16,Female,Dry,Yes,Moderate,2-4 hours,Sometimes,Once,2-3 litres,Daily,Moderate,Often,Yes,Sometimes,4-6 hours
+22,Male,Oily,No,None,Less than 1 hour,Never,Twice,1-2 litres,Daily,High,Sometimes,Yes,Sometimes,8+ hours
+21,Male,Normal,No,None,1-2 hours,Often,More than twice,1-2 litres,Daily,Moderate,Very often,Yes,Sometimes,4-6 hours
+19,Male,Oily,Yes,Mild,2-4 hours,Daily,Once,Less than 1 litre,3-4 times a week,Very low,Rarely,No,Sometimes,4-6 hours
+19,Male,Dry,Yes,Mild,2-4 hours,Sometimes,Once,2-3 litres,1-2 times a week,Moderate,Very often,No,Sometimes,4-6 hours
+16,Female,Oily,Yes,Mild,Less than 1 hour,Daily,Twice,Less than 1 litre,3-4 times a week,Moderate,Sometimes,No,Rarely,4-6 hours
+20,Male,Normal,No,None,Less than 1 hour,Often,Twice,1-2 litres,Daily,High,Rarely,No,Sometimes,4-6 hours
+18,Male,Oily,Yes,Severe,2-4 hours,Often,Twice,3+ litres,3-4 times a week,Very low,Rarely,Yes,Often,6-8 hours
+17,Male,Oily,Yes,Moderate,1-2 hours,Sometimes,Once,Less than 1 litre,Daily,Very low,Often,Yes,Rarely,8+ hours
+20,Male,Combination,Yes,Mild,1-2 hours,Never,More than twice,3+ litres,1-2 times a week,High,Sometimes,No,Often,8+ hours
+20,Female,Oily,Yes,Mild,Less than 1 hour,Sometimes,More than twice,1-2 litres,Daily,Moderate,Sometimes,Yes,Sometimes,8+ hours
+22,Female,Oily,Yes,Mild,2-4 hours,Daily,More than twice,3+ litres,Rarely,High,Rarely,No,Often,4-6 hours
+16,Male,Oily,Yes,Mild,1-2 hours,Sometimes,Twice,Less than 1 litre,Daily,Moderate,Sometimes,No,Often,6-8 hours
+17,Male,Oily,Yes,Mild,1-2 hours,Daily,More than twice,2-3 litres,3-4 times a week,High,Very often,No,Sometimes,6-8 hours
+21,Female,Dry,No,None,Less than 1 hour,Never,Once,Less than 1 litre,Daily,High,Rarely,No,Sometimes,8+ hours
+17,Male,Oily,Yes,Moderate,1-2 hours,Daily,More than twice,3+ litres,Daily,Very low,Often,Yes,Often,4-6 hours
+19,Male,Oily,Yes,Moderate,Less than 1 hour,Daily,Twice,3+ litres,3-4 times a week,Moderate,Very often,Yes,Often,4-6 hours
+25,Male,Combination,Yes,Moderate,2-4 hours,Never,Once,3+ litres,1-2 times a week,Very low,Very often,No,Often,4-6 hours
+21,Female,Dry,No,None,1-2 hours,Never,Once,1-2 litres,3-4 times a week,Very low,Sometimes,No,Sometimes,4-6 hours
+22,Female,Oily,Yes,Severe,2-4 hours,Daily,Once,2-3 litres,Rarely,Moderate,Sometimes,Yes,Sometimes,6-8 hours
+20,Male,Oily,No,None,2-4 hours,Sometimes,Once,1-2 litres,3-4 times a week,Very low,Rarely,No,Rarely,8+ hours
+21,Male,Oily,Yes,Moderate,1-2 hours,Sometimes,More than twice,1-2 litres,1-2 times a week,High,Often,No,Sometimes,4-6 hours
+19,Female,Dry,No,None,Less than 1 hour,Sometimes,More than twice,Less than 1 litre,3-4 times a week,Very low,Rarely,No,Often,4-6 hours
+18,Female,Oily,Yes,Moderate,Less than 1 hour,Never,Once,1-2 litres,Daily,High,Very often,No,Rarely,4-6 hours
+23,Male,Combination,No,None,Less than 1 hour,Never,Twice,Less than 1 litre,Daily,High,Rarely,No,Rarely,4-6 hours
+20,Female,Dry,Yes,Mild,Less than 1 hour,Daily,More than twice,Less than 1 litre,3-4 times a week,Very low,Sometimes,Yes,Often,4-6 hours
+21,Female,Normal,Yes,Mild,1-2 hours,Daily,Once,1-2 litres,Daily,Very low,Often,No,Sometimes,4-6 hours
+22,Female,Oily,Yes,Mild,2-4 hours,Never,Twice,3+ litres,Daily,Moderate,Often,No,Sometimes,4-6 hours
+19,Female,Oily,Yes,Severe,Less than 1 hour,Often,More than twice,2-3 litres,3-4 times a week,Moderate,Rarely,No,Often,4-6 hours
+16,Female,Oily,No,None,Less than 1 hour,Never,Once,Less than 1 litre,1-2 times a week,Very low,Sometimes,No,Often,8+ hours
+16,Male,Combination,No,None,1-2 hours,Daily,Twice,2-3 litres,3-4 times a week,Very low,Often,No,Sometimes,6-8 hours
+21,Female,Combination,No,None,Less than 1 hour,Often,Once,3+ litres,Daily,Very low,Very often,Yes,Sometimes,6-8 hours
+21,Female,Oily,Yes,Severe,Less than 1 hour,Daily,More than twice,1-2 litres,Rarely,High,Sometimes,Yes,Often,4-6 hours
+18,Male,Dry,Yes,Mild,Less than 1 hour,Often,More than twice,1-2 litres,Daily,Very low,Very often,No,Often,4-6 hours
+21,Female,Normal,No,None,2-4 hours,Sometimes,Twice,Less than 1 litre,3-4 times a week,High,Often,Yes,Often,4-6 hours
+20,Male,Oily,Yes,Mild,2-4 hours,Never,More than twice,Less than 1 litre,1-2 times a week,Moderate,Often,Yes,Sometimes,6-8 hours
+18,Female,Oily,No,None,2-4 hours,Often,Once,1-2 litres,Daily,Very low,Sometimes,No,Rarely,6-8 hours
+17,Male,Combination,Yes,Mild,Less than 1 hour,Sometimes,More than twice,3+ litres,Daily,Very low,Very often,No,Sometimes,6-8 hours
+23,Female,Oily,Yes,Mild,2-4 hours,Never,More than twice,Less than 1 litre,Daily,High,Very often,No,Often,6-8 hours
+18,Male,Dry,Yes,Moderate,Less than 1 hour,Sometimes,Once,2-3 litres,Daily,Moderate,Very often,Yes,Sometimes,4-6 hours
+19,Female,Combination,No,None,2-4 hours,Never,More than twice,2-3 litres,3-4 times a week,High,Very often,Yes,Sometimes,6-8 hours
+18,Male,Combination,No,None,Less than 1 hour,Sometimes,More than twice,3+ litres,Daily,Moderate,Rarely,No,Often,4-6 hours
+20,Male,Oily,Yes,Severe,2-4 hours,Never,Twice,1-2 litres,3-4 times a week,High,Often,No,Sometimes,6-8 hours
+16,Female,Oily,Yes,Mild,Less than 1 hour,Daily,Twice,Less than 1 litre,3-4 times a week,Very low,Very often,No,Sometimes,8+ hours
+18,Female,Oily,Yes,Mild,1-2 hours,Daily,Once,Less than 1 litre,3-4 times a week,Very low,Very often,No,Often,6-8 hours
+19,Male,Oily,No,None,Less than 1 hour,Daily,More than twice,Less than 1 litre,3-4 times a week,High,Sometimes,No,Often,8+ hours
+19,Male,Oily,Yes,Mild,Less than 1 hour,Often,Once,1-2 litres,Daily,Moderate,Very often,No,Sometimes,6-8 hours
+20,Male,Combination,Yes,Moderate,Less than 1 hour,Never,Twice,2-3 litres,Daily,Very low,Rarely,No,Often,4-6 hours
+22,Female,Oily,Yes,Mild,1-2 hours,Often,Twice,Less than 1 litre,3-4 times a week,High,Very often,No,Often,6-8 hours
+17,Male,Oily,Yes,Mild,2-4 hours,Sometimes,Twice,Less than 1 litre,Daily,Very low,Often,No,Sometimes,6-8 hours
+22,Female,Combination,Yes,Moderate,1-2 hours,Daily,More than twice,2-3 litres,Daily,Very low,Very often,No,Often,4-6 hours
+19,Female,Oily,Yes,Moderate,1-2 hours,Daily,Twice,Less than 1 litre,1-2 times a week,Very low,Very often,No,Often,6-8 hours
+20,Female,Combination,No,None,Less than 1 hour,Never,Once,1-2 litres,Daily,Moderate,Rarely,Yes,Rarely,8+ hours
+22,Male,Oily,Yes,Severe,1-2 hours,Sometimes,Once,3+ litres,Daily,High,Often,No,Often,4-6 hours
+17,Female,Oily,Yes,Moderate,1-2 hours,Never,More than twice,2-3 litres,1-2 times a week,High,Often,No,Often,4-6 hours
+17,Male,Oily,Yes,Mild,1-2 hours,Daily,More than twice,Less than 1 litre,1-2 times a week,Moderate,Sometimes,No,Rarely,4-6 hours
+18,Male,Combination,Yes,Moderate,2-4 hours,Never,More than twice,1-2 litres,Rarely,Very low,Very often,No,Sometimes,4-6 hours
+16,Female,Oily,Yes,Severe,1-2 hours,Sometimes,More than twice,Less than 1 litre,Daily,Moderate,Sometimes,No,Often,4-6 hours
+22,Female,Combination,No,None,Less than 1 hour,Often,Once,Less than 1 litre,3-4 times a week,High,Rarely,No,Rarely,4-6 hours
+16,Male,Oily,Yes,Severe,Less than 1 hour,Sometimes,Once,Less than 1 litre,Daily,High,Sometimes,No,Rarely,4-6 hours
+19,Male,Oily,No,None,1-2 hours,Often,Once,1-2 litres,1-2 times a week,Moderate,Sometimes,Yes,Rarely,6-8 hours
+17,Male,Oily,No,None,1-2 hours,Never,Twice,3+ litres,Daily,Very low,Rarely,Yes,Rarely,6-8 hours
+16,Male,Combination,No,None,1-2 hours,Often,Twice,1-2 litres,3-4 times a week,Moderate,Often,No,Often,8+ hours
+17,Male,Normal,No,None,Less than 1 hour,Daily,More than twice,2-3 litres,3-4 times a week,Very low,Very often,No,Rarely,6-8 hours
+20,Male,Oily,No,None,1-2 hours,Daily,Once,Less than 1 litre,3-4 times a week,Very low,Rarely,No,Sometimes,8+ hours
+19,Female,Combination,No,None,2-4 hours,Daily,More than twice,3+ litres,3-4 times a week,Very low,Sometimes,Yes,Often,6-8 hours
+18,Male,Oily,Yes,Mild,Less than 1 hour,Often,Once,1-2 litres,1-2 times a week,High,Often,No,Rarely,6-8 hours
+24,Male,Combination,Yes,Moderate,2-4 hours,Never,Twice,Less than 1 litre,3-4 times a week,Moderate,Often,No,Often,4-6 hours
+21,Male,Oily,Yes,Moderate,Less than 1 hour,Never,More than twice,Less than 1 litre,Daily,Very low,Rarely,No,Sometimes,4-6 hours
+23,Female,Oily,Yes,Mild,1-2 hours,Never,Twice,2-3 litres,Daily,Moderate,Often,No,Often,6-8 hours
+17,Female,Oily,Yes,Mild,2-4 hours,Often,Once,2-3 litres,Daily,Moderate,Very often,No,Rarely,6-8 hours
+23,Female,Combination,Yes,Mild,1-2 hours,Sometimes,Once,2-3 litres,3-4 times a week,Very low,Very often,No,Often,6-8 hours
+20,Female,Combination,No,None,2-4 hours,Often,Twice,Less than 1 litre,Rarely,High,Rarely,No,Often,8+ hours
+17,Male,Normal,No,None,2-4 hours,Often,Once,3+ litres,3-4 times a week,Very low,Rarely,Yes,Often,6-8 hours
+20,Male,Combination,No,None,Less than 1 hour,Often,Once,3+ litres,Daily,High,Rarely,Yes,Often,4-6 hours
+23,Male,Combination,Yes,Mild,2-4 hours,Sometimes,More than twice,Less than 1 litre,1-2 times a week,High,Often,No,Sometimes,4-6 hours
+18,Male,Normal,Yes,Mild,Less than 1 hour,Often,Twice,3+ litres,Daily,High,Sometimes,No,Sometimes,6-8 hours
+20,Female,Oily,Yes,Mild,Less than 1 hour,Sometimes,Twice,2-3 litres,Daily,Moderate,Sometimes,Yes,Sometimes,4-6 hours
+22,Male,Dry,No,None,Less than 1 hour,Often,More than twice,2-3 litres,3-4 times a week,Moderate,Often,No,Sometimes,4-6 hours
+17,Male,Oily,Yes,Moderate,Less than 1 hour,Often,Once,1-2 litres,Daily,Very low,Sometimes,Yes,Often,6-8 hours
+17,Male,Oily,Yes,Moderate,Less than 1 hour,Often,Twice,1-2 litres,1-2 times a week,Very low,Often,No,Sometimes,6-8 hours
