@@ -1,0 +1,1213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DermaAI | Acne & Pimple Prediction & Intelligence Platform</title>
+    <meta name="description" content="AI-driven skin health diagnostic, acne risk scoring, personalized skincare protocols, and machine learning lifestyle analytics dashboard.">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <!-- Font Awesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <!-- Chart.js for interactive analytics -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="dark-theme">
+    <!-- Header / Navbar -->
+    <header class="app-header">
+        <div class="header-container">
+            <div class="brand-wrapper">
+                <div class="brand-icon">
+                    <i class="fa-solid fa-wand-magic-sparkles"></i>
+                </div>
+                <div class="brand-text">
+                    <span class="brand-title">Derma<span class="highlight">AI</span></span>
+                    <span class="brand-subtitle">Clinical Skin Analytics & ML Predictor</span>
+                </div>
+            </div>
+
+            <!-- Navigation Tabs -->
+            <nav class="nav-tabs" role="tablist">
+                <button class="nav-tab active" data-tab="assessment-tab" id="tab-assessment-btn">
+                    <i class="fa-solid fa-clipboard-question"></i>
+                    <span>Skin Assessment</span>
+                </button>
+                <button class="nav-tab" data-tab="results-tab" id="tab-results-btn">
+                    <i class="fa-solid fa-chart-pie"></i>
+                    <span>Diagnostic Report</span>
+                </button>
+                <button class="nav-tab" data-tab="dashboard-tab" id="tab-dashboard-btn">
+                    <i class="fa-solid fa-chart-line"></i>
+                    <span>ML Research Dashboard</span>
+                </button>
+                <button class="nav-tab" data-tab="simulator-tab" id="tab-simulator-btn">
+                    <i class="fa-solid fa-sliders"></i>
+                    <span>What-If Simulator</span>
+                </button>
+                <button class="nav-tab" data-tab="survey-tab" id="tab-survey-btn">
+                    <i class="fa-solid fa-database"></i>
+                    <span>Survey & Data Hub</span>
+                </button>
+            </nav>
+
+            <div class="header-actions">
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSfjeGZ3jZvv9TccYCv8z8vkDUB4ZrOzeWbiL35kd5cfYivKOQ/viewform?usp=dialog" target="_blank" class="btn-sm btn-outline-cyan">
+                    <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                    <span>Official Survey</span>
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content Container -->
+    <main class="main-container">
+
+        <!-- ============================================== -->
+        <!-- TAB 1: ASSESSMENT QUIZ / QUESTIONNAIRE          -->
+        <!-- ============================================== -->
+        <section id="assessment-tab" class="tab-panel active">
+            <div class="quiz-hero">
+                <div class="hero-badge"><i class="fa-solid fa-shield-virus"></i> Dermatological Assessment Engine</div>
+                <h1>Comprehensive Acne Risk & Skin Profile Analyzer</h1>
+                <p>Answer the 15 lifestyle, environmental, and skincare questions below to generate your personalized AI risk report, severity breakdown, and clinical skincare protocol.</p>
+            </div>
+
+            <div class="quiz-container glass-card">
+                <!-- Stepper Progress Bar -->
+                <div class="quiz-progress-wrapper">
+                    <div class="progress-info">
+                        <span id="quiz-step-label">Step 1 of 4: Demographics & Skin Basics</span>
+                        <span id="quiz-percentage">25%</span>
+                    </div>
+                    <div class="progress-bar-track">
+                        <div class="progress-bar-fill" id="quiz-progress-bar" style="width: 25%;"></div>
+                    </div>
+                    <div class="step-nodes">
+                        <div class="step-node active" data-step="1">1</div>
+                        <div class="step-node" data-step="2">2</div>
+                        <div class="step-node" data-step="3">3</div>
+                        <div class="step-node" data-step="4">4</div>
+                    </div>
+                </div>
+
+                <form id="assessment-form" onsubmit="return false;">
+                    <!-- Step 1: Demographics & Skin Type -->
+                    <div class="form-step-page active" data-step-page="1">
+                        <div class="step-header">
+                            <h2><i class="fa-solid fa-id-card"></i> Section 1: Demographics & Skin Type</h2>
+                            <p>Basic biometric profile and inherent skin barrier characteristics.</p>
+                        </div>
+
+                        <div class="question-grid">
+                            <!-- Q1: Age -->
+                            <div class="question-card">
+                                <label class="q-label" for="q-age">
+                                    <span class="q-num">1</span>
+                                    <span>What is your Age?</span>
+                                </label>
+                                <div class="number-input-wrapper">
+                                    <input type="range" id="q-age-slider" min="12" max="65" value="21" class="custom-slider">
+                                    <div class="slider-val-box">
+                                        <input type="number" id="q-age" min="12" max="65" value="21" class="form-input-number">
+                                        <span class="unit">years old</span>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Q2: Gender -->
+                            <div class="question-card">
+                                <label class="q-label">
+                                    <span class="q-num">2</span>
+                                    <span>What is your Gender?</span>
+                                </label>
+                                <div class="options-grid cols-2">
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_gender" value="Female" checked>
+                                        <div class="radio-box">
+                                            <i class="fa-solid fa-venus"></i>
+                                            <span class="opt-title">Female</span>
+                                        </div>
+                                    </label>
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_gender" value="Male">
+                                        <div class="radio-box">
+                                            <i class="fa-solid fa-mars"></i>
+                                            <span class="opt-title">Male</span>
+                                        </div>
+                                    </label>
+                                </div>
+                            </div>
+
+                            <!-- Q3: Skin Type -->
+                            <div class="question-card full-width">
+                                <label class="q-label">
+                                    <span class="q-num">3</span>
+                                    <span>How would you describe your skin type?</span>
+                                </label>
+                                <div class="options-grid cols-4">
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_skin_type" value="Oily" checked>
+                                        <div class="radio-box">
+                                            <i class="fa-solid fa-droplet"></i>
+                                            <span class="opt-title">Oily</span>
+                                            <span class="opt-desc">Excess shine, enlarged pores</span>
+                                        </div>
+                                    </label>
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_skin_type" value="Combination">
+                                        <div class="radio-box">
+                                            <i class="fa-solid fa-circle-half-stroke"></i>
+                                            <span class="opt-title">Combination</span>
+                                            <span class="opt-desc">Oily T-zone, normal/dry cheeks</span>
+                                        </div>
+                                    </label>
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_skin_type" value="Dry">
+                                        <div class="radio-box">
+                                            <i class="fa-solid fa-sun-plant-wilt"></i>
+                                            <span class="opt-title">Dry</span>
+                                            <span class="opt-desc">Tight feeling, flakiness</span>
+                                        </div>
+                                    </label>
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_skin_type" value="Normal">
+                                        <div class="radio-box">
+                                            <i class="fa-solid fa-face-smile"></i>
+                                            <span class="opt-title">Normal</span>
+                                            <span class="opt-desc">Balanced, minimal sensitivity</span>
+                                        </div>
+                                    </label>
+                                </div>
+                            </div>
+
+                            <!-- Q4: Current Acne Status -->
+                            <div class="question-card">
+                                <label class="q-label">
+                                    <span class="q-num">4</span>
+                                    <span>Do you have acne currently?</span>
+                                </label>
+                                <div class="options-grid cols-3">
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_current_acne" value="Yes" checked>
+                                        <div class="radio-box">
+                                            <span class="opt-title">Yes</span>
+                                            <span class="opt-desc">Active breakouts</span>
+                                        </div>
+                                    </label>
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_current_acne" value="Sometimes">
+                                        <div class="radio-box">
+                                            <span class="opt-title">Sometimes</span>
+                                            <span class="opt-desc">Occasional pimples</span>
+                                        </div>
+                                    </label>
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_current_acne" value="No">
+                                        <div class="radio-box">
+                                            <span class="opt-title">No</span>
+                                            <span class="opt-desc">Clear currently</span>
+                                        </div>
+                                    </label>
+                                </div>
+                            </div>
+
+                            <!-- Q5: Acne Severity -->
+                            <div class="question-card">
+                                <label class="q-label">
+                                    <span class="q-num">5</span>
+                                    <span>If yes, how severe is it?</span>
+                                </label>
+                                <div class="options-grid cols-4">
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_severity" value="Mild" checked>
+                                        <div class="radio-box">
+                                            <span class="opt-title">Mild</span>
+                                            <span class="opt-desc">Few whiteheads</span>
+                                        </div>
+                                    </label>
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_severity" value="Moderate">
+                                        <div class="radio-box">
+                                            <span class="opt-title">Moderate</span>
+                                            <span class="opt-desc">Multiple papules</span>
+                                        </div>
+                                    </label>
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_severity" value="Severe">
+                                        <div class="radio-box">
+                                            <span class="opt-title">Severe</span>
+                                            <span class="opt-desc">Cysts / nodules</span>
+                                        </div>
+                                    </label>
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_severity" value="None">
+                                        <div class="radio-box">
+                                            <span class="opt-title">N/A</span>
+                                            <span class="opt-desc">No acne</span>
+                                        </div>
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="step-navigation">
+                            <div></div>
+                            <button type="button" class="btn-primary next-step-btn" data-next="2">
+                                <span>Next: Environmental & Skincare</span>
+                                <i class="fa-solid fa-arrow-right"></i>
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Step 2: Environmental & Skincare Habits -->
+                    <div class="form-step-page" data-step-page="2">
+                        <div class="step-header">
+                            <h2><i class="fa-solid fa-shower"></i> Section 2: Sun & Skincare Habits</h2>
+                            <p>Daily UV exposure and hygiene routine factors.</p>
+                        </div>
+
+                        <div class="question-grid">
+                            <!-- Q6: Sun Exposure -->
+                            <div class="question-card">
+                                <label class="q-label">
+                                    <span class="q-num">6</span>
+                                    <span>Daily sun exposure hours?</span>
+                                </label>
+                                <div class="options-grid cols-2">
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_sun_exposure" value="0 - 1 hours">
+                                        <div class="radio-box">
+                                            <i class="fa-solid fa-cloud"></i>
+                                            <span class="opt-title">0 - 1 hours</span>
+                                        </div>
+                                    </label>
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_sun_exposure" value="1 - 3 hours" checked>
+                                        <div class="radio-box">
+                                            <i class="fa-solid fa-cloud-sun"></i>
+                                            <span class="opt-title">1 - 3 hours</span>
+                                        </div>
+                                    </label>
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_sun_exposure" value="3 - 5 hours">
+                                        <div class="radio-box">
+                                            <i class="fa-solid fa-sun"></i>
+                                            <span class="opt-title">3 - 5 hours</span>
+                                        </div>
+                                    </label>
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_sun_exposure" value="5+ hours">
+                                        <div class="radio-box">
+                                            <i class="fa-solid fa-sun-plant-wilt"></i>
+                                            <span class="opt-title">5+ hours</span>
+                                        </div>
+                                    </label>
+                                </div>
+                            </div>
+
+                            <!-- Q7: Sunscreen Application -->
+                            <div class="question-card">
+                                <label class="q-label">
+                                    <span class="q-num">7</span>
+                                    <span>How often do you apply sunscreen?</span>
+                                </label>
+                                <div class="options-grid cols-2">
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_apply_sunscreen" value="Daily">
+                                        <div class="radio-box"><span class="opt-title">Daily</span></div>
+                                    </label>
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_apply_sunscreen" value="Sometimes" checked>
+                                        <div class="radio-box"><span class="opt-title">Sometimes</span></div>
+                                    </label>
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_apply_sunscreen" value="Rarely">
+                                        <div class="radio-box"><span class="opt-title">Rarely</span></div>
+                                    </label>
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_apply_sunscreen" value="Never">
+                                        <div class="radio-box"><span class="opt-title">Never</span></div>
+                                    </label>
+                                </div>
+                            </div>
+
+                            <!-- Q8: Face Wash Routine -->
+                            <div class="question-card">
+                                <label class="q-label">
+                                    <span class="q-num">8</span>
+                                    <span>How often do you wash your face in a day?</span>
+                                </label>
+                                <div class="options-grid cols-2">
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_face_wash" value="Once">
+                                        <div class="radio-box"><span class="opt-title">Once</span></div>
+                                    </label>
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_face_wash" value="Twice" checked>
+                                        <div class="radio-box"><span class="opt-title">Twice (Ideal)</span></div>
+                                    </label>
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_face_wash" value="More than twice">
+                                        <div class="radio-box"><span class="opt-title">More than twice</span></div>
+                                    </label>
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_face_wash" value="I don't follow a routine">
+                                        <div class="radio-box"><span class="opt-title">No Routine</span></div>
+                                    </label>
+                                </div>
+                            </div>
+
+                            <!-- Q14: Face Touching Habit -->
+                            <div class="question-card">
+                                <label class="q-label">
+                                    <span class="q-num">9</span>
+                                    <span>Do you touch your face frequently?</span>
+                                </label>
+                                <div class="options-grid cols-3">
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_face_touch" value="Yes" checked>
+                                        <div class="radio-box"><span class="opt-title">Yes / Often</span></div>
+                                    </label>
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_face_touch" value="Sometimes">
+                                        <div class="radio-box"><span class="opt-title">Sometimes</span></div>
+                                    </label>
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_face_touch" value="No">
+                                        <div class="radio-box"><span class="opt-title">Rarely / No</span></div>
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="step-navigation">
+                            <button type="button" class="btn-secondary prev-step-btn" data-prev="1">
+                                <i class="fa-solid fa-arrow-left"></i>
+                                <span>Back</span>
+                            </button>
+                            <button type="button" class="btn-primary next-step-btn" data-next="3">
+                                <span>Next: Diet & Hydration</span>
+                                <i class="fa-solid fa-arrow-right"></i>
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Step 3: Nutrition & Hydration -->
+                    <div class="form-step-page" data-step-page="3">
+                        <div class="step-header">
+                            <h2><i class="fa-solid fa-utensils"></i> Section 3: Diet & Hydration</h2>
+                            <p>Metabolic, glycemic, and water intake triggers.</p>
+                        </div>
+
+                        <div class="question-grid">
+                            <!-- Q9: Water Intake -->
+                            <div class="question-card">
+                                <label class="q-label">
+                                    <span class="q-num">10</span>
+                                    <span>Daily water intake?</span>
+                                </label>
+                                <div class="options-grid cols-2">
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_water_intake" value="Less than 1 litre">
+                                        <div class="radio-box"><span class="opt-title">&lt; 1 Litre</span></div>
+                                    </label>
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_water_intake" value="1-2 litres" checked>
+                                        <div class="radio-box"><span class="opt-title">1 - 2 Litres</span></div>
+                                    </label>
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_water_intake" value="2-3 litres">
+                                        <div class="radio-box"><span class="opt-title">2 - 3 Litres</span></div>
+                                    </label>
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_water_intake" value="More than 3 litres">
+                                        <div class="radio-box"><span class="opt-title">3+ Litres</span></div>
+                                    </label>
+                                </div>
+                            </div>
+
+                            <!-- Q10: Junk Food -->
+                            <div class="question-card">
+                                <label class="q-label">
+                                    <span class="q-num">11</span>
+                                    <span>How often do you eat oily / junk food?</span>
+                                </label>
+                                <div class="options-grid cols-2">
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_junk_food" value="Rarely">
+                                        <div class="radio-box"><span class="opt-title">Rarely</span></div>
+                                    </label>
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_junk_food" value="1-2 times a week" checked>
+                                        <div class="radio-box"><span class="opt-title">1-2x / week</span></div>
+                                    </label>
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_junk_food" value="3-4 times a week">
+                                        <div class="radio-box"><span class="opt-title">3-4x / week</span></div>
+                                    </label>
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_junk_food" value="Daily">
+                                        <div class="radio-box"><span class="opt-title">Daily</span></div>
+                                    </label>
+                                </div>
+                            </div>
+
+                            <!-- Q11: Sugar Intake -->
+                            <div class="question-card full-width">
+                                <label class="q-label">
+                                    <span class="q-num">12</span>
+                                    <span>How much sugar do you consume daily?</span>
+                                </label>
+                                <div class="options-grid cols-4">
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_sugar_intake" value="Very low">
+                                        <div class="radio-box">
+                                            <span class="opt-title">Very Low</span>
+                                            <span class="opt-desc">Rarely eat sweets</span>
+                                        </div>
+                                    </label>
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_sugar_intake" value="Moderate" checked>
+                                        <div class="radio-box">
+                                            <span class="opt-title">Moderate</span>
+                                            <span class="opt-desc">1-2 items / day</span>
+                                        </div>
+                                    </label>
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_sugar_intake" value="High">
+                                        <div class="radio-box">
+                                            <span class="opt-title">High</span>
+                                            <span class="opt-desc">3-4 items / day</span>
+                                        </div>
+                                    </label>
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_sugar_intake" value="Very high">
+                                        <div class="radio-box">
+                                            <span class="opt-title">Very High</span>
+                                            <span class="opt-desc">&gt; 4 items / day</span>
+                                        </div>
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="step-navigation">
+                            <button type="button" class="btn-secondary prev-step-btn" data-prev="2">
+                                <i class="fa-solid fa-arrow-left"></i>
+                                <span>Back</span>
+                            </button>
+                            <button type="button" class="btn-primary next-step-btn" data-next="4">
+                                <span>Next: Stress, Genetics & Sleep</span>
+                                <i class="fa-solid fa-arrow-right"></i>
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Step 4: Stress, Sleep & Genetics -->
+                    <div class="form-step-page" data-step-page="4">
+                        <div class="step-header">
+                            <h2><i class="fa-solid fa-brain"></i> Section 4: Stress, Sleep & Genetics</h2>
+                            <p>Endocrine and cortisol influence on acne development.</p>
+                        </div>
+
+                        <div class="question-grid">
+                            <!-- Q12: Stress Level -->
+                            <div class="question-card">
+                                <label class="q-label">
+                                    <span class="q-num">13</span>
+                                    <span>Do you experience stress frequently?</span>
+                                </label>
+                                <div class="options-grid cols-2">
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_stress" value="Rarely">
+                                        <div class="radio-box"><span class="opt-title">Rarely</span></div>
+                                    </label>
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_stress" value="Sometimes" checked>
+                                        <div class="radio-box"><span class="opt-title">Sometimes</span></div>
+                                    </label>
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_stress" value="Often">
+                                        <div class="radio-box"><span class="opt-title">Often</span></div>
+                                    </label>
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_stress" value="Very often">
+                                        <div class="radio-box"><span class="opt-title">Very Often</span></div>
+                                    </label>
+                                </div>
+                            </div>
+
+                            <!-- Q13: Family History -->
+                            <div class="question-card">
+                                <label class="q-label">
+                                    <span class="q-num">14</span>
+                                    <span>Family history of acne?</span>
+                                </label>
+                                <div class="options-grid cols-3">
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_family_history" value="Yes" checked>
+                                        <div class="radio-box"><span class="opt-title">Yes</span></div>
+                                    </label>
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_family_history" value="No">
+                                        <div class="radio-box"><span class="opt-title">No</span></div>
+                                    </label>
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_family_history" value="Not sure">
+                                        <div class="radio-box"><span class="opt-title">Not Sure</span></div>
+                                    </label>
+                                </div>
+                            </div>
+
+                            <!-- Q15: Sleep Duration -->
+                            <div class="question-card full-width">
+                                <label class="q-label">
+                                    <span class="q-num">15</span>
+                                    <span>How many hours of sleep do you get daily?</span>
+                                </label>
+                                <div class="options-grid cols-4">
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_sleeping_hours" value="Less than 5 hours">
+                                        <div class="radio-box">
+                                            <i class="fa-solid fa-moon"></i>
+                                            <span class="opt-title">&lt; 5 hours</span>
+                                            <span class="opt-desc">High risk</span>
+                                        </div>
+                                    </label>
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_sleeping_hours" value="5-7 hours" checked>
+                                        <div class="radio-box">
+                                            <i class="fa-solid fa-bed"></i>
+                                            <span class="opt-title">5 - 7 hours</span>
+                                            <span class="opt-desc">Moderate</span>
+                                        </div>
+                                    </label>
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_sleeping_hours" value="7-9 hours">
+                                        <div class="radio-box">
+                                            <i class="fa-solid fa-face-smile-beam"></i>
+                                            <span class="opt-title">7 - 9 hours</span>
+                                            <span class="opt-desc">Optimal</span>
+                                        </div>
+                                    </label>
+                                    <label class="radio-card">
+                                        <input type="radio" name="q_sleeping_hours" value="More than 9 hours">
+                                        <div class="radio-box">
+                                            <i class="fa-solid fa-couch"></i>
+                                            <span class="opt-title">&gt; 9 hours</span>
+                                            <span class="opt-desc">Extended</span>
+                                        </div>
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="step-navigation">
+                            <button type="button" class="btn-secondary prev-step-btn" data-prev="3">
+                                <i class="fa-solid fa-arrow-left"></i>
+                                <span>Back</span>
+                            </button>
+                            <button type="button" id="submit-assessment-btn" class="btn-cta">
+                                <i class="fa-solid fa-wand-magic-sparkles"></i>
+                                <span>Generate AI Skin Diagnostic</span>
+                            </button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </section>
+
+        <!-- ============================================== -->
+        <!-- TAB 2: DETAILED DIAGNOSTIC & ANALYSIS REPORT   -->
+        <!-- ============================================== -->
+        <section id="results-tab" class="tab-panel">
+            <div class="results-header-banner glass-card">
+                <div class="banner-left">
+                    <span class="badge-tag"><i class="fa-solid fa-certificate"></i> AI Dermatological Diagnostic Report</span>
+                    <h2 id="report-user-summary">Skin Risk Profile for 21 yr old Female (Oily Skin)</h2>
+                    <p class="timestamp" id="report-timestamp">Generated Just Now • Powered by Random Forest & K-Means Engine</p>
+                </div>
+                <div class="banner-right">
+                    <button class="btn-outline-cyan" onclick="window.print()">
+                        <i class="fa-solid fa-print"></i>
+                        <span>Print / PDF Report</span>
+                    </button>
+                    <button class="btn-primary" onclick="document.getElementById('tab-assessment-btn').click()">
+                        <i class="fa-solid fa-rotate-left"></i>
+                        <span>Retake Quiz</span>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Top Cards: Risk Gauge, Severity, Archetype -->
+            <div class="metrics-triple-grid">
+                <!-- Card 1: Acne Risk Score -->
+                <div class="diagnostic-card glass-card">
+                    <div class="card-title-row">
+                        <span>Acne Likelihood Index</span>
+                        <i class="fa-solid fa-gauge-high card-icon"></i>
+                    </div>
+                    <div class="gauge-display-wrapper">
+                        <div class="circular-gauge" id="risk-gauge-circle">
+                            <div class="inner-circle">
+                                <span class="gauge-value" id="res-risk-score">76.5%</span>
+                                <span class="gauge-label" id="res-risk-tier">High Risk</span>
+                            </div>
+                        </div>
+                    </div>
+                    <p class="card-caption" id="res-risk-caption">Based on your elevated stress, sebum characteristics, and frequent face touching habits.</p>
+                </div>
+
+                <!-- Card 2: Predicted Severity -->
+                <div class="diagnostic-card glass-card">
+                    <div class="card-title-row">
+                        <span>Predicted Severity Level</span>
+                        <i class="fa-solid fa-notes-medical card-icon"></i>
+                    </div>
+                    <div class="severity-badge-wrapper">
+                        <div class="severity-badge severe" id="res-severity-badge">
+                            <i class="fa-solid fa-triangle-exclamation"></i>
+                            <span id="res-severity-text">Moderate / Severe</span>
+                        </div>
+                    </div>
+                    <div class="severity-scale">
+                        <span class="scale-step clear">Clear</span>
+                        <span class="scale-step mild">Mild</span>
+                        <span class="scale-step mod active">Moderate</span>
+                        <span class="scale-step sev">Severe</span>
+                    </div>
+                    <p class="card-caption">Multi-class classification trained on 1,500 clinical responses indicates risk of inflammatory papules and pustules.</p>
+                </div>
+
+                <!-- Card 3: Skin Cluster Archetype -->
+                <div class="diagnostic-card glass-card">
+                    <div class="card-title-row">
+                        <span>Skin Health Cluster</span>
+                        <i class="fa-solid fa-dna card-icon"></i>
+                    </div>
+                    <div class="cluster-badge-box">
+                        <div class="cluster-code">Cluster #0</div>
+                        <h3 class="cluster-name" id="res-cluster-name">Stress & Diet Vulnerable Archetype</h3>
+                    </div>
+                    <p class="card-caption" id="res-cluster-desc">Shared by 34.2% of surveyed participants displaying high lifestyle stress, lower sleep, and high glycemic triggers.</p>
+                </div>
+            </div>
+
+            <!-- Middle Section: 6-Factor Radar / Breakdown & Association Rules -->
+            <div class="insights-dual-grid">
+                <!-- Left: 6 Dimension Breakdown -->
+                <div class="glass-card panel-card">
+                    <div class="panel-header">
+                        <h3><i class="fa-solid fa-chart-simple"></i> Biological & Lifestyle Breakdown</h3>
+                        <span class="subtitle">Multi-dimensional risk scoring</span>
+                    </div>
+                    <div class="factor-bars-list">
+                        <!-- Factor 1: Diet Risk -->
+                        <div class="factor-row">
+                            <div class="factor-meta">
+                                <span><i class="fa-solid fa-burger"></i> Diet & Glycemic Impact</span>
+                                <span class="val-score" id="bar-diet-val">70% (Elevated)</span>
+                            </div>
+                            <div class="meter-track"><div class="meter-fill danger" id="bar-diet-fill" style="width: 70%;"></div></div>
+                        </div>
+
+                        <!-- Factor 2: Hydration Index -->
+                        <div class="factor-row">
+                            <div class="factor-meta">
+                                <span><i class="fa-solid fa-bottle-water"></i> Hydration & Barrier Moisture</span>
+                                <span class="val-score" id="bar-hydration-val">50% (Sub-optimal)</span>
+                            </div>
+                            <div class="meter-track"><div class="meter-fill warning" id="bar-hydration-fill" style="width: 50%;"></div></div>
+                        </div>
+
+                        <!-- Factor 3: Stress Impact -->
+                        <div class="factor-row">
+                            <div class="factor-meta">
+                                <span><i class="fa-solid fa-bolt-lightning"></i> Cortisol / Stress Level</span>
+                                <span class="val-score" id="bar-stress-val">80% (High Trigger)</span>
+                            </div>
+                            <div class="meter-track"><div class="meter-fill danger" id="bar-stress-fill" style="width: 80%;"></div></div>
+                        </div>
+
+                        <!-- Factor 4: Skincare Defense -->
+                        <div class="factor-row">
+                            <div class="factor-meta">
+                                <span><i class="fa-solid fa-shield-halved"></i> Skincare & UV Defense</span>
+                                <span class="val-score" id="bar-skincare-val">45% (Needs Improvement)</span>
+                            </div>
+                            <div class="meter-track"><div class="meter-fill warning" id="bar-skincare-fill" style="width: 45%;"></div></div>
+                        </div>
+
+                        <!-- Factor 5: Sleep Restoration -->
+                        <div class="factor-row">
+                            <div class="factor-meta">
+                                <span><i class="fa-solid fa-bed"></i> Sleep Quality & Cellular Repair</span>
+                                <span class="val-score" id="bar-sleep-val">65% (Adequate)</span>
+                            </div>
+                            <div class="meter-track"><div class="meter-fill success" id="bar-sleep-fill" style="width: 65%;"></div></div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Right: Apriori Association Rules Triggered -->
+                <div class="glass-card panel-card">
+                    <div class="panel-header">
+                        <h3><i class="fa-solid fa-link"></i> Mined Association Rules Matcher</h3>
+                        <span class="subtitle">Discovered behavioral co-occurrences</span>
+                    </div>
+                    <div class="rules-match-container" id="res-triggered-rules-list">
+                        <!-- Injected dynamically -->
+                    </div>
+                </div>
+            </div>
+
+            <!-- Bottom Section: Personalized Skincare Protocol & Lifestyle Rx -->
+            <div class="protocol-section glass-card">
+                <div class="protocol-header">
+                    <h2><i class="fa-solid fa-prescription-bottle-medical"></i> Custom Dermatological Treatment & Care Plan</h2>
+                    <p>Evidence-based active ingredients and lifestyle interventions tailored to your specific skin type and risk triggers.</p>
+                </div>
+
+                <div class="protocol-tri-grid">
+                    <!-- Morning Routine -->
+                    <div class="protocol-column morning-col">
+                        <div class="col-head">
+                            <i class="fa-solid fa-sun-cloud"></i>
+                            <h3>Morning Routine (AM)</h3>
+                        </div>
+                        <ul class="regimen-list" id="res-am-list">
+                            <li><span class="step-badge">1</span> Gentle Gel Cleanser with 0.5% Salicylic Acid or Zinc PCA</li>
+                            <li><span class="step-badge">2</span> 2% Niacinamide Serum to regulate sebum & reduce inflammation</li>
+                            <li><span class="step-badge">3</span> Lightweight Oil-Free Hyaluronic Acid Water Gel</li>
+                            <li><span class="step-badge">4</span> Broad-Spectrum Non-Comedogenic Sunscreen (SPF 50+ PA++++)</li>
+                        </ul>
+                    </div>
+
+                    <!-- Evening Routine -->
+                    <div class="protocol-column evening-col">
+                        <div class="col-head">
+                            <i class="fa-solid fa-moon"></i>
+                            <h3>Night Routine (PM)</h3>
+                        </div>
+                        <ul class="regimen-list" id="res-pm-list">
+                            <li><span class="step-badge">1</span> Double Cleanse: Micellar Water followed by Gentle Foaming Cleanser</li>
+                            <li><span class="step-badge">2</span> Active Treatment: 2% BHA (Salicylic Acid) 2-3 nights/week or 10% Azelaic Acid</li>
+                            <li><span class="step-badge">3</span> Barrier Restoring Ceramide & Panthenol Night Cream</li>
+                            <li><span class="step-badge">4</span> Hydrocolloid Blemish Patches on active lesions (do NOT squeeze)</li>
+                        </ul>
+                    </div>
+
+                    <!-- Lifestyle Prescription -->
+                    <div class="protocol-column lifestyle-col">
+                        <div class="col-head">
+                            <i class="fa-solid fa-heart-pulse"></i>
+                            <h3>Lifestyle & Habit Rx</h3>
+                        </div>
+                        <ul class="regimen-list" id="res-lifestyle-list">
+                            <li><span class="step-badge"><i class="fa-solid fa-droplet"></i></span> Reach daily target of 2.5 - 3.0 Litres of pure water</li>
+                            <li><span class="step-badge"><i class="fa-solid fa-ban"></i></span> Cut down high-glycemic dairy shakes, refined sugars, and deep-fried fast food</li>
+                            <li><span class="step-badge"><i class="fa-solid fa-hand-dots"></i></span> Consciously refrain from touching face; sanitize smartphone screens daily</li>
+                            <li><span class="step-badge"><i class="fa-solid fa-bed"></i></span> Maintain 7.5+ hours sleep to stabilize nocturnal epidermal repair cycle</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- ============================================== -->
+        <!-- TAB 3: MACHINE LEARNING & RESEARCH DASHBOARD   -->
+        <!-- ============================================== -->
+        <section id="dashboard-tab" class="tab-panel">
+            <div class="dashboard-hero">
+                <h1>Machine Learning Analytics & Model Benchmark Dashboard</h1>
+                <p>Comprehensive exploratory analysis of 1,500 clinical survey participants, multiclass severity models, K-Means clustering, and Apriori association mining.</p>
+            </div>
+
+            <!-- Stats Bar -->
+            <div class="kpi-grid">
+                <div class="kpi-card glass-card">
+                    <div class="kpi-icon cyan"><i class="fa-solid fa-users"></i></div>
+                    <div class="kpi-data">
+                        <span class="kpi-number" id="kpi-total-records">1,500</span>
+                        <span class="kpi-label">Surveyed Respondents</span>
+                    </div>
+                </div>
+                <div class="kpi-card glass-card">
+                    <div class="kpi-icon green"><i class="fa-solid fa-brain"></i></div>
+                    <div class="kpi-data">
+                        <span class="kpi-number" id="kpi-best-acc">81.3%</span>
+                        <span class="kpi-label">Top Model Accuracy (GBM)</span>
+                    </div>
+                </div>
+                <div class="kpi-card glass-card">
+                    <div class="kpi-icon purple"><i class="fa-solid fa-bullseye"></i></div>
+                    <div class="kpi-data">
+                        <span class="kpi-number" id="kpi-best-f1">88.4%</span>
+                        <span class="kpi-label">Top F1-Score (Random Forest)</span>
+                    </div>
+                </div>
+                <div class="kpi-card glass-card">
+                    <div class="kpi-icon orange"><i class="fa-solid fa-diagram-project"></i></div>
+                    <div class="kpi-data">
+                        <span class="kpi-number">3 Clusters</span>
+                        <span class="kpi-label">Skin Health Archetypes</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Charts Row 1: Model Comparison & Feature Importance -->
+            <div class="charts-row">
+                <div class="chart-card glass-card">
+                    <div class="chart-card-header">
+                        <h3><i class="fa-solid fa-trophy"></i> ML Model Benchmark (Accuracy & F1-Score)</h3>
+                        <span class="chart-tag">7 Algorithms Evaluated</span>
+                    </div>
+                    <div class="chart-canvas-wrapper">
+                        <canvas id="chart-models-benchmark"></canvas>
+                    </div>
+                </div>
+
+                <div class="chart-card glass-card">
+                    <div class="chart-card-header">
+                        <h3><i class="fa-solid fa-ranking-star"></i> Random Forest Feature Importance</h3>
+                        <span class="chart-tag">Top Predictive Drivers</span>
+                    </div>
+                    <div class="chart-canvas-wrapper">
+                        <canvas id="chart-feature-importance"></canvas>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Charts Row 2: Demographic & Lifestyle EDA Distributions -->
+            <div class="charts-row">
+                <div class="chart-card glass-card">
+                    <div class="chart-card-header">
+                        <h3><i class="fa-solid fa-pie-chart"></i> Skin Type Distribution vs Acne Occurrence</h3>
+                    </div>
+                    <div class="chart-canvas-wrapper">
+                        <canvas id="chart-skin-types"></canvas>
+                    </div>
+                </div>
+
+                <div class="chart-card glass-card">
+                    <div class="chart-card-header">
+                        <h3><i class="fa-solid fa-chart-column"></i> Stress Frequency & Water Intake Correlations</h3>
+                    </div>
+                    <div class="chart-canvas-wrapper">
+                        <canvas id="chart-stress-water"></canvas>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Clustering & PCA Scatter Plot -->
+            <div class="charts-row full-span">
+                <div class="chart-card glass-card">
+                    <div class="chart-card-header">
+                        <div>
+                            <h3><i class="fa-solid fa-atom"></i> Unsupervised K-Means Skin Profiles (2D PCA Projection)</h3>
+                            <p class="sub-text">1500 survey records mapped to 3 principal cluster archetypes</p>
+                        </div>
+                    </div>
+                    <div class="cluster-cards-row">
+                        <div class="cluster-summary-box c0">
+                            <span class="badge c0-badge">Cluster 0 (34.2%)</span>
+                            <h4>High Stress & Low Hydration</h4>
+                            <p>High acne prevalence (88%), elevated sugar & junk food frequency, lower sleep hours.</p>
+                        </div>
+                        <div class="cluster-summary-box c1">
+                            <span class="badge c1-badge">Cluster 1 (37.1%)</span>
+                            <h4>Balanced Skincare Routine</h4>
+                            <p>Lowest acne recurrence (42%), consistent daily sunscreen, >2L water, low sugar.</p>
+                        </div>
+                        <div class="cluster-summary-box c2">
+                            <span class="badge c2-badge">Cluster 2 (28.7%)</span>
+                            <h4>High Sun & Frequent Touch</h4>
+                            <p>Moderate-high acne rate (76%), frequent barrier disruption and high face touching.</p>
+                        </div>
+                    </div>
+                    <div class="chart-canvas-wrapper tall">
+                        <canvas id="chart-pca-clusters"></canvas>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Association Rules Mined Table -->
+            <div class="rules-table-section glass-card">
+                <div class="table-header">
+                    <h3><i class="fa-solid fa-network-wired"></i> Apriori Association Rules Mined (Lift &gt; 1.1)</h3>
+                    <p>Combinations of habits strongly associated with acne occurrences in survey population.</p>
+                </div>
+                <div class="table-responsive">
+                    <table class="data-table" id="apriori-rules-table">
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Antecedent Factors (If...)</th>
+                                <th>Consequent (Then...)</th>
+                                <th>Support</th>
+                                <th>Confidence</th>
+                                <th>Lift (Correlation Strength)</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <!-- Filled dynamically -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <!-- ============================================== -->
+        <!-- TAB 4: WHAT-IF SCENARIO SIMULATOR               -->
+        <!-- ============================================== -->
+        <section id="simulator-tab" class="tab-panel">
+            <div class="simulator-hero">
+                <div class="hero-badge"><i class="fa-solid fa-flask"></i> Interactive Lifestyle Lab</div>
+                <h1>Real-Time Skin Improvement & Risk Simulator</h1>
+                <p>Adjust your daily habits dynamically using the sliders below and observe how clinical intervention scores reduce your acne probability in real time!</p>
+            </div>
+
+            <div class="simulator-grid">
+                <!-- Controls Column -->
+                <div class="glass-card sim-controls-card">
+                    <h3><i class="fa-solid fa-sliders"></i> Adjustable Lifestyle Levers</h3>
+
+                    <div class="sim-control-group">
+                        <div class="sim-label-row">
+                            <span><i class="fa-solid fa-droplet"></i> Daily Water Intake</span>
+                            <span class="sim-val" id="sim-water-val">2.5 L</span>
+                        </div>
+                        <input type="range" id="sim-water" min="0.5" max="4.0" step="0.5" value="2.5" class="custom-slider">
+                    </div>
+
+                    <div class="sim-control-group">
+                        <div class="sim-label-row">
+                            <span><i class="fa-solid fa-cake-candles"></i> Sugar / Sweets Intake</span>
+                            <span class="sim-val" id="sim-sugar-val">Moderate</span>
+                        </div>
+                        <input type="range" id="sim-sugar" min="0" max="3" step="1" value="1" class="custom-slider">
+                        <div class="slider-ticks">
+                            <div class="tick-mark" style="left: 0%;">
+                                <span class="tick-line"></span>
+                                <span class="tick-label">Very Low</span>
+                            </div>
+                            <div class="tick-mark" style="left: 33.333%;">
+                                <span class="tick-line"></span>
+                                <span class="tick-label">Moderate</span>
+                            </div>
+                            <div class="tick-mark" style="left: 66.666%;">
+                                <span class="tick-line"></span>
+                                <span class="tick-label">High</span>
+                            </div>
+                            <div class="tick-mark" style="left: 100%;">
+                                <span class="tick-line"></span>
+                                <span class="tick-label">Very High</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="sim-control-group">
+                        <div class="sim-label-row">
+                            <span><i class="fa-solid fa-bed"></i> Sleep Duration</span>
+                            <span class="sim-val" id="sim-sleep-val">8 Hours</span>
+                        </div>
+                        <input type="range" id="sim-sleep" min="4" max="10" step="0.5" value="8" class="custom-slider">
+                    </div>
+
+                    <div class="sim-control-group">
+                        <div class="sim-label-row">
+                            <span><i class="fa-solid fa-bolt"></i> Stress Level</span>
+                            <span class="sim-val" id="sim-stress-val">Sometimes</span>
+                        </div>
+                        <input type="range" id="sim-stress" min="0" max="3" step="1" value="1" class="custom-slider">
+                        <div class="slider-ticks">
+                            <div class="tick-mark" style="left: 0%;">
+                                <span class="tick-line"></span>
+                                <span class="tick-label">Rarely</span>
+                            </div>
+                            <div class="tick-mark" style="left: 33.333%;">
+                                <span class="tick-line"></span>
+                                <span class="tick-label">Sometimes</span>
+                            </div>
+                            <div class="tick-mark" style="left: 66.666%;">
+                                <span class="tick-line"></span>
+                                <span class="tick-label">Often</span>
+                            </div>
+                            <div class="tick-mark" style="left: 100%;">
+                                <span class="tick-line"></span>
+                                <span class="tick-label">Very Often</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="sim-control-group">
+                        <div class="sim-label-row">
+                            <span><i class="fa-solid fa-sun"></i> Sunscreen Consistency</span>
+                            <span class="sim-val" id="sim-sunscreen-val">Daily</span>
+                        </div>
+                        <input type="range" id="sim-sunscreen" min="0" max="3" step="1" value="2" class="custom-slider">
+                        <div class="slider-ticks">
+                            <div class="tick-mark" style="left: 0%;">
+                                <span class="tick-line"></span>
+                                <span class="tick-label">Never</span>
+                            </div>
+                            <div class="tick-mark" style="left: 33.333%;">
+                                <span class="tick-line"></span>
+                                <span class="tick-label">Rarely</span>
+                            </div>
+                            <div class="tick-mark" style="left: 66.666%;">
+                                <span class="tick-line"></span>
+                                <span class="tick-label">Daily</span>
+                            </div>
+                            <div class="tick-mark" style="left: 100%;">
+                                <span class="tick-line"></span>
+                                <span class="tick-label">Reapplied</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="sim-control-group">
+                        <div class="sim-label-row">
+                            <span><i class="fa-solid fa-hand"></i> Face Touching Habit</span>
+                            <span class="sim-val" id="sim-touch-val">Rarely</span>
+                        </div>
+                        <input type="range" id="sim-touch" min="0" max="2" step="1" value="0" class="custom-slider">
+                        <div class="slider-ticks">
+                            <div class="tick-mark" style="left: 0%;">
+                                <span class="tick-line"></span>
+                                <span class="tick-label">Rarely</span>
+                            </div>
+                            <div class="tick-mark" style="left: 50%;">
+                                <span class="tick-line"></span>
+                                <span class="tick-label">Sometimes</span>
+                            </div>
+                            <div class="tick-mark" style="left: 100%;">
+                                <span class="tick-line"></span>
+                                <span class="tick-label">Often</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Live Simulation Output Column -->
+                <div class="glass-card sim-output-card">
+                    <h3><i class="fa-solid fa-chart-line-up"></i> Projected Real-Time Impact</h3>
+
+                    <div class="sim-score-box">
+                        <div class="sim-score-ring">
+                            <span class="sim-pct" id="sim-projected-score">28%</span>
+                            <span class="sim-tag" id="sim-projected-status">Low Likelihood</span>
+                        </div>
+                    </div>
+
+                    <div class="sim-comparison">
+                        <div class="comp-col">
+                            <span class="comp-title">Current Baseline</span>
+                            <span class="comp-val danger" id="sim-baseline-score">76%</span>
+                        </div>
+                        <div class="comp-arrow"><i class="fa-solid fa-arrow-right"></i></div>
+                        <div class="comp-col">
+                            <span class="comp-title">Simulated Score</span>
+                            <span class="comp-val success" id="sim-after-score">28%</span>
+                        </div>
+                        <div class="comp-diff" id="sim-score-drop">-48% Risk Reduction</div>
+                    </div>
+
+                    <div class="sim-insights-box">
+                        <h4><i class="fa-solid fa-lightbulb"></i> Optimization Breakdown:</h4>
+                        <ul id="sim-insights-list">
+                            <li><i class="fa-solid fa-check text-success"></i> <strong>Hydration + Sleep:</strong> Enhances cellular skin barrier repair by +35%.</li>
+                            <li><i class="fa-solid fa-check text-success"></i> <strong>Sunscreen + No Touch:</strong> Reduces external bacterial seeding and UV lipid peroxidation.</li>
+                            <li><i class="fa-solid fa-check text-success"></i> <strong>Low Sugar Diet:</strong> Avoids IGF-1 insulin spikes that cause sebum oversecretion.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- ============================================== -->
+        <!-- TAB 5: SURVEY & RAW DATA HUB                   -->
+        <!-- ============================================== -->
+        <section id="survey-tab" class="tab-panel">
+            <div class="survey-hero">
+                <h1>Google Forms Survey & Data Collection Hub</h1>
+                <p>Access the research survey questions, review dataset schema, or export the collected dataset for scientific analysis.</p>
+            </div>
+
+            <div class="survey-action-grid">
+                <!-- Card 1: Open Google Form -->
+                <div class="survey-card glass-card">
+                    <div class="s-icon purple"><i class="fa-solid fa-file-lines"></i></div>
+                    <h3>Official Google Form Survey</h3>
+                    <p>The original multi-question survey distributed to gather real-world behavioral and clinical skin data.</p>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSfjeGZ3jZvv9TccYCv8z8vkDUB4ZrOzeWbiL35kd5cfYivKOQ/viewform?usp=dialog" target="_blank" class="btn-primary">
+                        <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        <span>Open Google Form</span>
+                    </a>
+                </div>
+
+                <!-- Card 2: Dataset Summary -->
+                <div class="survey-card glass-card">
+                    <div class="s-icon cyan"><i class="fa-solid fa-database"></i></div>
+                    <h3>Acne Dataset (CSV)</h3>
+                    <p>Contains comprehensive lifestyle and clinical feature variables including Age, Gender, Diet, Stress, Sun Exposure, and Family History.</p>
+                    <button class="btn-outline-cyan" id="export-csv-btn">
+                        <i class="fa-solid fa-download"></i>
+                        <span>Download Dataset Copy</span>
+                    </button>
+                </div>
+
+                <!-- Card 3: Model JSON Artifacts -->
+                <div class="survey-card glass-card">
+                    <div class="s-icon green"><i class="fa-solid fa-code"></i></div>
+                    <h3>Trained ML Artifacts (JSON)</h3>
+                    <p>Precomputed weights, association rules, K-means centroids, and model performance benchmarks.</p>
+                    <button class="btn-outline-cyan" id="export-json-btn">
+                        <i class="fa-solid fa-file-code"></i>
+                        <span>Download ML Insights JSON</span>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Survey Schema Explorer -->
+            <div class="schema-explorer glass-card">
+                <h3><i class="fa-solid fa-table-columns"></i> Dataset Feature Schema (15 Variables)</h3>
+                <div class="schema-tags">
+                    <span class="stag"><i class="fa-solid fa-hashtag"></i> Age (Numeric)</span>
+                    <span class="stag"><i class="fa-solid fa-venus-mars"></i> Gender (Nominal)</span>
+                    <span class="stag"><i class="fa-solid fa-droplet"></i> Skin Type (Oily, Dry, Comb, Normal)</span>
+                    <span class="stag"><i class="fa-solid fa-triangle-exclamation"></i> Current Acne (Target)</span>
+                    <span class="stag"><i class="fa-solid fa-layer-group"></i> Severity (Mild, Moderate, Severe)</span>
+                    <span class="stag"><i class="fa-solid fa-sun"></i> Sun Exposure (Hours)</span>
+                    <span class="stag"><i class="fa-solid fa-shield-sun"></i> Sunscreen Application</span>
+                    <span class="stag"><i class="fa-solid fa-sink"></i> Face Washing Frequency</span>
+                    <span class="stag"><i class="fa-solid fa-bottle-water"></i> Water Intake (Litres)</span>
+                    <span class="stag"><i class="fa-solid fa-pizza-slice"></i> Junk Food Frequency</span>
+                    <span class="stag"><i class="fa-solid fa-candy-cane"></i> Sugar Intake Level</span>
+                    <span class="stag"><i class="fa-solid fa-brain"></i> Stress Level</span>
+                    <span class="stag"><i class="fa-solid fa-dna"></i> Family History</span>
+                    <span class="stag"><i class="fa-solid fa-hand"></i> Face Touching Habit</span>
+                    <span class="stag"><i class="fa-solid fa-bed"></i> Sleeping Duration</span>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="app-footer">
+        <div class="footer-container">
+            <p>© 2026 DermaAI Skin Research & Machine Learning Project. For informational and educational purposes.</p>
+            <div class="footer-links">
+                <a href="https://github.com/Nishtha56/Acne-and-Pimple-Prediction" target="_blank"><i class="fa-brands fa-github"></i> GitHub Repository</a>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSfjeGZ3jZvv9TccYCv8z8vkDUB4ZrOzeWbiL35kd5cfYivKOQ/viewform?usp=dialog" target="_blank"><i class="fa-solid fa-clipboard-list"></i> Survey Form</a>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="app.js"></script>
+</body>
+</html>
