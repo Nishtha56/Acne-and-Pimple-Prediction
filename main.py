@@ -6,9 +6,6 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier
 
-# -------------------------
-# Read dataset
-# -------------------------
 data = pd.read_csv("Acne_Dataset.csv")
 print("Dataset Loaded Successfully!\n")
 
@@ -18,9 +15,7 @@ data.columns = data.columns.str.strip()
 data.columns=['Age', 'Gender', 'Skin_Type', "Current_Acne", "Is_Server",
               "Exposure", "Apply_Sunscreen", "Face_Wash","Water_Intake","Junk_Food",
               "Sugar_Intake","Stress","Family_History","Face_Touch","Sleeping_Hours"]
-# -------------------------
-# Basic EDA
-# -------------------------
+
 print("First 5 rows:\n", data.head(), "\n")
 print("Shape of dataset:", data.shape, "\n")
 print("Information of dataset:\n")
