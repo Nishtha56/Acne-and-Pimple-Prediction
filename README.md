@@ -1,4 +1,4 @@
-# 🌟 Acne and Pimple Prediction & Clinical Intelligence Platform
+# 🌟 Acne and Pimple Prediction & Educational Intelligence Platform
 
 An end-to-end **Machine Learning & Dermatological Analytics Platform** that predicts acne likelihood, classifies severity, clusters skin health archetypes, mines behavioral association rules, and provides personalized skincare routines through an interactive modern web dashboard.
 
@@ -9,7 +9,7 @@ An end-to-end **Machine Learning & Dermatological Analytics Platform** that pred
 ## 🚀 Key Features
 
 ### 1. 📋 Interactive Skin Assessment Quiz
-- **15 Clinical Questions**: Directly aligned with the research survey covering Demographics, Skin Type, UV Exposure, Sunscreen, Hygiene, Water Intake, Diet, Stress, Genetics, Face Touching, and Sleep.
+- **15 Assessment Questions**: Directly aligned with the research survey covering Demographics, Skin Type, UV Exposure, Sunscreen, Hygiene, Water Intake, Diet, Stress, Genetics, Face Touching, and Sleep.
 - **Multi-Step Stepper**: Smooth animated sections with instant validation.
 
 ### 2. 🩺 Comprehensive AI Diagnostic Report
@@ -19,7 +19,7 @@ An end-to-end **Machine Learning & Dermatological Analytics Platform** that pred
 - **Multi-Dimensional Risk Breakdown**: Visual meters across 5 lifestyle & biological dimensions (Diet, Hydration, Stress, Skincare Defense, Sleep).
 - **Mined Association Rules Matcher**: Identifies specific behavioral trigger combinations mined via the Apriori algorithm.
 - **Personalized 24-Hour Regimen**: Customized Morning (AM) protocol, Night (PM) active treatments, and lifestyle interventions.
-- **Print / PDF Export**: One-click printable medical report layout.
+- **Print / PDF Export**: One-click printable assessment report layout.
 
 ### 3. 📊 ML Research & Analytics Dashboard
 - **Algorithm Benchmark Suite**: Side-by-side performance metrics across 7 models.
